@@ -1,39 +1,39 @@
 - pipeline: "First Buddy CI"
   on: "SCHEDULE"
   refs:
-  - "refs/heads/main"
+    - "refs/heads/main"
   priority: "NORMAL"
   start_date: "2021-12-11T19:35:00Z"
   delay: 5
   fail_on_prepare_env_warning: true
   actions:
-  - action: "Deploy to silly-hawking-e97340"
-    type: "NETLIFY"
-    application_name: "silly-hawking-e97340"
-    site_id: "2c877669-83ed-42fd-83fe-e29cd19b87a8"
-    execute_commands:
-    - "yarn install"
-    - "yarn test"
-    - "yarn build"
-    - "netlify deploy --dir= --prodIfUnlocked"
-    - ""
-    retry_delay: 1
-    retry_count: 2
-    shell: "SH"
-    run_next_parallel: true
-    integration_hash: "VZ7k1oYq9wdL0WmpdjPXgEBG3Q"
-  - action: "Execute: npm test"
-    type: "BUILD"
-    trigger_time: "ON_FAILURE"
-    working_directory: "/buddy/storybook-chromatic"
-    docker_image_name: "library/node"
-    docker_image_tag: "15.0.0"
-    execute_commands:
-    - "yarn install"
-    - "yarn test"
-    volume_mappings:
-    - "/:/buddy/storybook-chromatic"
-    ignore_image_pull_failures: true
-    shell: "BASH"
+    - action: "Deploy to silly-hawking-e97340"
+      type: "NETLIFY"
+      application_name: "silly-hawking-e97340"
+      site_id: "2c877669-83ed-42fd-83fe-e29cd19b87a8"
+      execute_commands:
+        - "yarn install"
+        - "yarn test"
+        - "yarn build-storybook"
+        - "netlify deploy --dir=storybook-static --prodIfUnlocked"
+        - ""
+      retry_delay: 1
+      retry_count: 2
+      shell: "SH"
+      run_next_parallel: true
+      integration_hash: "VZ7k1oYq9wdL0WmpdjPXgEBG3Q"
+    - action: "Execute: yarn test"
+      type: "BUILD"
+      trigger_time: "ON_FAILURE"
+      working_directory: "/buddy/storybook-chromatic"
+      docker_image_name: "library/node"
+      docker_image_tag: "15.0.0"
+      execute_commands:
+        - "yarn install"
+        - "yarn test"
+      volume_mappings:
+        - "/:/buddy/storybook-chromatic"
+      ignore_image_pull_failures: true
+      shell: "BASH"
   trigger_conditions:
-  - trigger_condition: "ON_CHANGE"
+    - trigger_condition: "ON_CHANGE"
