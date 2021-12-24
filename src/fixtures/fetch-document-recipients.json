@@ -1,0 +1,29 @@
+{
+  "message": "ok",
+  "data": [
+    {
+      "_id": "5c9d1af1c3d2433d8e38040c",
+      "document": "Signup Activity",
+      "recipients": ["cbarber@freebirdrides.com", "bkirchen@freebirdrides.com"],
+      "createdAt": "2019-03-28T19:05:21.943Z",
+      "updatedAt": "2019-03-28T19:05:21.943Z",
+      "__v": 0
+    },
+    {
+      "_id": "5c9d1b2bc3d243dbe638040d",
+      "document": "Lead Form",
+      "recipients": ["cbarber@freebirdrides.com", "bkirchen@freebirdrides.com"],
+      "createdAt": "2019-03-28T19:06:19.486Z",
+      "updatedAt": "2019-03-28T19:06:19.486Z",
+      "__v": 0
+    },
+    {
+      "_id": "5c9d1b56c3d24339b838040e",
+      "document": "Partner Sign Up",
+      "recipients": ["cbarber@freebirdrides.com", "bkirchen@freebirdrides.com"],
+      "createdAt": "2019-03-28T19:07:02.896Z",
+      "updatedAt": "2019-03-28T19:07:02.896Z",
+      "__v": 0
+    }
+  ]
+}

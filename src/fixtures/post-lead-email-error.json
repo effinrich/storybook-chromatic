@@ -1,0 +1,15 @@
+{
+  "statusCode": 400,
+  "error": "Bad Request",
+  "message": "\"content\" is required",
+  "validation": {
+    "source": "payload",
+    "keys": [
+      {
+        "path": ["content"],
+        "type": "any.required",
+        "context": { "key": "content", "label": "content" }
+      }
+    ]
+  }
+}

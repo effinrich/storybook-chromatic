@@ -1,0 +1,35 @@
+[
+  {
+    "officialName": null,
+    "type": "depository",
+    "_id": "5e8bdb95b30676188ab5ddc6",
+    "mask": "2075",
+    "name": "CORE ACCOUNT",
+    "user": "5d3b2e5dead897d9ac228417",
+    "__v": 0,
+    "accountId": "10oEKvv101TP96LkKNOmFAYox36VoXim519Lb",
+    "createdAt": "2020-04-07T01:47:01.962Z",
+    "institutionId": "ins_113823",
+    "institutionName": "Credit Union of America",
+    "isSandbox": false,
+    "itemId": "DdPoVAAYdYuY5JMRO39aTjoK4AapeJIZMLDnB",
+    "raw": {
+      "account_id": "10oEKvv101TP96LkKNOmFAYox36VoXim519Lb",
+      "balances": {
+        "available": 1936.51,
+        "current": 1956.37,
+        "iso_currency_code": "USD",
+        "limit": null,
+        "unofficial_currency_code": null
+      },
+      "mask": "2075",
+      "name": "CORE ACCOUNT",
+      "official_name": null,
+      "subtype": "checking",
+      "type": "depository"
+    },
+    "subtype": "checking",
+    "token": "access-production-4c4fbaf1-3f12-4283-84d6-2ec3309471c3",
+    "updatedAt": "2020-04-07T01:47:01.962Z"
+  }
+]

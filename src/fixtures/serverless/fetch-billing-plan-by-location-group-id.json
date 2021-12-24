@@ -1,0 +1,17 @@
+{
+  "enabled": true,
+  "rewardCashServiceFee": 250,
+  "rewardPointsServiceFee": 100,
+  "_id": "5f0cb12fbb3c44aa830a3e7f",
+  "locationGroupId": "5f0ca77443f61d0007216dc1",
+  "partnerId": "5f0ca770b468aa0008a9b39b",
+  "planTypeId": "5f0cb0b2bb3c44aa830a3e7e",
+  "userId": "5f0ca770b468aa0008a9b39c",
+  "updatedAt": "2020-07-21T19:57:13.757Z",
+  "planType": {
+    "isPublic": true,
+    "_id": "5f0cb0b2bb3c44aa830a3e7e",
+    "chargeAmount": 1000
+  },
+  "balance": 500
+}

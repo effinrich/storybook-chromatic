@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "5e55ce5085954e655b7fc5f9",
+    "type": "card",
+    "isDefault": true,
+    "card": {
+      "id": "card_1F2QQDC3F7Ui9PvuQFGT7ghG",
+      "object": "card",
+      "account": "acct_1F1EL7C3F7Ui9Pvu",
+      "address_city": null,
+      "address_country": null,
+      "address_line1": null,
+      "address_line1_check": null,
+      "address_line2": null,
+      "address_state": null,
+      "address_zip": null,
+      "address_zip_check": null,
+      "available_payout_methods": ["standard", "instant"],
+      "brand": "Visa",
+      "country": "US",
+      "currency": "usd",
+      "cvc_check": "pass",
+      "default_for_currency": true,
+      "dynamic_last4": null,
+      "exp_month": 3,
+      "exp_year": 2022,
+      "fingerprint": "H4SkwKKPQ5SgM8x0",
+      "funding": "debit",
+      "last4": "9321",
+      "name": null,
+      "tokenization_method": null
+    }
+  }
+]

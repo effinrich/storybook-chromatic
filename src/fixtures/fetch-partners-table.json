@@ -1,0 +1,56 @@
+{
+  "page": 1,
+  "pageSize": 5,
+  "totalItems": 9,
+  "totalPages": 2,
+  "skipped": 0,
+  "sortedBy": null,
+  "sortDirection": 1,
+  "results": [
+    {
+      "_id": "5e2a22aaabfa2600085d917b",
+      "name": "O Sushi",
+      "registrationId": "5e2a220b9788c50008f5b9b0",
+      "createdAt": "2020-01-23T22:48:10.496Z",
+      "updatedAt": "2020-01-23T22:48:10.660Z",
+      "__v": 0,
+      "ownerId": "5e2a22aaabfa2600085d917c"
+    },
+    {
+      "_id": "5e2a2488abfa2600085d917d",
+      "name": "BurgerIM",
+      "registrationId": "5e2a247f9788c50008f5b9b4",
+      "createdAt": "2020-01-23T22:56:08.698Z",
+      "updatedAt": "2020-01-23T22:56:08.889Z",
+      "__v": 0,
+      "ownerId": "5e2a2488abfa2600085d917e"
+    },
+    {
+      "_id": "5e2b664b77ffda000ad4b94f",
+      "name": "Test",
+      "registrationId": "5e2b6607e49b4f0008c3a71b",
+      "createdAt": "2020-01-24T21:48:59.015Z",
+      "updatedAt": "2020-01-24T21:48:59.138Z",
+      "__v": 0,
+      "ownerId": "5e2b664b77ffda000ad4b950"
+    },
+    {
+      "_id": "5e2b6e84c96db00007f938e3",
+      "name": "O sushi",
+      "registrationId": "5e2b6e4af4709d0007c2726f",
+      "createdAt": "2020-01-24T22:24:04.840Z",
+      "updatedAt": "2020-01-24T22:24:04.973Z",
+      "__v": 0,
+      "ownerId": "5e2b6e84c96db00007f938e4"
+    },
+    {
+      "_id": "5e2b769dda21410008a8af19",
+      "name": "Sushi 661",
+      "registrationId": "5e2b7680d8237d0008e9ca0c",
+      "createdAt": "2020-01-24T22:58:37.475Z",
+      "updatedAt": "2020-01-24T22:58:37.754Z",
+      "__v": 0,
+      "ownerId": "5e2b769dda21410008a8af1a"
+    }
+  ]
+}

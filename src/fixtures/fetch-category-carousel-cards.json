@@ -1,0 +1,71 @@
+{
+  "message": "ok",
+  "data": [
+    {
+      "_id": "erewfwrwefwefefwefwf6",
+      "sponsored": true,
+      "subsidized": false,
+      "points": true,
+      "cashOnly": false,
+      "currentlyOpen": false,
+      "priceLevels": [1, 2, 3],
+      "categories": [],
+      "name": "test card",
+      "minDist": 5,
+      "maxDist": 25,
+      "photos": [
+        {
+          "_id": "59a859f7a016b8031be9d5e9",
+          "timestamp": "2017-08-31T18:48:23.425Z",
+          "isPrimary": true,
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAGf582VBL_XV_eepUchLOJ0sDcZSjvERaX706uSLTbzKl9La31XqQUvEX4WiQVF3m106xhsmpi74KwqDdMrpCmtxH5c6SFVRdwJt1Gl2_jxm3wBwlTKsHR5EebZdEoacmEhBgVNv52p9JFpf2M5zlraXmGhSGaZsQWpXw4dA7MSmm8IDSp9-UnQ&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "_id": "erewfwrwefwefefwefwf7",
+      "sponsored": true,
+      "subsidized": false,
+      "points": true,
+      "cashOnly": false,
+      "currentlyOpen": false,
+      "priceLevels": [1, 2, 3],
+      "categories": [],
+      "name": "test card",
+      "minDist": 5,
+      "maxDist": 25,
+      "photos": [
+        {
+          "_id": "59a859f7a016b8031be9d5e9",
+          "timestamp": "2017-08-31T18:48:23.425Z",
+          "isPrimary": true,
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAGf582VBL_XV_eepUchLOJ0sDcZSjvERaX706uSLTbzKl9La31XqQUvEX4WiQVF3m106xhsmpi74KwqDdMrpCmtxH5c6SFVRdwJt1Gl2_jxm3wBwlTKsHR5EebZdEoacmEhBgVNv52p9JFpf2M5zlraXmGhSGaZsQWpXw4dA7MSmm8IDSp9-UnQ&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "_id": "erewfwrwefwefefwefwf8",
+      "sponsored": true,
+      "subsidized": false,
+      "points": true,
+      "cashOnly": false,
+      "currentlyOpen": false,
+      "priceLevels": [1, 2, 3],
+      "categories": [],
+      "name": "test card",
+      "minDist": 5,
+      "maxDist": 25,
+      "photos": [
+        {
+          "_id": "59a859f7a016b8031be9d5e9",
+          "timestamp": "2017-08-31T18:48:23.425Z",
+          "isPrimary": true,
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAGf582VBL_XV_eepUchLOJ0sDcZSjvERaX706uSLTbzKl9La31XqQUvEX4WiQVF3m106xhsmpi74KwqDdMrpCmtxH5c6SFVRdwJt1Gl2_jxm3wBwlTKsHR5EebZdEoacmEhBgVNv52p9JFpf2M5zlraXmGhSGaZsQWpXw4dA7MSmm8IDSp9-UnQ&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+        }
+      ],
+      "enabled": true
+    }
+  ]
+}

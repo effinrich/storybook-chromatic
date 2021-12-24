@@ -1,0 +1,36 @@
+{
+  "page": 1,
+  "pageSize": 10,
+  "totalItems": 2,
+  "totalPages": 1,
+  "skipped": 0,
+  "sort": {},
+  "results": [
+    {
+      "_id": "19936b7e19a72d9ac6529cf0",
+      "createdAt": "1970-01-19T07:37:40.571Z",
+      "destinationGeo": [-118.4808773, 33.9995133],
+      "eventStatus": "uberHydrated",
+      "pickupGeo": [-118.47846, 33.9968333],
+      "productName": "UberX",
+      "rideId": "099dbd05-f9da-4cb2-9c94-0eea67cb56f7",
+      "riderId": "ca1643c6-2564-4111-9f66-fce7be0a0112",
+      "userId": "58f306525f5b6000443ba5d4",
+      "state": "droppedoff",
+      "updatedAt": "2020-02-25T20:03:23.052Z"
+    },
+    {
+      "_id": "6a870c2b0094d1de8bfb75f9",
+      "createdAt": "1970-01-19T03:56:15.714Z",
+      "destinationGeo": [-118.4808773, 33.9995133],
+      "eventStatus": "uberHydrated",
+      "pickupGeo": [-118.4782, 33.99723],
+      "productName": "UberX",
+      "rideId": "3e014fe5-d06f-5933-a94e-daf0e1055a7a",
+      "riderId": "ca1643c6-2564-4111-9f66-fce7be0a0112",
+      "userId": "58f306525f5b6000443ba5d4",
+      "state": "rider_canceled",
+      "updatedAt": "2020-02-25T21:00:21.471Z"
+    }
+  ]
+}

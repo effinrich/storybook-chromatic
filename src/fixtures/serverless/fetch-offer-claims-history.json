@@ -1,0 +1,44 @@
+{
+  "page": 1,
+  "pageSize": 10,
+  "totalItems": 2,
+  "totalPages": 1,
+  "skipped": 0,
+  "sort": {},
+  "results": [
+    {
+      "createdAt": "2020-02-19T19:18:39.987Z",
+      "destinationAddress": "4111 Wade St, Los Angeles, CA 90066",
+      "destinationName": "4111 Wade St",
+      "expiresAt": "2020-02-19T21:39:42.293Z",
+      "locationId": "590388a33e0d4e0047985560",
+      "locationGeo": [-118.4814401, 34.0001747],
+      "rewardCash": 0,
+      "rewardPoints": 250,
+      "status": "expired",
+      "tripId": null,
+      "updatedAt": "2020-02-19T21:39:53.320Z",
+      "_id": "ec5c0a7c008d15364800d80c",
+      "destinationGeo": [-118.4347726, 33.9946809],
+      "offerId": "5a302b4adf8da9ad5766632f",
+      "userId": "58f306525f5b6000443ba5d4"
+    },
+    {
+      "createdAt": "2020-02-25T19:55:08.907Z",
+      "destinationAddress": "2901 Main St, Santa Monica, CA",
+      "destinationName": "The Coffee Bean & Tea Leaf",
+      "expiresAt": "2020-02-25T21:55:08.901Z",
+      "locationId": "5e33602d93ec1db651ae9b98",
+      "locationGeo": [-118.4808773, 33.9995133],
+      "rewardCash": 400,
+      "rewardPoints": 0,
+      "status": "tripMatched",
+      "tripId": "19936b7e19a72d9ac6529cf0",
+      "updatedAt": "2020-02-25T19:59:22.728Z",
+      "_id": "2fabc53488b8bee4bccdca58",
+      "destinationGeo": [-118.4808773, 33.9995133],
+      "offerId": "5e55768ee0aea829b4599190",
+      "userId": "58f306525f5b6000443ba5d4"
+    }
+  ]
+}

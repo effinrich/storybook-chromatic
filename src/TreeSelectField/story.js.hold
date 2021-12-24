@@ -1,0 +1,106 @@
+import React from 'react'
+import { storiesOf } from '@storybook/react'
+import { action } from '@storybook/addon-actions'
+
+import Decorator from 'utils/storybook'
+import { Padding } from 'components/StoryDecorators'
+import MockReduxFormField from 'utils/testing/MockReduxFormField'
+import fetchCategoriesFixture from 'fixtures/fetch-categories.json'
+
+import TreeSelectField from '.'
+
+storiesOf('TreeSelectField', module)
+  .addDecorator(Decorator)
+  .add('naked story', () => (
+    <Padding>
+      <MockReduxFormField>
+        <TreeSelectField
+          label="This is a label"
+          // placeholder="Choose at up to 2 categories..."
+          input={{ name: 'TreeSelectField' }}
+          // onChange={action('onChange')}
+          treeData={fetchCategoriesFixture}
+          treeCheckable
+          maxTagCount={2}
+          showCheckedStrategy={'SHOW_PARENT'}
+          allowClear
+          style={{
+            width: '100%'
+          }}
+          treeNodeFilterProp="title"
+          width={1}
+        />
+      </MockReduxFormField>
+    </Padding>
+  ))
+  .add('untouched w/ error', () => (
+    <Padding>
+      <MockReduxFormField>
+        <TreeSelectField
+          label="Label"
+          input={{ name: 'TreeSelectField' }}
+          onChange={action('onChange')}
+          treeData={fetchCategoriesFixture}
+          meta={{
+            error:
+              'This is a super long mega crazy extravagantly huge Error Message'
+          }}
+        />
+      </MockReduxFormField>
+    </Padding>
+  ))
+  .add('untouched w/ warning', () => (
+    <Padding>
+      <MockReduxFormField>
+        <TreeSelectField
+          label="Label"
+          placeholder="Placeholder"
+          input={{ name: 'TreeSelectField' }}
+          onChange={action('onChange')}
+          treeData={fetchCategoriesFixture}
+          meta={{ warning: 'Warning Message' }}
+        />
+      </MockReduxFormField>
+    </Padding>
+  ))
+  .add('touched w/ error', () => (
+    <Padding>
+      <MockReduxFormField>
+        <TreeSelectField
+          label="Label"
+          placeholder="Placeholder"
+          input={{ name: 'TreeSelectField', value: 'CA' }}
+          onChange={action('onChange')}
+          treeData={fetchCategoriesFixture}
+          meta={{
+            touched: true,
+            error:
+              'This is a super long mega crazy extravagantly huge Error Message'
+          }}
+        />
+      </MockReduxFormField>
+    </Padding>
+  ))
+  .add('touched w/ warning', () => (
+    <Padding>
+      <MockReduxFormField>
+        <TreeSelectField
+          label="Label"
+          treeCheckable
+          placeholder="Choose at up to 2 categories..."
+          maxTagCount={2}
+          showCheckedStrategy={'SHOW_PARENT'}
+          allowClear
+          style={{
+            width: '100%'
+          }}
+          treeNodeFilterProp="title"
+          input={{ name: 'TreeSelectField', value: 'CA' }}
+          onChange={action('onChange')}
+          treeData={fetchCategoriesFixture}
+          meta={{ touched: true, warning: 'Warning Message' }}
+          width={1}
+        />
+      </MockReduxFormField>
+    </Padding>
+  ))

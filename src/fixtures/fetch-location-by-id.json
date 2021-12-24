@@ -1,0 +1,696 @@
+{
+  "message": "ok",
+  "data": [
+    {
+      "phone": { "mobile": null, "work": "(310) 392-2122" },
+      "statementDescriptor": {
+        "plaid": { "words": ["bareburger", "bare"], "name": "Bareburger" }
+      },
+      "user": {
+        "session": { "appsFlyerDeviceId": null },
+        "interestedBars": { "true": [], "false": [] },
+        "interestedRestaurants": { "true": [], "false": [] },
+        "updates": {
+          "promotions": ["email", "push"],
+          "mobile": ["email", "push"],
+          "recommendations": ["email", "push"]
+        },
+        "profile": {
+          "dob": { "month": "1", "day": "1", "year": "2077" },
+          "isAllowedToTakeRides": true,
+          "isNearLocation": false,
+          "isRideHomeSponsored": false,
+          "company": "1976",
+          "picture": [],
+          "name": "Richard Tillman"
+        },
+        "activity": {
+          "loginCount": 0,
+          "rideCount": 0,
+          "dateEstablished": "2019-07-18T00:20:50.232Z",
+          "lastLogin": "2019-07-18T00:20:50.232Z",
+          "nextEmailScheduleDate": "2019-07-18T00:20:50.232Z"
+        },
+        "group": { "splitTestabc": "c", "splitTestABCD": "B" },
+        "enhancedSecurity": { "enabled": false },
+        "lyft": {
+          "firstName": null,
+          "hasTakenARide": false,
+          "id": null,
+          "lastName": null,
+          "token": null,
+          "refreshToken": null,
+          "email": null
+        },
+        "uber": {
+          "home": { "address": null, "google": null },
+          "work": { "address": null, "google": null },
+          "firstName": null,
+          "lastName": null,
+          "email": null,
+          "mobileVerified": true,
+          "picture": null,
+          "promoCode": null,
+          "riderId": null,
+          "uuid": null,
+          "token": null,
+          "refreshToken": null,
+          "updated": "2019-07-18T00:21:55.708Z"
+        },
+        "stripe": {
+          "paymentMethods": [],
+          "externalAccounts": [],
+          "hasLinkedExternalOnce": false,
+          "verified": false
+        },
+        "plaid": {
+          "hasLinkedOnce": false,
+          "accounts": [],
+          "transactions": [],
+          "webhook": "https://dev-webhooks.freebirdrides.com/plaid"
+        },
+        "empyr": { "accounts": [] },
+        "activeCampaigns": { "home": { "setAt": "2019-07-18T00:20:50.238Z" } },
+        "features": { "showMap": false },
+        "env": "development",
+        "inApp": false,
+        "isRideHistoryRetrieved": false,
+        "hasRedeemableRides": false,
+        "roles": ["freebird", "partner"],
+        "rideHistoryCount": 0,
+        "rideHistoryState": "noHistory",
+        "rideHailingPlatform": "uber",
+        "status": 10,
+        "terms": true,
+        "balance": 0,
+        "points": 0,
+        "parent": null,
+        "inviteLink": "https://freebird.onelink.me/PN5f",
+        "devices": [],
+        "locale": "en-US",
+        "notificationPreferences": ["sms", "push", "email"],
+        "tier": 1,
+        "watchPartyCode": null,
+        "isBanned": false,
+        "isInSeededMarket": true,
+        "_id": "5d2fbb620e595f004da63715",
+        "email": "rich.tillman@gmail.com",
+        "inviteCode": "h9e78",
+        "createdAt": "2019-07-18T00:20:50.264Z",
+        "updatedAt": "2019-07-18T00:21:55.708Z",
+        "__v": 1,
+        "organization": "5d2fbb640e595f004da63717",
+        "resetPasswordExpires": "2019-07-18T04:20:53.052Z",
+        "resetPasswordToken": null,
+        "lastUpdatedBy": "5d2fbb620e595f004da63715",
+        "partnerSignupDate": "2019-07-18T00:21:55.699Z",
+        "isOwner": true,
+        "riderId": null,
+        "firstName": null,
+        "lastName": null,
+        "availableEmail": "rich.tillman@gmail.com",
+        "needsLyftAuthentication": true,
+        "needsUberAuthentication": true,
+        "cashBalance": 0,
+        "age": -57,
+        "id": "5d2fbb620e595f004da63715",
+        "totalAvailableOffers": 0,
+        "isTester": false
+      },
+      "organization": "5d2fbb640e595f004da63717",
+      "activationCode": null,
+      "mid": null,
+      "name": "Bareburger",
+      "address": "2732 Main St",
+      "city": "Santa Monica",
+      "state": "CA",
+      "zipcode": "90405",
+      "categories": [
+        {
+          "id": null,
+          "name": "Burgers",
+          "pluralName": "Burgers",
+          "shortName": "Burgers",
+          "categories": [],
+          "source": "factual",
+          "deleted": false,
+          "_id": "5cb6d7279bf74f3353b12d93",
+          "parentCategory": "5cb6d7269bf74f3353b12c47"
+        },
+        {
+          "id": null,
+          "name": "Bar",
+          "pluralName": "Bar",
+          "shortName": "Bar",
+          "categories": [
+            "5cb6d7269bf74f3353b12c19",
+            "5cb6d7269bf74f3353b12c52",
+            "5cb6d7279bf74f3353b12c71",
+            "5cb6d7289bf74f3353b12db2",
+            "5cb6d7289bf74f3353b12dc9",
+            "5cb6d7289bf74f3353b12de0",
+            "5cb6d7289bf74f3353b12e14",
+            "5cb6d7289bf74f3353b12e57",
+            "5cb6d7299bf74f3353b12eb4",
+            "5cb6d7299bf74f3353b12f92",
+            "5cb6d7299bf74f3353b12fbd",
+            "5cb6d7299bf74f3353b12fc8",
+            "5cb6d7299bf74f3353b12fd5",
+            "5cb6d72a9bf74f3353b130b3",
+            "5cb6d72a9bf74f3353b130c8",
+            "5cb6d72b9bf74f3353b13210",
+            "5cb6d72b9bf74f3353b13261",
+            "5cb6d72b9bf74f3353b13278",
+            "5cb6d72c9bf74f3353b13303",
+            "5cb6d72c9bf74f3353b13317",
+            "5cb6d72c9bf74f3353b1336e",
+            "5cb6d72c9bf74f3353b13378",
+            "5cb6d72c9bf74f3353b133bf",
+            "5cb6d72e9bf74f3353b134a5",
+            "5cb6d72e9bf74f3353b134b9",
+            "5cb6d7309bf74f3353b1365f",
+            "5cb6d7309bf74f3353b136ee",
+            "5cb6d7339bf74f3353b13a79",
+            "5cb6d7339bf74f3353b13c1f"
+          ],
+          "source": "foursquare",
+          "deleted": false,
+          "_id": "5cb6d7269bf74f3353b12c3d",
+          "parentCategory": "5903822e3e0d4e0047985511"
+        }
+      ],
+      "geo": [-118.482042447618, 34.0003044532899],
+      "coordinates": [],
+      "contacts": [],
+      "cuisines": [],
+      "tags": [],
+      "branchLink": "https://my.fbird.co/HtsDzzwIIL",
+      "utc": "-07:00",
+      "customHours": false,
+      "waitlist": [],
+      "place": {
+        "url": {
+          "website": "https://bareburger.com",
+          "menu": "https://foursquare.com/v/56ad38f1498e4f5180f05342/device_menu"
+        },
+        "categories": [
+          {
+            "primary": true,
+            "icon": {
+              "suffix": ".png",
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_"
+            },
+            "shortName": "Burgers",
+            "pluralName": "Burger Joints",
+            "name": "Burger Joint",
+            "id": "4bf58dd8d48988d16c941735"
+          }
+        ],
+        "permanentlyClosed": false,
+        "weekdayText": [
+          "Monday: 11:30 AM – 10:00 PM",
+          "Tuesday: 11:30 AM – 10:00 PM",
+          "Wednesday: 11:30 AM – 10:00 PM",
+          "Thursday: 11:30 AM – 10:00 PM",
+          "Friday: 11:30 AM – 11:00 PM",
+          "Saturday: 10:00 AM – 11:00 PM",
+          "Sunday: 10:00 AM – 10:00 PM"
+        ],
+        "priceLevel": 2,
+        "rating": 4,
+        "score": "foursquare",
+        "utc": "-08:00",
+        "_id": "58ceacc2a1fd30d7cf66841b",
+        "id": "ChIJGcvlSdK6woARd-LBbhjnCvU",
+        "__v": 0,
+        "updatedAt": "2019-08-27T00:49:13.722Z",
+        "reviews": [
+          {
+            "text": "Fantastic collard greens  wrapped burgers. I know it's healthy so assume yuck. But actually really great flavor.",
+            "relativeTimeDescription": "Apr 7 2016",
+            "createdAt": "2016-04-07T20:30:53.000Z",
+            "profilePhotoURL": "https://igx.4sqi.net/img/user/135x135/INRTVDDDE40MGI2Q.jpg",
+            "authorName": "Nicole",
+            "_id": "5a3dc411d8fb110001aad352"
+          },
+          {
+            "text": "Despite the name and branding, not everything here is organic. You can ask for an info sheet that tells you what is and isn't, though.",
+            "relativeTimeDescription": "Apr 10 2017",
+            "createdAt": "2017-04-10T15:49:46.000Z",
+            "profilePhotoURL": "https://igx.4sqi.net/img/user/135x135/1392145-PYX2BQ4RTXMDX3EX.jpg",
+            "authorName": "Nate",
+            "_id": "5a3dc411d8fb110001aad351"
+          },
+          {
+            "text": "Interesting taste of Cococado shake!:) not for drink but good as desert! Burger with bison was too simple without special taste and totally below expectation!",
+            "relativeTimeDescription": "Sep 12 2016",
+            "createdAt": "2016-09-12T01:07:46.000Z",
+            "profilePhotoURL": "https://igx.4sqi.net/img/user/135x135/19378682-DURQ0A0CKOE3VREL.jpg",
+            "authorName": "Maria",
+            "_id": "5a3dc411d8fb110001aad350"
+          },
+          {
+            "text": "Great vegetarian and vegan options! Pictured is the vegetarian Shroomie-Legumie with mushroom lentil burger, manchego cheese, crispy onions on a sprout bun.",
+            "relativeTimeDescription": "Sep 11 2016",
+            "createdAt": "2016-09-11T18:24:18.000Z",
+            "profilePhotoURL": "https://igx.4sqi.net/img/user/135x135/HPAJTRI14HESEL3O.jpg",
+            "authorName": "Rachel",
+            "_id": "5a3dc411d8fb110001aad34f"
+          },
+          {
+            "text": "Fancy burgers, including with non usual meat (bison, elk,...). Good service and slightly expensive - but hey you're in Santa Monica !",
+            "relativeTimeDescription": "Aug 23 2016",
+            "createdAt": "2016-08-23T04:44:17.000Z",
+            "profilePhotoURL": "https://igx.4sqi.net/img/user/135x135/25924490-1VHYD4RQD0NUTZYI.jpg",
+            "authorName": "Jorg",
+            "_id": "5a3dc411d8fb110001aad34e"
+          },
+          {
+            "text": "I like to have the menus with the calorie count 😉 The veggy wrap was tasty and light. There are also veggy burgers. Get a table by the window and watch the cute surfers walk by.",
+            "relativeTimeDescription": "Jul 29 2016",
+            "createdAt": "2016-07-29T01:45:37.000Z",
+            "profilePhotoURL": "https://igx.4sqi.net/img/user/135x135/WHOT2MDQM2NS03AN.jpg",
+            "authorName": "José",
+            "_id": "5a3dc411d8fb110001aad34d"
+          },
+          {
+            "text": "Make your own burger. Elk burger with brioche!",
+            "relativeTimeDescription": "Jun 12 2016",
+            "createdAt": "2016-06-12T06:34:01.000Z",
+            "profilePhotoURL": "https://igx.4sqi.net/img/user/135x135/53917565-IP3NOAAY0FTUEQND.jpg",
+            "authorName": "Bea",
+            "_id": "5a3dc411d8fb110001aad34c"
+          },
+          {
+            "text": "Grain based salads are great!",
+            "relativeTimeDescription": "Mar 31 2016",
+            "createdAt": "2016-03-31T21:05:54.000Z",
+            "profilePhotoURL": "https://igx.4sqi.net/img/user/135x135/38068654-BKDI13RMJIL0FY40.jpg",
+            "authorName": "Anna",
+            "_id": "5a3dc411d8fb110001aad34b"
+          },
+          {
+            "text": "Great selection of burgers- interesting meats including elk, boar, and duck. For Veggie friendly options- try the mushroom&lentil burger topped with vegan cheddar!",
+            "relativeTimeDescription": "Mar 29 2016",
+            "createdAt": "2016-03-29T03:16:16.000Z",
+            "profilePhotoURL": "https://igx.4sqi.net/img/user/135x135/134611623_-U6nhpXD_LV3ZEnDhIjWatpwWQEU3hYdj7YWVZG_d8uDncL5MfQCPzJ4RurgYkQ6Z_fc2OK2M.jpg",
+            "authorName": "Joanna",
+            "_id": "5a3dc411d8fb110001aad34a"
+          },
+          {
+            "text": "Good drinks including beer and a full bar. Burgers are handled with care and the Meats are down right exotic with choices including elk, duck, and wild boar along with the typical grass fed beef.",
+            "relativeTimeDescription": "Mar 9 2016",
+            "createdAt": "2016-03-09T08:15:37.000Z",
+            "profilePhotoURL": "https://igx.4sqi.net/img/user/135x135/N3CXH11AL2LEPWBR.jpg",
+            "authorName": "Michael",
+            "_id": "5a3dc411d8fb110001aad349"
+          },
+          {
+            "text": "10/10 great place",
+            "relativeTimeDescription": "Feb 7 2016",
+            "createdAt": "2016-02-07T21:27:47.000Z",
+            "profilePhotoURL": "https://igx.4sqi.net/img/user/135x135/149017604-XISZAGNKOJBZ0HFQ.jpg",
+            "authorName": "Tomas",
+            "_id": "5a3dc411d8fb110001aad348"
+          },
+          {
+            "text": "Everything",
+            "relativeTimeDescription": "Feb 7 2016",
+            "createdAt": "2016-02-07T21:25:22.000Z",
+            "profilePhotoURL": "https://igx.4sqi.net/img/user/135x135/149017604-XISZAGNKOJBZ0HFQ.jpg",
+            "authorName": "Tomas",
+            "_id": "5a3dc411d8fb110001aad347"
+          },
+          {
+            "text": "Supreme Burger rocks!",
+            "relativeTimeDescription": "Feb 7 2016",
+            "createdAt": "2016-02-07T21:24:45.000Z",
+            "profilePhotoURL": "https://igx.4sqi.net/img/user/135x135/149017604-XISZAGNKOJBZ0HFQ.jpg",
+            "authorName": "Tomas",
+            "_id": "5a3dc411d8fb110001aad346"
+          },
+          {
+            "text": "Awsome burgers, great service and kick-ass style!",
+            "relativeTimeDescription": "Feb 7 2016",
+            "createdAt": "2016-02-07T21:24:06.000Z",
+            "profilePhotoURL": "https://igx.4sqi.net/img/user/135x135/149017604-XISZAGNKOJBZ0HFQ.jpg",
+            "authorName": "Tomas",
+            "_id": "5a3dc411d8fb110001aad345"
+          }
+        ],
+        "openingHours": [
+          {
+            "open": { "day": 0, "time": 1000 },
+            "close": { "day": 0, "time": 2200 },
+            "_id": "5a3dc412d8fb110001aad359"
+          },
+          {
+            "open": { "day": 1, "time": 1130 },
+            "close": { "day": 1, "time": 2200 },
+            "_id": "5a3dc412d8fb110001aad358"
+          },
+          {
+            "open": { "day": 2, "time": 1130 },
+            "close": { "day": 2, "time": 2200 },
+            "_id": "5a3dc412d8fb110001aad357"
+          },
+          {
+            "open": { "day": 3, "time": 1130 },
+            "close": { "day": 3, "time": 2200 },
+            "_id": "5a3dc412d8fb110001aad356"
+          },
+          {
+            "open": { "day": 4, "time": 1130 },
+            "close": { "day": 4, "time": 2200 },
+            "_id": "5a3dc412d8fb110001aad355"
+          },
+          {
+            "open": { "day": 5, "time": 1130 },
+            "close": { "day": 5, "time": 2300 },
+            "_id": "5a3dc412d8fb110001aad354"
+          },
+          {
+            "open": { "day": 6, "time": 1000 },
+            "close": { "day": 6, "time": 2300 },
+            "_id": "5a3dc412d8fb110001aad353"
+          }
+        ],
+        "createdAt": "2017-07-12T01:21:23.123Z",
+        "google": {
+          "place_id": "ChIJGcvlSdK6woARd-LBbhjnCvU",
+          "id": "ChIJGcvlSdK6woARd-LBbhjnCvU"
+        },
+        "market": "5ba53a84f65a7d002da2098c",
+        "factualRestaurant": "5bcf77f7633fe532b61ad115"
+      },
+      "paymentMethod": {
+        "bank_account": {
+          "country": null,
+          "bank_name": null,
+          "last4": null,
+          "validated": false,
+          "object": "bank_account"
+        },
+        "card": {
+          "name": "Richard Tillman",
+          "address_line1": null,
+          "address_line2": null,
+          "address_city": null,
+          "address_state": null,
+          "address_zip": "91351",
+          "address_country": null,
+          "country": "US",
+          "exp_month": 10,
+          "exp_year": 2021,
+          "last4": "8577",
+          "object": "card",
+          "brand": "Visa",
+          "funding": "debit"
+        },
+        "isDefault": true,
+        "livemode": true,
+        "type": "card",
+        "fingerprint": "a8dSKbh1cexKkD1o",
+        "object": "token",
+        "used": false,
+        "isValid": true,
+        "_id": "5d2fbb640e595f004da63716",
+        "id": "card_1ExNMcBa3UTfvq8h0WyVQub0",
+        "created": "1970-01-19T02:16:49.250Z",
+        "user": "5d2fbb620e595f004da63715",
+        "createdAt": "2019-07-18T00:20:52.271Z",
+        "updatedAt": "2019-07-18T00:20:52.283Z",
+        "__v": 0,
+        "organization": "5d2fbb640e595f004da63717"
+      },
+      "shortDescription": "",
+      "description": "We make delicious things and then you eat them.  🐻🍔",
+      "filters": ["Vegan"],
+      "trialExpirationWarning": false,
+      "partner": true,
+      "featured": false,
+      "isPartnerSignup": false,
+      "_id": "581a4eb444a9810001a715bd",
+      "status": 10,
+      "hours": [
+        {
+          "open": { "day": 0, "time": 1000 },
+          "close": { "day": 0, "time": 2205 },
+          "_id": "5d647e43cb8218b468ad13e3"
+        },
+        {
+          "open": { "day": 1, "time": 1130 },
+          "close": { "day": 1, "time": 2200 },
+          "_id": "5d647e43cb8218b468ad13e2"
+        },
+        {
+          "open": { "day": 2, "time": 1130 },
+          "close": { "day": 2, "time": 2200 },
+          "_id": "5d647e43cb8218b468ad13e1"
+        },
+        {
+          "open": { "day": 3, "time": 1130 },
+          "close": { "day": 3, "time": 2200 },
+          "_id": "5d647e43cb8218b468ad13e0"
+        },
+        {
+          "open": { "day": 4, "time": 1130 },
+          "close": { "day": 4, "time": 2200 },
+          "_id": "5d647e43cb8218b468ad13df"
+        },
+        {
+          "open": { "day": 5, "time": 1130 },
+          "close": { "day": 5, "time": 2300 },
+          "_id": "5d647e43cb8218b468ad13de"
+        },
+        {
+          "open": { "day": 6, "time": 1000 },
+          "close": { "day": 6, "time": 2300 },
+          "_id": "5d647e43cb8218b468ad13dd"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAcZQfC5M4VCUN0wrJZ4IBroE_MEe8iO5u3p8vOO-_ulQJqmYkEYuhj9S0uSTndUYjE24RKgmd6YL2hgfqm4vAqFrzhAXeRmquJeGRgj_inrLcwg_ydfv_9VlyRPm09LycEhCVGTdxOPwuR8PUbWybzTVYGhSmeKjlJN0KAQJU7ht8zf-5et0Ziw&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg",
+          "isPrimary": true,
+          "timestamp": "2019-08-27T00:50:11.379Z",
+          "_id": "5d647e43cb8218b468ad13dc"
+        },
+        {
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAWdQvaUbYNPtN2kij_Dt6zZnTOd4M7oQkXm4pmSNj4-aLtMadJSFmFvhVPaUch13l21cld9a45Cz8hRP3-b3YDLYKecCG70Sa4dF-dpWDHsmh2PvYvTQliqv9vA-TJ-i3EhBSnrzRheslNimKtmk1zcusGhQFMPsw6QrQYuYLRk5ngFlrhBzkpw&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg",
+          "isPrimary": false,
+          "timestamp": "2019-08-27T00:50:11.379Z",
+          "_id": "5d647e43cb8218b468ad13db"
+        },
+        {
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAn6bkPemzb_sFYfdIkUtzC2H2fHNF3vJwOPSgHK67Yb2wVIWsE7Br7mbsOCPOjDuXmnr9i4NEkfpWXc1l6KZYZIU9PcbLYXsP_JQWPimEIGNMBix-qsv2KSmwSEXnEtL6EhAtKqlectl38D6Y0tHSXnC3GhQq1KmtZozocj7RQ4BXCptWdvZJyw&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg",
+          "isPrimary": false,
+          "timestamp": "2019-08-27T00:50:11.379Z",
+          "_id": "5d647e43cb8218b468ad13da"
+        },
+        {
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAA7g-tR1t7do9z7Op0fWl5Em4sID1gi3huW498_x6EcfW02S8oNka_wlJvgORzlgzY2NAkufH9vPf7Aai2XZA7AxTrkLvz1b9LiDGKU6wfBvPJaL4zqDyYOdwtMjDeQOabEhADDLfFPQZXPAdo-BFGufA5GhSefDF8A7OtqEmeOkJrO7uG_kjN2g&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg",
+          "isPrimary": false,
+          "timestamp": "2019-08-27T00:50:11.379Z",
+          "_id": "5d647e43cb8218b468ad13d9"
+        },
+        {
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAECVEIpuhPBn8bJU3msFtxex5cMhiDxZm8mAcxTX16HwIWFD-DeuhmWSzi4Hy5I7bntwxPxd30ulNRNjND3RXU_VLPG-od1b4w3dFoPFL23AAcjcifKHKTQH4v2vEaCXgEhA6T9oJUMi13LVuUfIhu9WNGhQAN2FRcT2AYeMSEAiSR5SCNlZr3A&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg",
+          "isPrimary": false,
+          "timestamp": "2019-08-27T00:50:11.378Z",
+          "_id": "5d647e43cb8218b468ad13d8"
+        },
+        {
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAPnPw_TZpL90R4ZhWh4cl5RaOhUaG-xggieWo-LaYR-l2N2ItqjmHFqMAbrGtMO56EYdDoOu-LgVZbcR3ZsBlfFJ729IHsEUcITvzriinka4bz-NPYp-KwlI6ukPiFaCdEhD7zx0aTty9iDXKZ69IoujpGhR4Lw9IVzgT00iYcUDY6oqs0Ahd9w&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg",
+          "isPrimary": false,
+          "timestamp": "2019-08-27T00:50:11.378Z",
+          "_id": "5d647e43cb8218b468ad13d7"
+        },
+        {
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAXYBBN1RH7ob35WTHSU206r1y7bgZsNuhN_40nLZjGcZpL9h393dDqGNdEGWbyEeuXK5SkwP-wbPduVmRRgR-GF3Sy4mnUjfhDXQkHCY99NHJkMW4JUGSL1Z51JMdbR8dEhA1jjI6xqgEL1r8QM-bo6PpGhQveQ-RyJStmnDoln79OjPc1u_kPw&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg",
+          "isPrimary": false,
+          "timestamp": "2019-08-27T00:50:11.378Z",
+          "_id": "5d647e43cb8218b468ad13d6"
+        },
+        {
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAyvgL-Nz-knNnLBOLLhK98s-6dEU9-JIjQl4VK0tD0smi-DXNSs_OaY9UCKLWKl27h7j7K5eKNr67d2J0ZvhpE8-Vu2LZV5QYBwSrL2goVyRmaUz4ebAtH15QnmZkeFuBEhB6l4Svyq35WVh-XJQUQuFOGhSBn8wHmxVsLXgRHGAus-a1NCJgQw&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg",
+          "isPrimary": false,
+          "timestamp": "2019-08-27T00:50:11.378Z",
+          "_id": "5d647e43cb8218b468ad13d5"
+        },
+        {
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAADmNq22-VqytqInZk195U6vat_zSM0sBZEVR9_garej9bCftztQGQiwMfdLPxgzS5I0I79Mh38-tlc6ExilqrUVwKLORxx6mNRZn6YtHd5emF_PU0y4l67Nl9dtPo5KWLEhCrPrR0v6I2S_qC4JjdJUkdGhQaA1PRI-cebok3UisGXtkV7q09Dw&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg",
+          "isPrimary": false,
+          "timestamp": "2019-08-27T00:50:11.378Z",
+          "_id": "5d647e43cb8218b468ad13d4"
+        },
+        {
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAUfpsSKTNoy2nxPaLMkbm79EvJz9v4wSHe-8MN1O4aP00Aqoeih0iFCm28H7E6w7hdCRYGgTvexZZtBhWGONsotu1QHkHTX_LUR5um1lLb4ExGrigq9dDC6pmCZjrIgR2EhBGekQba4_GaAHjBF7DwwFPGhT9Ow4sptW72F3Z1T7xqRVxXsDmSw&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg",
+          "isPrimary": false,
+          "timestamp": "2019-08-27T00:50:11.377Z",
+          "_id": "5d647e43cb8218b468ad13d3"
+        }
+      ],
+      "created": "2016-11-02T20:38:12.695Z",
+      "__v": 2,
+      "updatedAt": "2019-08-27T21:36:12.407Z",
+      "createdAt": "2017-10-10T01:09:01.613Z",
+      "market": "5ba53a84f65a7d002da2098c",
+      "factualRestaurant": "5bcf77f7633fe532b61ad115",
+      "lastUpdatedBy": {
+        "session": {
+          "appsFlyerDeviceId": null,
+          "os": "ios",
+          "releaseVersion": "0.0.0",
+          "idfa": "unknown"
+        },
+        "interestedBars": { "true": [], "false": [] },
+        "interestedRestaurants": { "true": [], "false": [] },
+        "updates": {
+          "promotions": ["email", "push"],
+          "mobile": ["email", "push"],
+          "recommendations": ["email", "push"]
+        },
+        "profile": {
+          "dob": { "month": "1", "day": "1", "year": "2077" },
+          "isAllowedToTakeRides": true,
+          "isNearLocation": false,
+          "isRideHomeSponsored": false,
+          "company": "1976",
+          "picture": [],
+          "name": "Richard Tillman",
+          "lastSeen": {
+            "tz": {
+              "timeZoneName": "Pacific Standard Time",
+              "timeZoneId": "America/Los_Angeles",
+              "status": "OK",
+              "rawOffset": -28800,
+              "dstOffset": 0
+            },
+            "sessionId": "",
+            "geo": [-118.4782085, 33.9973129],
+            "county": "Los Angeles County",
+            "provider": "google",
+            "zipcode": "90291",
+            "countryCode": "US",
+            "country": "United States",
+            "city": "Los Angeles",
+            "streetName": "Main Street",
+            "streetNumber": "228",
+            "administrativeLevels": {
+              "level1short": "CA",
+              "level1long": "California",
+              "level2short": "Los Angeles County",
+              "level2long": "Los Angeles County"
+            },
+            "extra": {
+              "establishment": null,
+              "neighborhood": "Venice",
+              "subpremise": null,
+              "premise": null,
+              "confidence": 1,
+              "googlePlaceId": "ChIJF6gAT866woARtxogQ0A538E"
+            },
+            "longitude": -118.4782085,
+            "latitude": 33.9973129,
+            "formattedAddress": "228 Main St, Venice, CA 90291, USA"
+          }
+        },
+        "activity": {
+          "loginCount": 0,
+          "rideCount": 0,
+          "dateEstablished": "2017-10-17T02:08:14.809Z",
+          "lastLogin": "2017-10-17T02:08:14.809Z",
+          "nextEmailScheduleDate": "2017-10-17T02:08:14.809Z"
+        },
+        "group": { "splitTestABCD": "B", "splitTestabc": "c" },
+        "enhancedSecurity": { "enabled": false },
+        "lyft": {
+          "firstName": null,
+          "hasTakenARide": false,
+          "id": null,
+          "lastName": null,
+          "token": null,
+          "refreshToken": null,
+          "email": null
+        },
+        "uber": {
+          "home": { "address": null, "google": null },
+          "work": { "address": null, "google": null },
+          "firstName": null,
+          "lastName": null,
+          "email": null,
+          "mobileVerified": true,
+          "picture": null,
+          "promoCode": null,
+          "riderId": null,
+          "uuid": null,
+          "token": null,
+          "refreshToken": null,
+          "updated": "2019-07-17T01:36:17.062Z"
+        },
+        "stripe": {
+          "paymentMethods": [],
+          "externalAccounts": [],
+          "hasLinkedExternalOnce": false,
+          "verified": false,
+          "customerId": "cus_BbzeeKStjxax3U"
+        },
+        "plaid": {
+          "hasLinkedOnce": false,
+          "accounts": [],
+          "transactions": [],
+          "webhook": "https://webhooks.freebirdrides.com/plaid"
+        },
+        "empyr": { "accounts": [] },
+        "activeCampaigns": { "home": { "setAt": "2018-05-18T16:03:49.456Z" } },
+        "features": { "showMap": false },
+        "env": "development",
+        "inApp": false,
+        "isRideHistoryRetrieved": false,
+        "hasRedeemableRides": false,
+        "roles": ["freebird", "superadmin"],
+        "rideHistoryCount": 0,
+        "rideHistoryState": "noHistory",
+        "rideHailingPlatform": "uber",
+        "status": 10,
+        "terms": false,
+        "balance": 0,
+        "points": 1000,
+        "parent": null,
+        "inviteLink": "https://my.fbird.co/G30ebkDrzT",
+        "devices": [],
+        "locale": "US",
+        "notificationPreferences": ["sms", "push", "email"],
+        "tier": 1,
+        "watchPartyCode": null,
+        "isBanned": false,
+        "isInSeededMarket": true,
+        "_id": "59e565e807ebd4f97b4f3781",
+        "email": "rich@freebirdrides.com",
+        "updatedAt": "2019-08-27T22:09:54.359Z",
+        "__v": 32,
+        "createdAt": "2017-10-17T02:07:36.809Z",
+        "geo": [-118.4682, 34.0125],
+        "resetPasswordExpires": "2019-07-23T01:31:38.801Z",
+        "resetPasswordToken": "$2a$10$tvwJVeV8ytH6i9ZRVS1z8uFlA8giJHbI7gCtQDhXvmvHefDk.tjT6",
+        "historicalCampaigns": { "home": [] },
+        "inviteCode": "y8883",
+        "market": "5ba53a84f65a7d002da2098c",
+        "isOwner": true,
+        "riderId": null,
+        "firstName": null,
+        "lastName": null,
+        "availableEmail": "rich@freebirdrides.com",
+        "needsLyftAuthentication": true,
+        "needsUberAuthentication": true,
+        "cashBalance": 0,
+        "age": -57,
+        "id": "59e565e807ebd4f97b4f3781",
+        "totalAvailableOffers": 0,
+        "isTester": false
+      },
+      "id": "581a4eb444a9810001a715bd"
+    }
+  ]
+}

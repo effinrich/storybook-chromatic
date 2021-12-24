@@ -1,0 +1,299 @@
+{
+  "message": "ok",
+  "data": [
+    {
+      "_id": "59a9e308c8add800010bd6f0",
+      "updatedAt": "2017-09-08T23:30:21.348Z",
+      "createdAt": "2017-09-01T22:45:28.661Z",
+      "email": "rich@freebirdrides.com",
+      "password": "$2a$05$cMd3NoGDkHb0Qenyf4CQhOz3AwVhR/Xj/XhOBBD0brrEwtyrVM6TK",
+      "empyr": {
+        "accounts": []
+      },
+      "plaid": {
+        "webhook": "https://hapi.freebirdrides.com/webhooks/plaid",
+        "transactions": [],
+        "accounts": []
+      },
+      "stripe": {
+        "verified": false,
+        "externalAccounts": [],
+        "paymentMethods": []
+      },
+      "uber": {
+        "updated": "2017-09-02T00:00:34.561Z",
+        "refreshToken": null,
+        "token": null,
+        "uuid": null,
+        "riderId": null,
+        "promoCode": null,
+        "picture": null,
+        "mobileVerified": true,
+        "email": null,
+        "lastName": null,
+        "firstName": null
+      },
+      "notificationPreferences": ["sms", "push"],
+      "locale": "US",
+      "devices": [],
+      "inviteLink": null,
+      "cashBalance": 0,
+      "terms": true,
+      "status": 10,
+      "enhancedSecurity": {
+        "enabled": false
+      },
+      "activity": {
+        "rideCount": 0,
+        "nextEmailScheduleDate": "2017-09-01T22:45:28.649Z",
+        "loginCount": 0,
+        "lastLogin": "2017-09-01T22:45:28.649Z",
+        "dateEstablished": "2017-09-01T22:45:28.649Z"
+      },
+      "profile": {
+        "name": "Rich Tillman",
+        "lastSeen": {
+          "sessionId": "",
+          "county": "Los Angeles County",
+          "provider": "google",
+          "zipcode": "90291",
+          "countryCode": "US",
+          "country": "United States",
+          "city": "Los Angeles",
+          "streetName": "Main Street",
+          "streetNumber": "228",
+          "administrativeLevels": {
+            "level1short": "CA",
+            "level1long": "California",
+            "level2short": "Los Angeles County",
+            "level2long": "Los Angeles County"
+          },
+          "extra": {
+            "establishment": null,
+            "neighborhood": "Venice",
+            "subpremise": null,
+            "premise": null,
+            "confidence": 1,
+            "googlePlaceId": "ChIJF6gAT866woARtxogQ0A538E"
+          },
+          "longitude": -118.4782302,
+          "latitude": 33.9972443,
+          "formattedAddress": "228 Main St, Venice, CA 90291, USA"
+        },
+        "isAllowedToTakeRides": true
+      },
+      "roles": ["admin"],
+      "hasRedeemableRides": false,
+      "env": "production",
+      "__v": 1,
+      "geo": [-118.4782393, 33.9973443]
+    },
+    {
+      "_id": "58f306525f5b6000443ba5d4",
+      "updatedAt": "2017-09-11T06:09:07.541Z",
+      "createdAt": "2017-04-16T05:51:14.089Z",
+      "smsVerificationCode": null,
+      "mobile": "13106330106",
+      "plaid": {
+        "webhook": "https://hapi.freebirdrides.com/webhooks/plaid",
+        "transactions": [],
+        "accounts": ["58f306f7fa8e867f3d62beda"]
+      },
+      "stripe": {
+        "verified": false,
+        "externalAccounts": [],
+        "paymentMethods": []
+      },
+      "uber": {
+        "updated": "2017-09-11T06:09:07.340Z",
+        "refreshToken": "MA.CAESECmuf9QONEIxuLi7dYPt5QAiATEoATIBMTgB.McHbUJXbf3ZqOnufCdNJ4xffZn895WUBiImxC4IG2og.xMb6qIQqHc9TeMTKl59vNkqLBm5rPP3mqgSNFXFBTDU",
+        "token": "KA.eyJ2ZXJzaW9uIjoyLCJpZCI6IjZUUi8xUlUyU3Ftc3Vsb1lmUUlqU2c9PSIsImV4cGlyZXNfYXQiOjE1MDc3MDIxNDcsInBpcGVsaW5lX2tleV9pZCI6Ik1RPT0iLCJwaXBlbGluZV9pZCI6MX0.5p3V7pGdV_X7iDTdqfL4793FPYR0Pex617o62gMNrpI",
+        "uuid": "ca1643c6-2564-4111-9f66-fce7be0a0112",
+        "riderId": "8CrCt9ezT4AgqKQw8r-oAV8AfRACbfZXgEHReG8ergUDXZhISFEf_JtYo1C05EwGxlqEK5KUlCbj1snMibSIrjLuv8X1aVcxAsNadw8hB5GRQGcnlgW1mlyZ3tGaHFUjRw==",
+        "promoCode": "0pm9s",
+        "picture": "https://d1w2poirtb3as9.cloudfront.net/1d8eeefbeeeff9ca0744.png",
+        "mobileVerified": true,
+        "email": "adam@duromedia.com",
+        "lastName": "Duro",
+        "firstName": "Adam"
+      },
+      "notificationPreferences": ["sms", "push"],
+      "email": "duro@freebirdrides.com",
+      "password": "$2a$05$TRj1e7PEAu8q05EYRpLl8u5cSjumiCX5NcuIqMl3WZd5FCRcDUsoq",
+      "devices": [
+        {
+          "token": "2b27962752c6d9c5d03173db128a2a36864c87d8b9d85de8d4a98ca75eaa7a58",
+          "type": "ios"
+        },
+        {
+          "token": "735ab250d90d59cfc1d5d694d17124fb6000ef4c4b2c6c3162a35e97d3e67ad7",
+          "type": "ios"
+        },
+        {
+          "token": "e2e8f73a9198378c067ffaf2d598b29dac00bc5c6924d12bad53e0faff358a54",
+          "type": "ios"
+        },
+        {
+          "token": "1e610e64a54cb1a7b5e4f43ecdeb76eb2d6d78d474da25c960671ec27c0490f7",
+          "type": "ios"
+        }
+      ],
+      "inviteLink": "http://my.fbird.co/ZxxU/V04CdTxf4F",
+      "cashBalance": 0,
+      "terms": false,
+      "status": 10,
+      "enhancedSecurity": {
+        "enabled": false
+      },
+      "activity": {
+        "rideCount": 0.0,
+        "nextEmailScheduleDate": "2017-04-16T05:51:14.079Z",
+        "loginCount": 0,
+        "lastLogin": "2017-09-07T05:21:14.181Z",
+        "dateEstablished": "2017-04-16T05:51:14.079Z"
+      },
+      "profile": {
+        "picture": [],
+        "lastSeen": {
+          "sessionId": "UNKNOWN",
+          "county": "Los Angeles County",
+          "provider": "google",
+          "zipcode": "90045",
+          "countryCode": "US",
+          "country": "United States",
+          "city": "Los Angeles",
+          "streetName": "Handley Avenue",
+          "streetNumber": "8026-8032",
+          "administrativeLevels": {
+            "level1short": "CA",
+            "level1long": "California",
+            "level2short": "Los Angeles County",
+            "level2long": "Los Angeles County"
+          },
+          "extra": {
+            "establishment": null,
+            "neighborhood": "Westchester",
+            "subpremise": null,
+            "premise": null,
+            "confidence": 0.9,
+            "googlePlaceId": "EjE4MDI2LTgwMzIgSGFuZGxleSBBdmUsIExvcyBBbmdlbGVzLCBDQSA5MDA0NSwgVVNB"
+          },
+          "longitude": -118.3797882,
+          "latitude": 33.9653307,
+          "formattedAddress": "8026-8032 Handley Ave, Los Angeles, CA 90045, USA"
+        },
+        "isAllowedToTakeRides": true
+      },
+      "roles": ["freebird", "admin", "superadmin", "partner"],
+      "hasRedeemableRides": false,
+      "env": "production",
+      "created": "2017-04-16T05:51:14.079Z",
+      "__v": 1,
+      "locale": "US",
+      "geo": [-118.379545452212, 33.9651475182607],
+      "empyr": {
+        "accounts": []
+      },
+      "distinctId": "28BF9303-4086-4CE7-A65F-5095518A97EE",
+      "resetPasswordExpires": "2017-09-01T23:17:34.548Z",
+      "resetPasswordToken": null,
+      "branch": {
+        "os": "iOS",
+        "identity": "28BF9303-4086-4CE7-A65F-5095518A97EE",
+        "ios_vendor_id": "49919170-2FF6-43F0-8885-D1293D74A8CE",
+        "os_version": "10.3.3",
+        "event": "open",
+        "event_timestamp": "2017-09-11T06:09:06.988Z",
+        "hardware_id": "28BF9303-4086-4CE7-A65F-5095518A97EE",
+        "ad_tracking_enabled": "true",
+        "metadata": {
+          "reinstall": false,
+          "ip": "107.77.228.22",
+          "referred": false
+        }
+      },
+      "group": {
+        "splitTestABCD": "D",
+        "splitTestabc": "a"
+      }
+    },
+    {
+      "_id": "599c90be1cfeb80001eb0e7e",
+      "updatedAt": "2017-09-08T03:00:58.441Z",
+      "createdAt": "2017-08-22T20:14:54.659Z",
+      "mobile": null,
+      "email": "dani@freebirdrides.com",
+      "smsVerificationCode": null,
+      "paymentMethod": [
+        "599c914fc642c40a85fb0450",
+        "599e08cfc642c40a850cb0c0",
+        "599e0921c642c40a850cb4d9"
+      ],
+      "terms": true,
+      "resetPasswordExpires": "2017-09-05T22:43:18.980Z",
+      "resetPasswordToken": null,
+      "password": "$2a$05$RMZOWs2Xly3.cZqin7lFl.ycapfrxjH0Xt7dnWmnsxas5RtjeRFie",
+      "activity": {
+        "dateEstablished": "2017-09-05T18:43:55.805Z",
+        "lastLogin": "2017-09-05T18:43:55.805Z",
+        "nextEmailScheduleDate": "2017-09-05T18:43:55.805Z"
+      },
+      "devices": [],
+      "empyr": {
+        "accounts": []
+      },
+      "env": "production",
+      "geo": [121.0371, 14.5865],
+      "locale": "US",
+      "notificationPreferences": ["sms", "push"],
+      "plaid": {
+        "accounts": [],
+        "transactions": [],
+        "webhook": "https://hapi.freebirdrides.com/webhooks/plaid"
+      },
+      "profile": {
+        "name": "Dani Thompson",
+        "lastSeen": {
+          "sessionId": "",
+          "county": "Unknown",
+          "provider": "google",
+          "countryCode": "PH",
+          "country": "Philippines",
+          "city": "Mandaluyong",
+          "streetName": "Fabella Road",
+          "streetNumber": "539-559",
+          "administrativeLevels": {
+            "level1short": "NCR",
+            "level1long": "Metro Manila"
+          },
+          "extra": {
+            "establishment": null,
+            "neighborhood": "Mandaluyong",
+            "subpremise": null,
+            "premise": null,
+            "confidence": 0.9,
+            "googlePlaceId": "Ejw1MzktNTU5IEZhYmVsbGEgUm9hZCwgTWFuZGFsdXlvbmcsIE1ldHJvIE1hbmlsYSwgUGhpbGlwcGluZXM"
+          },
+          "longitude": 121.0370662,
+          "latitude": 14.5865594,
+          "formattedAddress": "539-559 Fabella Road, Mandaluyong, Metro Manila, Philippines"
+        },
+        "isAllowedToTakeRides": false,
+        "picture": []
+      },
+      "roles": ["freebird", "partner"],
+      "status": 10,
+      "stripe": {
+        "customerId": "cus_BMI7Xl8yfZq9nM",
+        "verified": false,
+        "externalAccounts": [],
+        "paymentMethods": ["59b207eac642c40a8505b056"]
+      },
+      "uber": {
+        "mobileVerified": true,
+        "updated": "2017-09-08T03:00:58.441Z"
+      },
+      "__v": 2
+    }
+  ]
+}

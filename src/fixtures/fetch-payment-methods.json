@@ -1,0 +1,83 @@
+{
+  "message": "ok",
+  "data": [
+    {
+      "bank_account": {
+        "country": null,
+        "bank_name": null,
+        "last4": null,
+        "validated": false,
+        "object": "bank_account"
+      },
+      "card": {
+        "name": "Cyndy Ufkes",
+        "address_line1": null,
+        "address_line2": null,
+        "address_city": null,
+        "address_state": null,
+        "address_zip": "90404",
+        "address_country": null,
+        "country": "US",
+        "exp_month": 5,
+        "exp_year": 2020,
+        "last4": "9391",
+        "object": "card",
+        "brand": "Visa",
+        "funding": "credit"
+      },
+      "isDefault": false,
+      "livemode": true,
+      "type": "card",
+      "fingerprint": "Ca07umwWVfPUns2i",
+      "object": "token",
+      "used": false,
+      "isValid": false,
+      "_id": "5afefa6bbca26732461ae18a",
+      "id": "card_1CGDy6Ba3UTfvq8h8DpQyVfO",
+      "organization": "5afef9fa3b7dc431fc2a3cfa",
+      "created": "2018-05-18T16:08:11.978Z",
+      "createdAt": "2018-05-18T16:08:11.978Z",
+      "updatedAt": "2019-10-08T23:26:35.631Z",
+      "__v": 0
+    },
+    {
+      "bank_account": {
+        "country": null,
+        "bank_name": null,
+        "last4": null,
+        "validated": false,
+        "object": "bank_account"
+      },
+      "card": {
+        "name": null,
+        "address_line1": null,
+        "address_line2": null,
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "address_country": null,
+        "country": "US",
+        "exp_month": 5,
+        "exp_year": 2020,
+        "last4": "2125",
+        "object": "card",
+        "brand": "MasterCard",
+        "funding": "credit"
+      },
+      "isDefault": true,
+      "livemode": true,
+      "type": "card",
+      "fingerprint": "hlIwwD0OthiQIjxe",
+      "object": "token",
+      "used": false,
+      "isValid": true,
+      "_id": "5afefa6bbca26732461ae189",
+      "id": "card_1CGE7UBa3UTfvq8hmYvJPeSL",
+      "organization": "5afef9fa3b7dc431fc2a3cfa",
+      "created": "2018-05-18T16:08:11.977Z",
+      "createdAt": "2018-05-18T16:08:11.978Z",
+      "updatedAt": "2018-05-18T16:08:11.978Z",
+      "__v": 0
+    }
+  ]
+}

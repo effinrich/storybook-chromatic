@@ -1,39 +1,63 @@
 {
-  "name": "storybook",
+  "name": "phc-ui",
   "version": "0.1.0",
-  "private": true,
+  "description": "Share UI Library at PHC Health",
+  "main": "dist/index.js",
+  "repository": "https://effinrich@github.com/effinrich/storybook-chromatic.git",
+  "author": "Rich Tillman <richtillman@gmail.com>",
+  "license": "MIT",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "google-libphonenumber": "^3.2.25",
+    "http-server": "^14.0.0",
+    "prop-types": "^15.7.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "react-router-dom": "^6.1.1",
     "react-scripts": "4.0.3",
+    "react-select": "^5.2.1",
+    "reflexbox": "^4.0.6",
+    "styled-components": "^5.3.3",
+    "styled-system": "^5.1.5",
+    "typescript": "^4.5.3",
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "cross-env BABEL_ENV=production babel src -d dist",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "storybook": "start-storybook -p 6006 -s public",
-    "build-storybook": "build-storybook -s public",
+    "format": "prettier src --write",
+    "lint": "eslint --fix",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook",
+    "build-storybook-docs": "build-storybook --docs",
     "chromatic": "npx chromatic --project-token=`${process.env.CHROMATIC_PROJECT_TOKEN}` --exit-zero-on-changes --exit-once-uploaded"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ],
-    "overrides": [
-      {
-        "files": [
-          "**/*.stories.*"
-        ],
-        "rules": {
-          "import/no-anonymous-default-export": "off"
+  "babel": {
+    "plugins": [
+      [
+        "styled-components",
+        {
+          "pure": true,
+          "ssr": true
         }
-      }
+      ],
+      "@babel/plugin-syntax-dynamic-import"
+    ],
+    "presets": [
+      "@babel/preset-flow",
+      "@babel/preset-env",
+      "@babel/preset-react",
+      [
+        "react-app",
+        {
+          "absoluteRuntime": false
+        }
+      ]
     ]
   },
   "browserslist": {
@@ -49,11 +73,28 @@
     ]
   },
   "devDependencies": {
-    "@storybook/addon-actions": "^6.3.7",
-    "@storybook/addon-essentials": "^6.3.7",
-    "@storybook/addon-links": "^6.3.7",
-    "@storybook/node-logger": "^6.3.7",
+    "@babel/cli": "^7.16.0",
+    "@babel/plugin-syntax-dynamic-import": "^7.8.3",
+    "@storybook/addon-a11y": "^6.4.9",
+    "@storybook/addon-actions": "^6.4.9",
+    "@storybook/addon-controls": "^6.4.9",
+    "@storybook/addon-docs": "^6.4.9",
+    "@storybook/addon-essentials": "^6.4.9",
+    "@storybook/addon-interactions": "^6.4.9",
+    "@storybook/addon-links": "^6.4.9",
+    "@storybook/addon-storyshots": "^6.4.9",
+    "@storybook/node-logger": "^6.4.9",
     "@storybook/preset-create-react-app": "^3.2.0",
-    "@storybook/react": "^6.3.7"
+    "@storybook/react": "^6.4.9",
+    "@storybook/testing-library": "^0.0.7",
+    "@typescript-eslint/eslint-plugin": "^5.6.0",
+    "@typescript-eslint/parser": "^5.6.0",
+    "cross-env": "^7.0.3",
+    "eslint": "7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-react": "^7.27.1",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "eslint-plugin-simple-import-sort": "^7.0.0"
   }
 }

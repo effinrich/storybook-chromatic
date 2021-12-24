@@ -1,0 +1,209 @@
+{
+  "page": 1,
+  "pageSize": 10,
+  "totalItems": 132,
+  "totalPages": 14,
+  "skipped": 0,
+  "sort": {
+    "createdAt": -1
+  },
+  "results": [
+    {
+      "roles": ["freebird"],
+      "isBanned": false,
+      "dob": {
+        "month": "09",
+        "day": "04",
+        "year": "1991"
+      },
+      "brands": [],
+      "notificationPreferences": ["sms", "push", "email"],
+      "isVerified": true,
+      "_id": "5ee321750464a700076ba5be",
+      "email": "shelbyscottqa@gmail.com",
+      "status": "active",
+      "createdAt": "2020-06-12T06:32:21.955Z",
+      "updatedAt": "2020-06-12T06:38:49.654Z",
+      "__v": 0,
+      "magicLinkToken": "",
+      "magicLinkEmailToken": "",
+      "rideHailingPlatform": "uber",
+      "name": "Shelby Scott"
+    },
+    {
+      "roles": ["freebird"],
+      "isBanned": false,
+      "dob": {
+        "month": "09",
+        "day": "04",
+        "year": "1991"
+      },
+      "brands": [],
+      "notificationPreferences": ["sms", "push", "email"],
+      "isVerified": true,
+      "_id": "5ee310fa797eb20007372e19",
+      "email": "sscott@freebirdrides.com",
+      "status": "active",
+      "createdAt": "2020-06-12T05:22:02.016Z",
+      "updatedAt": "2020-06-12T18:25:00.459Z",
+      "__v": 0,
+      "magicLinkToken": "",
+      "magicLinkEmailToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNzY290dDE5OTFAZ21haWwuY29tIiwiaWF0IjoxNTkxOTg1ODIwLCJleHAiOjE1OTE5ODY0MjB9.WSjpLHjmSWhj4G3bClvVNN45nVWSEAElmckdddZ4Afg"
+    },
+    {
+      "roles": ["freebird"],
+      "isBanned": false,
+      "dob": {
+        "month": "09",
+        "day": "04",
+        "year": "1991"
+      },
+      "brands": [],
+      "notificationPreferences": ["sms", "push", "email"],
+      "isVerified": true,
+      "_id": "5ee30ac6797eb20007372e18",
+      "email": "5ee30ac6797eb20007372e18@freebirdrides.com",
+      "status": "inactive",
+      "createdAt": "2020-06-12T04:55:34.527Z",
+      "updatedAt": "2020-06-12T05:21:31.929Z",
+      "__v": 0,
+      "magicLinkToken": "",
+      "rideHailingPlatform": "lyft",
+      "name": "Shelby Scottttt"
+    },
+    {
+      "roles": ["freebird"],
+      "isBanned": false,
+      "dob": {
+        "month": "12",
+        "day": "15",
+        "year": "1994"
+      },
+      "brands": [],
+      "notificationPreferences": ["sms", "push", "email"],
+      "isVerified": true,
+      "_id": "5ee2fc2535d68b000730d769",
+      "email": "luiselpala94@gmail.com",
+      "status": "active",
+      "createdAt": "2020-06-12T03:53:09.528Z",
+      "updatedAt": "2020-06-12T19:01:15.631Z",
+      "__v": 0,
+      "magicLinkToken": ""
+    },
+    {
+      "roles": ["freebird"],
+      "isBanned": false,
+      "dob": {
+        "month": "09",
+        "day": "04",
+        "year": "1991"
+      },
+      "brands": [],
+      "notificationPreferences": ["sms", "push", "email"],
+      "isVerified": true,
+      "_id": "5ee2cbeda5b32a000757e7b3",
+      "email": "5ee2cbeda5b32a000757e7b3@freebirdrides.com",
+      "status": "inactive",
+      "createdAt": "2020-06-12T00:27:25.775Z",
+      "updatedAt": "2020-06-12T04:55:22.184Z",
+      "__v": 0,
+      "magicLinkToken": "",
+      "rideHailingPlatform": "uber"
+    },
+    {
+      "roles": ["freebird"],
+      "isBanned": false,
+      "dob": {
+        "month": "12",
+        "day": "15",
+        "year": "1994"
+      },
+      "brands": [],
+      "notificationPreferences": ["sms", "push", "email"],
+      "isVerified": true,
+      "_id": "5ee2986899ab2b0008ca3991",
+      "email": "5ee2986899ab2b0008ca3991@freebirdrides.com",
+      "status": "inactive",
+      "createdAt": "2020-06-11T20:47:36.377Z",
+      "updatedAt": "2020-06-11T22:22:41.967Z",
+      "__v": 0,
+      "magicLinkToken": "",
+      "rideHailingPlatform": "uber",
+      "name": "Luis Palacios"
+    },
+    {
+      "roles": ["freebird"],
+      "isBanned": false,
+      "dob": null,
+      "brands": [],
+      "notificationPreferences": ["sms", "push", "email"],
+      "isVerified": false,
+      "_id": "5ee27ebee342b00007576540",
+      "email": "eric1827e@me.com",
+      "status": "active",
+      "createdAt": "2020-06-11T18:58:06.809Z",
+      "updatedAt": "2020-06-11T18:58:06.966Z",
+      "__v": 0,
+      "magicLinkToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImVyaWMxODI3ZUBtZS5jb20iLCJpYXQiOjE1OTE5MDE4ODYsImV4cCI6MTU5MTkwMjQ4Nn0.Bhci-TKSyrSMm6v6Qkwj1IuW14P5n00Yo6-m6FBMbmQ"
+    },
+    {
+      "roles": ["freebird"],
+      "isBanned": false,
+      "dob": {
+        "month": "09",
+        "day": "04",
+        "year": "1991"
+      },
+      "brands": [],
+      "notificationPreferences": ["sms", "push", "email"],
+      "isVerified": true,
+      "_id": "5ee27be0e342b0000757653f",
+      "email": "5ee27be0e342b0000757653f@freebirdrides.com",
+      "status": "inactive",
+      "createdAt": "2020-06-11T18:45:52.999Z",
+      "updatedAt": "2020-06-11T19:20:17.442Z",
+      "__v": 0,
+      "magicLinkToken": ""
+    },
+    {
+      "roles": ["freebird"],
+      "isBanned": false,
+      "dob": {
+        "month": "12",
+        "day": "15",
+        "year": "1994"
+      },
+      "brands": [],
+      "notificationPreferences": ["sms", "push", "email"],
+      "isVerified": true,
+      "_id": "5ee1fd690b8734000847dace",
+      "email": "5ee1fd690b8734000847dace@freebirdrides.com",
+      "status": "inactive",
+      "createdAt": "2020-06-11T09:46:17.573Z",
+      "updatedAt": "2020-06-11T20:47:16.902Z",
+      "__v": 0,
+      "magicLinkToken": "",
+      "rideHailingPlatform": "uber"
+    },
+    {
+      "roles": ["freebird"],
+      "isBanned": false,
+      "dob": {
+        "month": "12",
+        "day": "15",
+        "year": "1994"
+      },
+      "brands": [],
+      "notificationPreferences": ["sms", "push", "email"],
+      "isVerified": true,
+      "_id": "5ee1fb6e0b8734000847dacd",
+      "email": "5ee1fb6e0b8734000847dacd@freebirdrides.com",
+      "status": "inactive",
+      "createdAt": "2020-06-11T09:37:50.007Z",
+      "updatedAt": "2020-06-11T09:44:26.657Z",
+      "__v": 0,
+      "magicLinkToken": "",
+      "rideHailingPlatform": "uber"
+    }
+  ]
+}

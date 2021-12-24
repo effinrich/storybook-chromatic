@@ -1,0 +1,55 @@
+import React from 'react'
+import { storiesOf } from '@storybook/react'
+// import { action } from '@storybook/addon-actions'
+
+import Decorator from 'utils/storybook'
+import MockReduxFormField from 'utils/testing/MockReduxFormField'
+
+import {Padding} from 'components/StoryDecorators'
+
+import DateRangePickerWrapper from '.'
+
+const RenderDates = fields => (
+  <DateRangePickerWrapper
+    startDateFieldName="start"
+    endDateFieldName="end"
+    {...fields}
+  />
+)
+
+storiesOf('DateRangePickerField', module)
+  .addDecorator(Decorator)
+  .add('naked story', () => (
+    <Padding>
+      <MockReduxFormField>
+        <RenderDates input={{ names: ['start', 'end'] }} />
+      </MockReduxFormField>
+    </Padding>
+  ))
+  .add('untouched w/ error', () => (
+    <Padding>
+      <MockReduxFormField>
+        <RenderDates
+          input={{ names: ['start', 'end'] }}
+          meta={{
+            error:
+              'This is a super long mega crazy extravagantly huge Error Message'
+          }}
+        />
+      </MockReduxFormField>
+    </Padding>
+  ))
+  .add('touched w/ error', () => (
+    <Padding>
+      <MockReduxFormField>
+        <RenderDates
+          input={{ names: ['start', 'end'] }}
+          meta={{
+            touched: true,
+            error:
+              'This is a super long mega crazy extravagantly huge Error Message'
+          }}
+        />
+      </MockReduxFormField>
+    </Padding>
+  ))

@@ -1,0 +1,31 @@
+{
+  "message": "ok",
+  "data": [
+    {
+      "pages": 3,
+      "rows": [
+        { "_id": "LKHGlkjheripuy34897ytrohjbge", "name": "The Missfit" },
+        { "_id": "LKHGlkjheripuy34897ytrohjbge", "name": "Bare Bar" },
+        { "_id": "LKHGlkjheripuy34897ytrohjbge", "name": "DejaVu" },
+        { "_id": "LKHGlkjheripuy34897ytrohjbge", "name": "The Bungalow" },
+        { "_id": "LKHGlkjheripuy34897ytrohjbge", "name": "Truxtons" },
+        {
+          "_id": "LKHGlkjheripuy34897ytrohjbge",
+          "name": "Some Really Long Named Location"
+        },
+        { "_id": "LKHGlkjheripuy34897ytrohjbge", "name": "The Missfit" },
+        { "_id": "LKHGlkjheripuy34897ytrohjbge", "name": "Bare Bar" },
+        { "_id": "LKHGlkjheripuy34897ytrohjbge", "name": "DejaVu" },
+        { "_id": "LKHGlkjheripuy34897ytrohjbge", "name": "The Bungalow" },
+        { "_id": "LKHGlkjheripuy34897ytrohjbge", "name": "Truxtons" },
+        {
+          "_id": "LKHGlkjheripuy34897ytrohjbge",
+          "name": "Some Really Long Named Location"
+        },
+        { "_id": "LKHGlkjheripuy34897ytrohjbge", "name": "The Missfit" },
+        { "_id": "LKHGlkjheripuy34897ytrohjbge", "name": "Bare Bar" },
+        { "_id": "LKHGlkjheripuy34897ytrohjbge", "name": "DejaVu" }
+      ]
+    }
+  ]
+}

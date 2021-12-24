@@ -1,0 +1,81 @@
+{
+  "message": "ok",
+  "data": [
+    {
+      "_id": "erewfwrwefwefefwefwfw",
+      "sponsored": true,
+      "subsidized": false,
+      "points": true,
+      "cashOnly": false,
+      "currentlyOpen": false,
+      "priceLevels": [1, 2, 3],
+      "categories": [],
+      "name": "test card",
+      "minDist": 5,
+      "maxDist": 25,
+      "photos": [
+        {
+          "_id": "59a859f7a016b8031be9d5e9",
+          "timestamp": "2017-08-31T18:48:23.425Z",
+          "isPrimary": true,
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAGf582VBL_XV_eepUchLOJ0sDcZSjvERaX706uSLTbzKl9La31XqQUvEX4WiQVF3m106xhsmpi74KwqDdMrpCmtxH5c6SFVRdwJt1Gl2_jxm3wBwlTKsHR5EebZdEoacmEhBgVNv52p9JFpf2M5zlraXmGhSGaZsQWpXw4dA7MSmm8IDSp9-UnQ&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+        },
+        {
+          "_id": "59a859f7a016b8031be9d5e8",
+          "timestamp": "2017-08-31T18:48:23.425Z",
+          "isPrimary": false,
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAZOOdLoySRguYq8FGMj5OVQ3WjFGcnj2jO8MFKZ8s5dXPKoA3ElKu3Z5sJ8ioTd0tkTcjU46f3bsBYRhXvGjQBnMdURresE7-AWWPPCu86KiS-dhmF3gwvHSAfyn2xU-FEhAF3OIvow5Mfm9LP8GKgKZTGhTe_8XlU5vkMYg0cEng5AkasarGAQ&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+        },
+        {
+          "_id": "59a859f7a016b8031be9d5e7",
+          "timestamp": "2017-08-31T18:48:23.425Z",
+          "isPrimary": false,
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAP4F0Y1THDAVxALjFEk1HB2mf-29XBA1S8pRtYz7byJ2Tl3WzlKwRbd5yebqDcn_YuqVMZx71o_XSa_znxpODu5zZnl6G3ZGkHM_blDPx1MvOekLK38jtDxN7VdwAfk5MEhD4ZsPhn62Uga_TU23XC7UAGhTIyO5j2NEQp88GnnJsNdzlppqhQQ&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+        },
+        {
+          "_id": "59a859f7a016b8031be9d5e6",
+          "timestamp": "2017-08-31T18:48:23.425Z",
+          "isPrimary": false,
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAjcXM11by8uwp5X-IUw66TZeFcg_dYHDSYL687trrVDGoUXNK3arxsWbCJQGtSfdlsmjirHvTKU5b3DmjFTWjR8UceCmFADj0lqgUhGOuyICcng3wOeGb_b84wL8VLLQsEhCSv2XywG00XqqN9pgdoU6VGhTztyiSQSnIO7X8hNl66zu1re4V4w&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+        },
+        {
+          "_id": "59a859f7a016b8031be9d5e5",
+          "timestamp": "2017-08-31T18:48:23.425Z",
+          "isPrimary": false,
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAqftj9Y5V76_t5E4OObKIgx-AtwXAUTEi3Ir304nPsR0qghbsaZ28kxl-Tq_04y24BgRSdASNrwkfMmS1-T4ndVM91_wzOsQpEA5usZd9SH9c-NgxhCLiRX_-FxyWMzvzEhAkWzPrZ11AXiERgsiSrItCGhSTlnYrZKBo4_zqTLyRBQaXj9Rw0A&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+        },
+        {
+          "_id": "59a859f7a016b8031be9d5e4",
+          "timestamp": "2017-08-31T18:48:23.425Z",
+          "isPrimary": false,
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRZAAAAy5-naYxXaNK2yZ-ucHE0G7K3kJy1I9Al-De9SSKQqSOs4uq1oQiM-HdfO4nkrFTyeyGWSCscV7NImhzXercgrVOOQ9-eQKmbsaoAkpArlTIXkk_mun2QkcJKrHoH0-MpEhBvRNx59TmDhIQC8H60F4iIGhRl97BpM_xkTRZgiMcNxKp5DrcyEw&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+        },
+        {
+          "_id": "59a859f7a016b8031be9d5e3",
+          "timestamp": "2017-08-31T18:48:23.424Z",
+          "isPrimary": false,
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAp8qdCIIhap512uyfE7sfJHjUd6vBwJ04ZQ9nO3XY2QOeDw5rVhzz0Dnu-wt1DMdu5JJouFeK3GUT1ATaeP-Y_9Pd98yUl9sQeYahO8F5_i1nhgPFi3nUMEcGqMT6RW0pEhD_WltwPgWZnKVcLcFP9Fr-GhS6L3RH1BrhyjEDNrl_7TQkhjHiCw&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+        },
+        {
+          "_id": "59a859f7a016b8031be9d5e2",
+          "timestamp": "2017-08-31T18:48:23.424Z",
+          "isPrimary": false,
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAA4A4HBMqZ9J1DWVK5VDA2hRUepfiwU631GAnWMx16sSI63Z1NkgU4Yxsgpj0MdIfmf8LHoafsYymNyzrwdIQS1UHeUTOE8qaeytYezPsk2fL4I4JsnK5mm4n9kjZo33OwEhApflHUcSHza-JPLqQJUaHDGhTYnwkFTnFOSh3vB2loQ0uraaEsUA&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+        },
+        {
+          "_id": "59a859f7a016b8031be9d5e1",
+          "timestamp": "2017-08-31T18:48:23.424Z",
+          "isPrimary": false,
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAADVjNjzYlegniy7m4HQ_oCPSs9MMSuD4NRq2U3fdMWMBWNbeFDKv2Zo6Cy2JKKpAKuL7qtjssWBF75yVWzVGzxMQtfaIHHLuyicW8CVKZy3mj-YzSxGvQIrah41VX2lYeEhBpgDmcma8oBmMMakbyZEjeGhTrwVPojXn5z5ckwYyPJZE5-dFDuw&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+        },
+        {
+          "_id": "59a859f7a016b8031be9d5e0",
+          "timestamp": "2017-08-31T18:48:23.424Z",
+          "isPrimary": false,
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAjuAfndRhJvoKXKfvRR6Sgazr3dn7BF29O5jGJ3BZccnZ7GidOdzYVxoUyfUpmyE28w3lSa1Jdv4mOphSNXQvPh4jJ_XrDBGYC57e1UaIqEtF-rHTxjLx5gLPRnc0ngK7EhCjRswwxolDhQGIrxqaT1WYGhSqiziVQdEsuv-qDxrxHgzki2RIkA&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+        }
+      ],
+      "enabled": true
+    }
+  ]
+}

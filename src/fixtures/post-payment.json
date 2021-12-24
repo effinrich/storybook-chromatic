@@ -1,0 +1,43 @@
+{
+  "message": "ok",
+  "data": [
+    {
+      "_id": "59e91a8c07ebd4f97bc90c45",
+      "id": "card_1BElfQBa3UTfvq8hYOC8LOOU",
+      "__v": 0,
+      "createdAt": "2017-10-19T21:35:08.736Z",
+      "user": "59e565e807ebd4f97b4f3781",
+      "updatedAt": "2017-10-19T21:35:08.736Z",
+      "card": {
+        "funding": "credit",
+        "brand": "MasterCard",
+        "object": "card",
+        "last4": "9308",
+        "exp_year": 2023,
+        "exp_month": 3,
+        "country": "US",
+        "address_country": null,
+        "address_zip": "91351",
+        "address_state": null,
+        "address_city": null,
+        "address_line2": null,
+        "address_line1": null,
+        "name": "touchbase@richtillman.com"
+      },
+      "bank_account": {
+        "object": "bank_account",
+        "validated": false,
+        "last4": null,
+        "bank_name": null,
+        "country": null
+      },
+      "used": false,
+      "object": "token",
+      "fingerprint": "UOrvX9pbWAPfiba3",
+      "type": "card",
+      "livemode": true,
+      "created": "1970-01-18T11:00:48.904Z",
+      "isDefault": true
+    }
+  ]
+}

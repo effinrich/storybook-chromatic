@@ -1,0 +1,378 @@
+{
+  "message": "ok",
+  "data": [
+    {
+      "_id": "59b5fe0ee0dfd5000151e32e",
+      "updatedAt": "2017-09-11T05:34:47.691Z",
+      "createdAt": "2017-09-11T03:07:58.112Z",
+      "offer": "590ce86a8737f019181fa277",
+      "owner": "5903822e3e0d4e0047985511",
+      "location": {
+        "_id": "590ce8698737f019181fa269",
+        "user": "59c1524196e885e871a8ba17",
+        "__v": 1,
+        "createdAt": "2017-05-05T21:02:33.974Z",
+        "updatedAt": "2017-09-19T17:45:30.796Z",
+        "description": "",
+        "shortDescription": "",
+        "paymentMethod": null,
+        "place": "590ce8698737f019181fa25e",
+        "waitlist": [],
+        "customHours": false,
+        "hours": [
+          {
+            "_id": "59b6207983ac800001bfb9d6",
+            "close": {
+              "time": 200,
+              "day": 1
+            },
+            "open": {
+              "time": 1300,
+              "day": 0
+            }
+          },
+          {
+            "_id": "59b6207983ac800001bfb9d5",
+            "close": {
+              "time": 200,
+              "day": 2
+            },
+            "open": {
+              "time": 1600,
+              "day": 1
+            }
+          },
+          {
+            "_id": "59b6207983ac800001bfb9d4",
+            "close": {
+              "time": 200,
+              "day": 3
+            },
+            "open": {
+              "time": 1600,
+              "day": 2
+            }
+          },
+          {
+            "_id": "59b6207983ac800001bfb9d3",
+            "close": {
+              "time": 200,
+              "day": 4
+            },
+            "open": {
+              "time": 1600,
+              "day": 3
+            }
+          },
+          {
+            "_id": "59b6207983ac800001bfb9d2",
+            "close": {
+              "time": 200,
+              "day": 5
+            },
+            "open": {
+              "time": 1600,
+              "day": 4
+            }
+          },
+          {
+            "_id": "59b6207983ac800001bfb9d1",
+            "close": {
+              "time": 200,
+              "day": 6
+            },
+            "open": {
+              "time": 1600,
+              "day": 5
+            }
+          },
+          {
+            "_id": "59b6207983ac800001bfb9d0",
+            "close": {
+              "time": 200,
+              "day": 0
+            },
+            "open": {
+              "time": 1300,
+              "day": 6
+            }
+          }
+        ],
+        "utc": "-07:00",
+        "statementDescriptor": {
+          "plaid": {
+            "name": "Gym Sports Bar"
+          }
+        },
+        "photos": [
+          {
+            "_id": "59a85ac19d8c5a035b05c4cd",
+            "timestamp": "2017-08-31T18:51:45.874Z",
+            "isPrimary": true,
+            "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRZAAAAhIbrFiJg2vI2663ffu8bQP3JnKcWOQ9dyaCpHPT84eONsANpkXVBI_Frw-H_wChfS9V4oPlaY-Rxc3Q8NAUynw3peO8xAS0Scz32hXuARdAHGSmX4TMF5BhOtnHVhNChEhDnP-Qlpk7LjsdVFcEbpQ5xGhQ1RQGN1CGMWZJoFTlGChH2FoMApA&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+          },
+          {
+            "_id": "59a85ac19d8c5a035b05c4cc",
+            "timestamp": "2017-08-31T18:51:45.873Z",
+            "isPrimary": false,
+            "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAApu1pF0G5pI5fTctya3ah9J7wziy3_FKVXiA0-iT1djWDwdtFHKD8we_XGNFEZEf1RCvESh-5eIH-fz6j7bsovtyHFaXwzYAzwHWwpzIWvBhnXR9haGe81MISgOMEKBPEEhCreovqmEKzFkUpFKbfIEo7GhTfhaa17YpsaFKxBubgqToOSLE0qg&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+          },
+          {
+            "_id": "59a85ac19d8c5a035b05c4cb",
+            "timestamp": "2017-08-31T18:51:45.873Z",
+            "isPrimary": false,
+            "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAigND0834NV6u-HNhp_AL5h97UYCoSBjGI0_gj_X1snfvv9PCz_m6kvy1O71qJe2uiIBz6TgIgFCEbFekDJBbdmKgNPd03EdPFd6_IWrYmct38QSicZR0w_VKeOEqmRz_EhCvCa3tj6dQoeVKSgGlKaYbGhT9-7u_jToDmKFSVf9hchp4HljvjQ&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+          },
+          {
+            "_id": "59a85ac19d8c5a035b05c4ca",
+            "timestamp": "2017-08-31T18:51:45.873Z",
+            "isPrimary": false,
+            "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAbZvGxTfZRj27LM-5FoGLNDtYKkbzSChtLU1m4u0KmnuZJ3VWNrqAt-XS7U0TRCpWN5aJUmhAKBHr2k_GfacoTTfrL_7L1doM5XDDtZaTW9i759eLgGIcIsabmbVSXFL9EhCxF8Vxoxb5euCopEfsMr27GhSOK5UxS52jyx0MldU_e8RDNVsAIQ&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+          },
+          {
+            "_id": "59a85ac19d8c5a035b05c4c9",
+            "timestamp": "2017-08-31T18:51:45.873Z",
+            "isPrimary": false,
+            "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRZAAAAHipTSiWSJe3Hmr9cEefdaufkLYndcVXqMt44zypK8jHUzNWHAmWv61CC4_jwOm57xxZgRy82e2AOB3A5WtnTLTOVJjy0Z3vuAJ6KvThJ-fG7GY61VbB7tv9z-F193VbmEhDVzbpBQlgGgXeFwNR1qXBwGhQ4zl_Rc-59xvEK7TxuAOHb3rIKFQ&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+          },
+          {
+            "_id": "59a85ac19d8c5a035b05c4c8",
+            "timestamp": "2017-08-31T18:51:45.873Z",
+            "isPrimary": false,
+            "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAclx1ZCWwWTYFDMkVGp7_ys0YWc5J3Y3hT9dyC_IRAGnBX-X_I7NJYvlDmUIxZxgGtWwqF9XEFCTQYV-QdW-L_d46LSYIok2-z9nzeuFL7fB-zD7elQPHIi_F2MzQ_1VkEhBeG62libYrs2b-WG9CsdcoGhRN8MAa7o5lEBlaNbtxP1HAOX7CMg&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+          },
+          {
+            "_id": "59a85ac19d8c5a035b05c4c7",
+            "timestamp": "2017-08-31T18:51:45.873Z",
+            "isPrimary": false,
+            "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAKkYowtIl6TwkQVu7iyba27XQaWCGpy3E-bAlzPJgCpvteUH0q5nmF0FtxRMwydFLle4w1H3Ym9rHO_xDJTcPyGYz1OoMG5_jl_Y7JiQN3Z3BhJQyVCLi4lHXtDrRYShHEhAGjObsumI5JGvg0Ew2oBcRGhSvu033uDT-ytFhkhawRymjf7dLAw&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+          },
+          {
+            "_id": "59a85ac19d8c5a035b05c4c6",
+            "timestamp": "2017-08-31T18:51:45.873Z",
+            "isPrimary": false,
+            "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAARP9AkPxdlT_zmGtepTpWGPfo_lv3Uj5cH3tGDhJHoFOQdkd9TlChibqS2BzIaRKypNc5cKaGcJUppJmEPN5IIkbi0ih8PjM8_xD5w4nisHq6W8UbQgVCjSeZX0Nyp6uYEhAuXTxoaqN72U7XN9p900QsGhTjmRfEyl3JKPS-Ry8_SYW8znLMaw&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+          },
+          {
+            "_id": "59a85ac19d8c5a035b05c4c5",
+            "timestamp": "2017-08-31T18:51:45.873Z",
+            "isPrimary": false,
+            "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAA1bn479q-lfYoW19-l3ZMy7V21VQAxei3Bxz-m-1sju4wphLtbXzYq9RcOwgkFqipTX5BKD_wRvdqp_rtEggVqMjc0bIl8j_TnWJon-lEblHrhJb9M5ff3VTmTdkBetSXEhDFcsqFO9WxIJDLNIN4CSbyGhScgds9wTFmobgfOzvCf_uizNHXyQ&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+          },
+          {
+            "_id": "59a85ac19d8c5a035b05c4c4",
+            "timestamp": "2017-08-31T18:51:45.873Z",
+            "isPrimary": false,
+            "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAyfg_NtPUxnExfXwWGAYLk02s7c2aq3ADYkRIu-A1rzffx7sCB2OBL9ZxT77x8Mi87vuQ_Q_xUmrSFowsYdvUu7-Z3Jg1yBLOI2Vpl3NmQsh7ATVZc1yINYv56PhkPd_oEhCfVnjOlVxJBHyvFTDfKYSSGhQYFnm-d4Lp8HZb_XmHFkRPPotl1g&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+          }
+        ],
+        "tags": [],
+        "cuisines": [],
+        "contacts": [],
+        "coordinates": [],
+        "geo": [-118.3812590572462, 34.08703184688568],
+        "categories": [],
+        "phone": {
+          "work": "(310) 659-2004",
+          "mobile": null
+        },
+        "zipcode": "90069",
+        "state": "CA",
+        "city": "West Hollywood",
+        "address": "8737 Santa Monica Blvd",
+        "name": "Gym Sports Bar",
+        "mid": null,
+        "activationCode": null,
+        "created": "2017-09-19T17:23:46.921Z"
+      },
+      "user": {
+        "_id": "592e3f8b300b78002dcaf67f",
+        "updatedAt": "2017-09-11T03:16:43.176Z",
+        "createdAt": "2017-05-31T03:59:07.187Z",
+        "smsVerificationCode": "2354",
+        "mobile": "18186183231",
+        "distinctId": "D7B6A9AB-C1FA-4964-AEC8-0C7932922100",
+        "inviteLink": "http://my.fbird.co/ZxxU/mXts80ff4F",
+        "created": "2017-05-31T03:59:07.182Z",
+        "__v": 1,
+        "geo": [-118.3705802162585, 34.08478944441539],
+        "empyr": {
+          "accounts": []
+        },
+        "plaid": {
+          "webhook": "https://hapi.freebirdrides.com/webhooks/plaid",
+          "transactions": [],
+          "accounts": ["59835683710880a8e77b741c", "59835683710880a8e77b741b"]
+        },
+        "stripe": {
+          "accountId": "acct_1AYV8OERfUJZVZiZ",
+          "verified": true,
+          "externalAccounts": ["597ed002fd1308000120fdc9"],
+          "paymentMethods": []
+        },
+        "uber": {
+          "updated": "2017-09-11T03:07:39.287Z",
+          "refreshToken": "MA.CAESEGe8sHnog0XOnoBy_RhCvO4iATEoATIBMTgB.Yw6KX3jHT7E7CqD4NoAjwc1jYl0E7MZkgpui8gm1f7I.1R5WDSLTDUPCNV0izHOC1WQKFlVph84hlKoqQ9rSliU",
+          "token": "KA.eyJ2ZXJzaW9uIjoyLCJpZCI6ImJyZ3d1QWoxUVZhRk5HMSthUVhBUEE9PSIsImV4cGlyZXNfYXQiOjE1MDc2OTEyNTksInBpcGVsaW5lX2tleV9pZCI6Ik1RPT0iLCJwaXBlbGluZV9pZCI6MX0.yCNL6ngR5T_tICErJxlldjhbCFwwZlkUgcz6bU9IPFA",
+          "uuid": "d7649a25-ae3b-4125-98e0-e9135a2a897e",
+          "riderId": "8CrCt9ezT4AgqKQw8r-oAV8AfRACbfZXgEHReG8ergUDIHTChuL5gfU8wpMIQ8Yysuv7Q4ZNh3pBvuV8HIITaJT8mHpA4zunHWlmTB1gRv-rofSgQ-hANN-d3T46LlXUVA==",
+          "promoCode": "1j7oe",
+          "picture": "https://d1w2poirtb3as9.cloudfront.net/928308e225ae3e04523f.jpeg",
+          "mobileVerified": true,
+          "email": "trevingoin@hotmail.com",
+          "lastName": "Goin",
+          "firstName": "Trevin DUP"
+        },
+        "notificationPreferences": ["sms", "push"],
+        "locale": "US",
+        "devices": [
+          {
+            "type": "ios",
+            "token": "5f03d5a11dbeb885084815933a78d5cf86ef907a79de217af5a144b5f4b2146d"
+          }
+        ],
+        "cashBalance": 24.070000000000007,
+        "terms": false,
+        "status": 10,
+        "enhancedSecurity": {
+          "enabled": false
+        },
+        "group": {
+          "splitTestABCD": "C",
+          "splitTestabc": "b"
+        },
+        "activity": {
+          "rideCount": 44,
+          "nextEmailScheduleDate": "2017-05-31T03:59:07.182Z",
+          "loginCount": 0,
+          "lastLogin": "2017-05-31T03:59:34.819Z",
+          "dateEstablished": "2017-05-31T03:59:07.182Z"
+        },
+        "profile": {
+          "name": "Trevin  Goin",
+          "lastSeen": {
+            "formattedAddress": "739 N Sweetzer Ave, Los Angeles, CA 90069, USA",
+            "latitude": 34.0848462,
+            "longitude": -118.370702,
+            "extra": {
+              "googlePlaceId": "ChIJB9xSy7e-woARScZszn-4fGs",
+              "confidence": 1,
+              "premise": null,
+              "subpremise": null,
+              "neighborhood": "Central LA",
+              "establishment": null
+            },
+            "administrativeLevels": {
+              "level2long": "Los Angeles County",
+              "level2short": "Los Angeles County",
+              "level1long": "California",
+              "level1short": "CA"
+            },
+            "streetNumber": "739",
+            "streetName": "North Sweetzer Avenue",
+            "city": "Los Angeles",
+            "country": "United States",
+            "countryCode": "US",
+            "zipcode": "90069",
+            "provider": "google",
+            "county": "Los Angeles County",
+            "sessionId": "UNKNOWN"
+          },
+          "picture": [],
+          "isAllowedToTakeRides": true,
+          "dob": {
+            "day": "11",
+            "month": "4",
+            "year": "1977"
+          }
+        },
+        "roles": ["freebird"],
+        "hasRedeemableRides": true,
+        "env": "production",
+        "id": "592e3f8b300b78002dcaf67f",
+        "totalAvailableOffers": 0,
+        "isTester": false
+      },
+      "__v": 0,
+      "notification": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "redeemed": null,
+      "created": "2017-09-11T03:07:58.104Z",
+      "uber": {
+        "FREEWILL": {
+          "currency_code": "USD",
+          "subtotal": "$6.32",
+          "total_fare": "$6.32",
+          "duration": "00:05:36",
+          "request_id": "2b31ff02-5e93-4ef6-a451-aca93f997593",
+          "total_charged": "$6.32",
+          "distance_label": "miles",
+          "total_owed": null,
+          "charge_adjustments": [],
+          "distance": "1.10"
+        },
+        "request": {
+          "request_id": "2b31ff02-5e93-4ef6-a451-aca93f997593",
+          "vehicle": {
+            "license_plate": "6UKZ889",
+            "model": "Versa",
+            "picture_url": "https://d3a74cgiihgn4m.cloudfront.net/2012/nissan/versa/7717_535458_3.png",
+            "make": "Nissan"
+          },
+          "location": {
+            "longitude": -118.370326,
+            "bearing": 1,
+            "latitude": 34.0846623
+          },
+          "pickup": {
+            "time": "2017-09-11T03:10:46.623Z",
+            "eta": 3,
+            "longitude": -118.3703349531,
+            "latitude": 34.0845596954
+          },
+          "driver": {
+            "sms_number": "+13106835561",
+            "name": "Omar",
+            "picture_url": "https://d1w2poirtb3as9.cloudfront.net/c876cae08675e7e4320f.jpeg",
+            "rating": 4.93,
+            "phone_number": "+13106835561"
+          },
+          "destination": {
+            "time": "2017-09-11T03:16:24.603Z",
+            "eta": 4,
+            "longitude": -118.3812590572,
+            "latitude": 34.0870318469
+          },
+          "shared": false,
+          "surge_multiplier": 1,
+          "eta": null,
+          "product_id": "2143f90b-ce68-4f6d-a113-4872b207e626",
+          "status": "completed"
+        },
+        "eventTime": "2017-09-11T03:07:58.104Z"
+      },
+      "closeout": {
+        "qrCodeUrl": null,
+        "pin": null,
+        "linked": true,
+        "coupon": null
+      },
+      "googleMapStaticUrl": "http://maps.googleapis.com/maps/api/staticmap?autoscale=false&size=516x193&maptype=roadmap&format=png&markers=size:mid%7Ccolor:0x338eb0%7Clabel:%7C34.08455969536335,-118.3703349530697&markers=size:mid%7Ccolor:0x252525%7Clabel:%7C34.08703184688568,-118.3812590572462&key=AIzaSyBGXLWa3UWgo_tO2clykKvdEtWDcF1oLWI",
+      "receiptUrl": null,
+      "cashBack": 4,
+      "riderCount": 1,
+      "transactions": [],
+      "payment": null,
+      "status": 6,
+      "transactionAmount": 0,
+      "roi": 0,
+      "id": "59b5fe0ee0dfd5000151e32e"
+    }
+  ]
+}

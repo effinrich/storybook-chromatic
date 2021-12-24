@@ -1,0 +1,21 @@
+{
+  "message": "ok",
+  "data": [
+    {
+      "amount": 2000,
+      "description": "manual entry",
+      "exchangeRate": 1,
+      "activityType": "rideCashback",
+      "type": "credit",
+      "sourceCurrency": "USD",
+      "targetCurrency": "USD",
+      "forexValidToDate": "2018-05-29T20:39:55.048Z",
+      "_id": "5b048f6c4d43d25d63c7fb80",
+      "user": "58cb590b96edb6004503f89a",
+      "forexValidFromDate": "2018-05-22T21:45:16.266Z",
+      "createdAt": "2018-05-22T21:45:16.271Z",
+      "updatedAt": "2018-05-22T21:45:16.271Z",
+      "__v": 0
+    }
+  ]
+}

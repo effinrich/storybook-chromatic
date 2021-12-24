@@ -1,0 +1,27 @@
+{
+  "message": "ok",
+  "data": [
+    {
+      "user": "59e565e807ebd4f97b4f3781",
+      "description": "testing, man.  just testing",
+      "title": "test",
+      "status": 10,
+      "enabled": true,
+      "cashBack": 5,
+      "points": 0,
+      "upTo": true,
+      "_id": "5beb46d54ae97b0001c3cf0f",
+      "type": "KARMA",
+      "photos": [
+        {
+          "_id": "5beb46d54ae97b0001c3cf10",
+          "isPrimary": false,
+          "url": "https://freebirdapp-staging.s3.amazonaws.com/user/59e565e807ebd4f97b4f3781/location/photos/photo3803453375.jpg"
+        }
+      ],
+      "createdAt": "2018-11-13T21:49:09.137Z",
+      "updatedAt": "2018-11-13T21:49:09.137Z",
+      "__v": 0
+    }
+  ]
+}

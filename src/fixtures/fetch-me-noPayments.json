@@ -1,0 +1,103 @@
+{
+  "message": "ok",
+  "data": [
+    {
+      "_id": "59c3f70d63c6484aa3cc10b5",
+      "email": "duro+partner@freebirdrides.com",
+      "updatedAt": "2017-11-01T20:48:32.872Z",
+      "__v": 2,
+      "createdAt": "2017-09-21T17:29:49.684Z",
+      "resetPasswordExpires": "2017-09-21T21:39:25.648Z",
+      "resetPasswordToken": "$2a$10$N4X3rFmA1m2U8OzDDnKEtOT/kLOWgD2KFMlrMwpCw9hqiTJZP6fkK",
+      "geo": [-118.4424, 34.0486],
+      "inviteLink": "http://my.fbird.co/ZxxU/OGnC0jOVCG",
+      "empyr": { "accounts": [] },
+      "plaid": {
+        "webhook": "https://webhooks.freebirdrides.com/plaid",
+        "transactions": [],
+        "accounts": []
+      },
+      "mobile": "15555555555",
+      "organization": {
+        "stripe": {
+          "customerId": "cus_Bby2OsyZq8kqf6",
+          "verified": false,
+          "externalAccounts": [],
+          "paymentMethods": []
+        }
+      },
+      "uber": {
+        "updated": "2017-11-03T21:34:18.223Z",
+        "refreshToken": null,
+        "token": null,
+        "uuid": null,
+        "riderId": null,
+        "promoCode": null,
+        "picture": null,
+        "mobileVerified": true,
+        "email": null,
+        "lastName": null,
+        "firstName": null
+      },
+      "notificationPreferences": ["sms", "push", "email"],
+      "locale": "US",
+      "devices": [],
+      "cashBalance": 0,
+      "terms": false,
+      "status": 10,
+      "enhancedSecurity": { "enabled": false },
+      "group": { "splitTestABCD": "A", "splitTestabc": "a" },
+      "activity": {
+        "rideCount": 0,
+        "nextEmailScheduleDate": "2017-09-21T17:39:43.816Z",
+        "loginCount": 0,
+        "lastLogin": "2017-09-21T17:39:43.816Z",
+        "dateEstablished": "2017-09-21T17:39:43.816Z"
+      },
+      "profile": {
+        "howDidYouHear": "",
+        "name": "Adam Duro",
+        "lastSeen": {
+          "formattedAddress": "11011 Santa Monica Blvd, Los Angeles, CA 90025, USA",
+          "latitude": 34.0486,
+          "longitude": -118.4424,
+          "extra": {
+            "googlePlaceId": "ChIJNYzZhXe7woARGnneXSPnHX8",
+            "confidence": 1,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Westwood",
+            "establishment": null
+          },
+          "administrativeLevels": {
+            "level2long": "Los Angeles County",
+            "level2short": "Los Angeles County",
+            "level1long": "California",
+            "level1short": "CA"
+          },
+          "streetNumber": "11011",
+          "streetName": "Santa Monica Boulevard",
+          "city": "Los Angeles",
+          "country": "United States",
+          "countryCode": "US",
+          "zipcode": "90025",
+          "provider": "google",
+          "county": "Los Angeles County",
+          "sessionId": "",
+          "geo": [-118.4424, 34.0486]
+        },
+        "picture": [],
+        "company": null,
+        "isAllowedToTakeRides": true,
+        "address": { "postalCode": null, "city": " " }
+      },
+      "roles": ["freebird", "partner"],
+      "hasRedeemableRides": false,
+      "inApp": false,
+      "env": "development",
+      "id": "59c3f70d63c6484aa3cc10b5",
+      "totalAvailableOffers": 0,
+      "isTester": false
+    }
+  ]
+}

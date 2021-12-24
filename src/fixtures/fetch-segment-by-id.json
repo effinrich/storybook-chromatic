@@ -1,0 +1,11 @@
+{
+  "_id": "5cd22d2fee15cfc2e391735f",
+  "name": "New York",
+  "description": "New York Market",
+  "type": "market",
+  "targetType": "user",
+  "enabled": true,
+  "createdAt": "2019-05-08T01:13:19.028Z",
+  "updatedAt": "2019-05-08T19:53:46.791Z",
+  "__v": 0
+}

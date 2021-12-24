@@ -1,0 +1,77 @@
+{
+  "message": "ok",
+  "data": [
+    {
+      "discount": {
+        "percentOff": 0,
+        "amountOff": 0,
+        "unitOff": 5,
+        "type": "UNIT",
+        "unitType": "noLocation"
+      },
+      "gift": { "amount": 0, "balance": 0 },
+      "_voucherify": {
+        "discount": {
+          "type": "UNIT",
+          "unit_off": 5,
+          "unit_type": "noLocation"
+        },
+        "redemption": {
+          "redemption_entries": [],
+          "object": "list",
+          "quantity": 5,
+          "redeemed_quantity": 0,
+          "url": "/v1/vouchers/voucher/test/redemptions?page=1&limit=10"
+        },
+        "code": "test",
+        "campaign": null,
+        "category": null,
+        "type": "DISCOUNT_VOUCHER",
+        "start_date": "2018-11-01T07:00:00.000Z",
+        "expiration_date": "2018-11-30T08:00:00.000Z",
+        "publish": {
+          "object": "list",
+          "count": 0,
+          "url": "/v1/vouchers/voucher/test/publications?page=1&limit=10"
+        },
+        "active": true,
+        "additional_info": null,
+        "metadata": {
+          "description": "testing",
+          "promoted": 1,
+          "per_user_quantity": 5,
+          "voucher_offer_id": "5beb46d54ae97b0001c3cf0f",
+          "cash_back": 5,
+          "points": 0
+        },
+        "object": "voucher"
+      },
+      "type": "voucher",
+      "inventoryType": "noLocation",
+      "endDate": "2018-11-30T08:00:00.000Z",
+      "promoted": true,
+      "quantity": 5,
+      "perUserQuantity": 5,
+      "expired": false,
+      "usersDismissed": [],
+      "usersEmailList": [],
+      "redemptions": [],
+      "rollbacks": [],
+      "users": [],
+      "_id": "5beb58364ae97b0001c3cf2a",
+      "code": "test",
+      "voucherifyType": "DISCOUNT_VOUCHER",
+      "category": null,
+      "description": "testing",
+      "startDate": "2018-11-01T07:00:00.000Z",
+      "active": true,
+      "redeemedQuantity": 0,
+      "offer": null,
+      "voucherOffer": "5beb46d54ae97b0001c3cf0f",
+      "redeemedErrors": [],
+      "createdAt": "2018-11-13T23:03:18.082Z",
+      "updatedAt": "2018-11-13T23:03:18.082Z",
+      "__v": 0
+    }
+  ]
+}

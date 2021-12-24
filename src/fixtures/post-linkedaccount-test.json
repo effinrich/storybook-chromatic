@@ -1,0 +1,934 @@
+{
+  "message": "ok",
+  "data": [
+    {
+      "accounts": [
+        {
+          "account_id": "KqxjzmBDKrtrRwmP7BALs4qabpnYkxiXyez8O",
+          "balances": {
+            "available": 68676.49,
+            "current": 68676.49,
+            "limit": null
+          },
+          "mask": "5687",
+          "name": "PREMIER PLUS CKG",
+          "official_name": null,
+          "subtype": "checking",
+          "type": "depository"
+        },
+        {
+          "account_id": "k1NEqbLro3spmKxZ1eb6ibz59rYQ4NujbrKJn",
+          "balances": {
+            "available": 43772.68,
+            "current": 43772.68,
+            "limit": null
+          },
+          "mask": "7802",
+          "name": "CHASE PLUS SAVINGS",
+          "official_name": null,
+          "subtype": "savings",
+          "type": "depository"
+        },
+        {
+          "account_id": "o30YK4m9aAsNbX8Bwd81hymgoJwRj6fbxwZbz",
+          "balances": {
+            "available": 4932.21,
+            "current": 9354.21,
+            "limit": 14700
+          },
+          "mask": "8483",
+          "name": "CREDIT CARD",
+          "official_name": "CHASE SAPPHIRE PREFERRED CREDIT CARD",
+          "subtype": "credit card",
+          "type": "credit"
+        },
+        {
+          "account_id": "nB9ny4PaqkF0Y47DdJ0EuRLv4RRbwkFVR9a1Z",
+          "balances": { "available": 3200, "current": 0, "limit": 3200 },
+          "mask": "9384",
+          "name": "CREDIT CARD",
+          "official_name": "FREEDOM PLATINUM CREDIT CARD",
+          "subtype": "credit card",
+          "type": "credit"
+        }
+      ],
+      "item": {
+        "available_products": ["auth", "balance"],
+        "billed_products": ["transactions"],
+        "error": null,
+        "institution_id": "ins_3",
+        "item_id": "Ddm3zYwEDyIyaY5rP7xOin8MXgr08pswaxbrN",
+        "webhook": "https://webhooks.freebirdrides.com/plaid"
+      },
+      "request_id": "1LqnLka54gFoKvm",
+      "total_transactions": 27,
+      "transactions": [
+        {
+          "account_id": "o30YK4m9aAsNbX8Bwd81hymgoJwRj6fbxwZbz",
+          "account_owner": null,
+          "amount": -471.95,
+          "category": ["Shops", "Department Stores"],
+          "category_id": "19018000",
+          "date": "2018-09-25",
+          "location": {
+            "address": null,
+            "city": null,
+            "lat": null,
+            "lon": null,
+            "state": null,
+            "store_number": "0808",
+            "zip": null
+          },
+          "name": "Nordstrom Direct",
+          "payment_meta": {
+            "by_order_of": null,
+            "payee": null,
+            "payer": null,
+            "payment_method": null,
+            "payment_processor": null,
+            "ppd_id": null,
+            "reason": null,
+            "reference_number": null
+          },
+          "pending": true,
+          "pending_transaction_id": null,
+          "transaction_id": "a9AEzmVPQNcr7b1xLRd9i57po4Jx7RsZENNde",
+          "transaction_type": "place"
+        },
+        {
+          "account_id": "o30YK4m9aAsNbX8Bwd81hymgoJwRj6fbxwZbz",
+          "account_owner": null,
+          "amount": 362.78,
+          "category": ["Shops", "Department Stores"],
+          "category_id": "19018000",
+          "date": "2018-09-25",
+          "location": {
+            "address": null,
+            "city": null,
+            "lat": null,
+            "lon": null,
+            "state": null,
+            "store_number": "0808",
+            "zip": null
+          },
+          "name": "Nordstrom Direct",
+          "payment_meta": {
+            "by_order_of": null,
+            "payee": null,
+            "payer": null,
+            "payment_method": null,
+            "payment_processor": null,
+            "ppd_id": null,
+            "reason": null,
+            "reference_number": null
+          },
+          "pending": true,
+          "pending_transaction_id": null,
+          "transaction_id": "4mwapB80gRtYJr5xzn7Eta4xPjrB4AUkOggY6",
+          "transaction_type": "place"
+        },
+        {
+          "account_id": "o30YK4m9aAsNbX8Bwd81hymgoJwRj6fbxwZbz",
+          "account_owner": null,
+          "amount": 72.98,
+          "category": ["Shops", "Supermarkets and Groceries"],
+          "category_id": "19047000",
+          "date": "2018-09-24",
+          "location": {
+            "address": null,
+            "city": null,
+            "lat": null,
+            "lon": null,
+            "state": null,
+            "store_number": null,
+            "zip": null
+          },
+          "name": "Festival Foods",
+          "payment_meta": {
+            "by_order_of": null,
+            "payee": null,
+            "payer": null,
+            "payment_method": null,
+            "payment_processor": null,
+            "ppd_id": null,
+            "reason": null,
+            "reference_number": null
+          },
+          "pending": false,
+          "pending_transaction_id": "nB9ny4PaqkF0Y47DdJ3pI8Vj41OJ7qfA1wxPR",
+          "transaction_id": "Ewkyzb6BQKsK9L3V5eq3ijJEJQVyZrFppBJ48",
+          "transaction_type": "place"
+        },
+        {
+          "account_id": "o30YK4m9aAsNbX8Bwd81hymgoJwRj6fbxwZbz",
+          "account_owner": null,
+          "amount": 33.6,
+          "category": ["Shops", "Department Stores"],
+          "category_id": "19018000",
+          "date": "2018-09-24",
+          "location": {
+            "address": null,
+            "city": null,
+            "lat": null,
+            "lon": null,
+            "state": null,
+            "store_number": null,
+            "zip": null
+          },
+          "name": "Nordstrom Direct",
+          "payment_meta": {
+            "by_order_of": null,
+            "payee": null,
+            "payer": null,
+            "payment_method": null,
+            "payment_processor": null,
+            "ppd_id": null,
+            "reason": null,
+            "reference_number": null
+          },
+          "pending": true,
+          "pending_transaction_id": null,
+          "transaction_id": "mq9E341PmKtoxk4PqQE4sykzQVDvvKHMA4eg7",
+          "transaction_type": "place"
+        },
+        {
+          "account_id": "o30YK4m9aAsNbX8Bwd81hymgoJwRj6fbxwZbz",
+          "account_owner": null,
+          "amount": 17.2,
+          "category": ["Food and Drink", "Restaurants"],
+          "category_id": "13005000",
+          "date": "2018-09-24",
+          "location": {
+            "address": null,
+            "city": null,
+            "lat": null,
+            "lon": null,
+            "state": null,
+            "store_number": "38",
+            "zip": null
+          },
+          "name": "Qdoba",
+          "payment_meta": {
+            "by_order_of": null,
+            "payee": null,
+            "payer": null,
+            "payment_method": null,
+            "payment_processor": null,
+            "ppd_id": null,
+            "reason": null,
+            "reference_number": null
+          },
+          "pending": true,
+          "pending_transaction_id": null,
+          "transaction_id": "zxmM8L47g5F6RZQwEo7QIwjaEjJz7ztO4eaaX",
+          "transaction_type": "place"
+        },
+        {
+          "account_id": "KqxjzmBDKrtrRwmP7BALs4qabpnYkxiXyez8O",
+          "account_owner": null,
+          "amount": 2000,
+          "category": ["Transfer", "Third Party", "Chase QuickPay"],
+          "category_id": "21010007",
+          "date": "2018-09-24",
+          "location": {
+            "address": null,
+            "city": null,
+            "lat": null,
+            "lon": null,
+            "state": null,
+            "store_number": null,
+            "zip": null
+          },
+          "name": "QuickPay with Zelle payment to Emma Coenen 7516534400",
+          "payment_meta": {
+            "by_order_of": null,
+            "payee": null,
+            "payer": null,
+            "payment_method": null,
+            "payment_processor": null,
+            "ppd_id": null,
+            "reason": null,
+            "reference_number": null
+          },
+          "pending": false,
+          "pending_transaction_id": "M3x4zJy5jasaMLdE7XVds4bPbZ0xjAFMM356P",
+          "transaction_id": "o30YK4m9aAsNbX8BwdemSzpyXEBkLPIB6PQKM",
+          "transaction_type": "special"
+        },
+        {
+          "account_id": "k1NEqbLro3spmKxZ1eb6ibz59rYQ4NujbrKJn",
+          "account_owner": null,
+          "amount": -787.5,
+          "category": ["Transfer", "Deposit"],
+          "category_id": "21007000",
+          "date": "2018-09-24",
+          "location": {
+            "address": null,
+            "city": null,
+            "lat": null,
+            "lon": null,
+            "state": null,
+            "store_number": null,
+            "zip": null
+          },
+          "name": "REMOTE ONLINE DEPOSIT # 1",
+          "payment_meta": {
+            "by_order_of": null,
+            "payee": null,
+            "payer": null,
+            "payment_method": null,
+            "payment_processor": null,
+            "ppd_id": null,
+            "reason": null,
+            "reference_number": null
+          },
+          "pending": false,
+          "pending_transaction_id": null,
+          "transaction_id": "gwyEL8npK1sP0mDXRrJZuD7nmdqjkrfq5D4nD",
+          "transaction_type": "special"
+        },
+        {
+          "account_id": "k1NEqbLro3spmKxZ1eb6ibz59rYQ4NujbrKJn",
+          "account_owner": null,
+          "amount": -729.25,
+          "category": ["Transfer", "Deposit"],
+          "category_id": "21007000",
+          "date": "2018-09-24",
+          "location": {
+            "address": null,
+            "city": null,
+            "lat": null,
+            "lon": null,
+            "state": null,
+            "store_number": null,
+            "zip": null
+          },
+          "name": "REMOTE ONLINE DEPOSIT # 1",
+          "payment_meta": {
+            "by_order_of": null,
+            "payee": null,
+            "payer": null,
+            "payment_method": null,
+            "payment_processor": null,
+            "ppd_id": null,
+            "reason": null,
+            "reference_number": null
+          },
+          "pending": false,
+          "pending_transaction_id": null,
+          "transaction_id": "bVbQz8O4PdIBn1bNDZ8YsKzeLrqDPZfq5mrKv",
+          "transaction_type": "special"
+        },
+        {
+          "account_id": "o30YK4m9aAsNbX8Bwd81hymgoJwRj6fbxwZbz",
+          "account_owner": null,
+          "amount": 104.81,
+          "category": ["Shops", "Department Stores"],
+          "category_id": "19018000",
+          "date": "2018-09-24",
+          "location": {
+            "address": null,
+            "city": null,
+            "lat": null,
+            "lon": null,
+            "state": null,
+            "store_number": "00012484",
+            "zip": null
+          },
+          "name": "Target",
+          "payment_meta": {
+            "by_order_of": null,
+            "payee": null,
+            "payer": null,
+            "payment_method": null,
+            "payment_processor": null,
+            "ppd_id": null,
+            "reason": null,
+            "reference_number": null
+          },
+          "pending": false,
+          "pending_transaction_id": "XxwEz8JRkVFVovKPOqrptN154AdqkeU4YZV1B",
+          "transaction_id": "RvOZzJ0m35U5OB1dE601ug010MYob5UyyD4aB",
+          "transaction_type": "place"
+        },
+        {
+          "account_id": "o30YK4m9aAsNbX8Bwd81hymgoJwRj6fbxwZbz",
+          "account_owner": null,
+          "amount": 471.95,
+          "category": ["Shops", "Department Stores"],
+          "category_id": "19018000",
+          "date": "2018-09-23",
+          "location": {
+            "address": null,
+            "city": null,
+            "lat": null,
+            "lon": null,
+            "state": null,
+            "store_number": null,
+            "zip": null
+          },
+          "name": "Nordstrom Direct",
+          "payment_meta": {
+            "by_order_of": null,
+            "payee": null,
+            "payer": null,
+            "payment_method": null,
+            "payment_processor": null,
+            "ppd_id": null,
+            "reason": null,
+            "reference_number": null
+          },
+          "pending": true,
+          "pending_transaction_id": null,
+          "transaction_id": "pyaMk4BPXvFLy8ba5gzpIA7D0ZVOQ6SJp5dMR",
+          "transaction_type": "place"
+        },
+        {
+          "account_id": "o30YK4m9aAsNbX8Bwd81hymgoJwRj6fbxwZbz",
+          "account_owner": null,
+          "amount": 152.45,
+          "category": ["Shops"],
+          "category_id": "19000000",
+          "date": "2018-09-23",
+          "location": {
+            "address": null,
+            "city": null,
+            "lat": null,
+            "lon": null,
+            "state": null,
+            "store_number": null,
+            "zip": null
+          },
+          "name": "SUPERIOR FIREWORKS LLC",
+          "payment_meta": {
+            "by_order_of": null,
+            "payee": null,
+            "payer": null,
+            "payment_method": null,
+            "payment_processor": null,
+            "ppd_id": null,
+            "reason": null,
+            "reference_number": null
+          },
+          "pending": false,
+          "pending_transaction_id": null,
+          "transaction_id": "5a6mp3ZjgQCmngNye3qbCy8Xo0Jnq0cBbLeq8",
+          "transaction_type": "place"
+        },
+        {
+          "account_id": "KqxjzmBDKrtrRwmP7BALs4qabpnYkxiXyez8O",
+          "account_owner": null,
+          "amount": -11.17,
+          "category": ["Recreation", "Arts and Entertainment"],
+          "category_id": "17001000",
+          "date": "2018-09-21",
+          "location": {
+            "address": null,
+            "city": null,
+            "lat": null,
+            "lon": null,
+            "state": null,
+            "store_number": null,
+            "zip": null
+          },
+          "name": "FREEBIRD CASH CA 09/19",
+          "payment_meta": {
+            "by_order_of": null,
+            "payee": null,
+            "payer": null,
+            "payment_method": null,
+            "payment_processor": null,
+            "ppd_id": null,
+            "reason": null,
+            "reference_number": null
+          },
+          "pending": false,
+          "pending_transaction_id": null,
+          "transaction_id": "KqxjzmBDKrtrRwmP7B16hBP60EZka8tQeZELR",
+          "transaction_type": "place"
+        },
+        {
+          "account_id": "o30YK4m9aAsNbX8Bwd81hymgoJwRj6fbxwZbz",
+          "account_owner": null,
+          "amount": 16.31,
+          "category": ["Food and Drink", "Restaurants"],
+          "category_id": "13005000",
+          "date": "2018-09-21",
+          "location": {
+            "address": null,
+            "city": null,
+            "lat": null,
+            "lon": null,
+            "state": null,
+            "store_number": null,
+            "zip": null
+          },
+          "name": "JOSEF'S GYROS AND KAB",
+          "payment_meta": {
+            "by_order_of": null,
+            "payee": null,
+            "payer": null,
+            "payment_method": null,
+            "payment_processor": "Square",
+            "ppd_id": null,
+            "reason": null,
+            "reference_number": null
+          },
+          "pending": false,
+          "pending_transaction_id": "PkXJzbAxq8h8ZPLv7xzECj3Kv9ekBAFmYA9PX",
+          "transaction_id": "eE3pwMRXoLc1zBvJqOaJc4MPNQ4r7YFdqdM1w",
+          "transaction_type": "place"
+        },
+        {
+          "account_id": "o30YK4m9aAsNbX8Bwd81hymgoJwRj6fbxwZbz",
+          "account_owner": null,
+          "amount": 25,
+          "category": ["Food and Drink", "Restaurants"],
+          "category_id": "13005000",
+          "date": "2018-09-21",
+          "location": {
+            "address": null,
+            "city": null,
+            "lat": null,
+            "lon": null,
+            "state": null,
+            "store_number": null,
+            "zip": null
+          },
+          "name": "MDATEAM MOMENTUM",
+          "payment_meta": {
+            "by_order_of": null,
+            "payee": null,
+            "payer": null,
+            "payment_method": null,
+            "payment_processor": "Blackbaud",
+            "ppd_id": null,
+            "reason": null,
+            "reference_number": null
+          },
+          "pending": false,
+          "pending_transaction_id": "YJ6Ezp83AOHAR0kq7oPJhLxDOpmemoUQQmk6A",
+          "transaction_id": "NyMazJKqZxFeZgw3Rxb3sv65XdvDEPURMR5ra",
+          "transaction_type": "place"
+        },
+        {
+          "account_id": "o30YK4m9aAsNbX8Bwd81hymgoJwRj6fbxwZbz",
+          "account_owner": null,
+          "amount": 370.63,
+          "category": ["Shops", "Department Stores"],
+          "category_id": "19018000",
+          "date": "2018-09-21",
+          "location": {
+            "address": null,
+            "city": null,
+            "lat": null,
+            "lon": null,
+            "state": null,
+            "store_number": "0808",
+            "zip": null
+          },
+          "name": "Nordstrom Direct",
+          "payment_meta": {
+            "by_order_of": null,
+            "payee": null,
+            "payer": null,
+            "payment_method": null,
+            "payment_processor": null,
+            "ppd_id": null,
+            "reason": null,
+            "reference_number": null
+          },
+          "pending": false,
+          "pending_transaction_id": null,
+          "transaction_id": "XxwEz8JRkVFVovKPOqrPI5Nbzy5XjYC414M8p",
+          "transaction_type": "place"
+        },
+        {
+          "account_id": "o30YK4m9aAsNbX8Bwd81hymgoJwRj6fbxwZbz",
+          "account_owner": null,
+          "amount": 420.72,
+          "category": ["Food and Drink", "Restaurants"],
+          "category_id": "13005000",
+          "date": "2018-09-21",
+          "location": {
+            "address": null,
+            "city": null,
+            "lat": null,
+            "lon": null,
+            "state": null,
+            "store_number": null,
+            "zip": null
+          },
+          "name": "TOWN COUNCIL KITCHEN BAR",
+          "payment_meta": {
+            "by_order_of": null,
+            "payee": null,
+            "payer": null,
+            "payment_method": null,
+            "payment_processor": null,
+            "ppd_id": null,
+            "reason": null,
+            "reference_number": null
+          },
+          "pending": false,
+          "pending_transaction_id": null,
+          "transaction_id": "pyaMk4BPXvFLy8ba5gzaCDAqoeDbnXFJMJNjd",
+          "transaction_type": "place"
+        },
+        {
+          "account_id": "o30YK4m9aAsNbX8Bwd81hymgoJwRj6fbxwZbz",
+          "account_owner": null,
+          "amount": 31.52,
+          "category": ["Shops", "Supermarkets and Groceries"],
+          "category_id": "19047000",
+          "date": "2018-09-20",
+          "location": {
+            "address": null,
+            "city": null,
+            "lat": null,
+            "lon": null,
+            "state": null,
+            "store_number": "64068",
+            "zip": null
+          },
+          "name": "Aldi",
+          "payment_meta": {
+            "by_order_of": null,
+            "payee": null,
+            "payer": null,
+            "payment_method": null,
+            "payment_processor": null,
+            "ppd_id": null,
+            "reason": null,
+            "reference_number": null
+          },
+          "pending": false,
+          "pending_transaction_id": "Ewkyzb6BQKsK9L3V5eqospxazkALg8UppvOoO",
+          "transaction_id": "Ewkyzb6BQKsK9L3V5eqrC8XvXA9yq0IpzRxyZ",
+          "transaction_type": "place"
+        },
+        {
+          "account_id": "o30YK4m9aAsNbX8Bwd81hymgoJwRj6fbxwZbz",
+          "account_owner": null,
+          "amount": 5.87,
+          "category": ["Food and Drink", "Restaurants"],
+          "category_id": "13005000",
+          "date": "2018-09-20",
+          "location": {
+            "address": null,
+            "city": null,
+            "lat": null,
+            "lon": null,
+            "state": null,
+            "store_number": null,
+            "zip": null
+          },
+          "name": "JIMMY JOHNS # 446",
+          "payment_meta": {
+            "by_order_of": null,
+            "payee": null,
+            "payer": null,
+            "payment_method": null,
+            "payment_processor": null,
+            "ppd_id": null,
+            "reason": null,
+            "reference_number": null
+          },
+          "pending": false,
+          "pending_transaction_id": "gwyEL8npK1sP0mDXRrJ7i6QKakeomrCqVr3aP",
+          "transaction_id": "M3x4zJy5jasaMLdE7XVPfXz5zqmxYeUMEroj5",
+          "transaction_type": "place"
+        },
+        {
+          "account_id": "o30YK4m9aAsNbX8Bwd81hymgoJwRj6fbxwZbz",
+          "account_owner": null,
+          "amount": 36.49,
+          "category": ["Shops", "Department Stores"],
+          "category_id": "19018000",
+          "date": "2018-09-20",
+          "location": {
+            "address": null,
+            "city": null,
+            "lat": null,
+            "lon": null,
+            "state": null,
+            "store_number": "0808",
+            "zip": null
+          },
+          "name": "Nordstrom Direct",
+          "payment_meta": {
+            "by_order_of": null,
+            "payee": null,
+            "payer": null,
+            "payment_method": null,
+            "payment_processor": null,
+            "ppd_id": null,
+            "reason": null,
+            "reference_number": null
+          },
+          "pending": false,
+          "pending_transaction_id": "zxmM8L47g5F6RZQwEo7DFkqD0me4D4COP9aJ6",
+          "transaction_id": "RvOZzJ0m35U5OB1dE60KfkjKjJ3oVwhyY7wvd",
+          "transaction_type": "place"
+        },
+        {
+          "account_id": "o30YK4m9aAsNbX8Bwd81hymgoJwRj6fbxwZbz",
+          "account_owner": null,
+          "amount": 112.14,
+          "category": ["Shops", "Department Stores"],
+          "category_id": "19018000",
+          "date": "2018-09-20",
+          "location": {
+            "address": null,
+            "city": null,
+            "lat": null,
+            "lon": null,
+            "state": null,
+            "store_number": "0808",
+            "zip": null
+          },
+          "name": "Nordstrom Direct",
+          "payment_meta": {
+            "by_order_of": null,
+            "payee": null,
+            "payer": null,
+            "payment_method": null,
+            "payment_processor": null,
+            "ppd_id": null,
+            "reason": null,
+            "reference_number": null
+          },
+          "pending": false,
+          "pending_transaction_id": "mq9E341PmKtoxk4PqQENtnerDO5QrQCM7xReA",
+          "transaction_id": "QAx8zJvOrZuZwqna7QDdumaEaxb7VgTE618ZJ",
+          "transaction_type": "place"
+        },
+        {
+          "account_id": "o30YK4m9aAsNbX8Bwd81hymgoJwRj6fbxwZbz",
+          "account_owner": null,
+          "amount": 24.41,
+          "category": ["Food and Drink", "Restaurants"],
+          "category_id": "13005000",
+          "date": "2018-09-19",
+          "location": {
+            "address": null,
+            "city": null,
+            "lat": null,
+            "lon": null,
+            "state": null,
+            "store_number": "2439",
+            "zip": null
+          },
+          "name": "Chipotle Mexican Grill",
+          "payment_meta": {
+            "by_order_of": null,
+            "payee": null,
+            "payer": null,
+            "payment_method": null,
+            "payment_processor": null,
+            "ppd_id": null,
+            "reason": null,
+            "reference_number": null
+          },
+          "pending": false,
+          "pending_transaction_id": "OKPxzOkb7JUJbg6zo7KoSMVnJDV8LYI881zLj",
+          "transaction_id": "YJ6Ezp83AOHAR0kq7oPJhpr8vj578YtQLP03a",
+          "transaction_type": "place"
+        },
+        {
+          "account_id": "o30YK4m9aAsNbX8Bwd81hymgoJwRj6fbxwZbz",
+          "account_owner": null,
+          "amount": 32.47,
+          "category": ["Food and Drink", "Restaurants"],
+          "category_id": "13005000",
+          "date": "2018-09-19",
+          "location": {
+            "address": null,
+            "city": null,
+            "lat": null,
+            "lon": null,
+            "state": null,
+            "store_number": null,
+            "zip": null
+          },
+          "name": "SABINOS RESTAURANT LLC",
+          "payment_meta": {
+            "by_order_of": null,
+            "payee": null,
+            "payer": null,
+            "payment_method": null,
+            "payment_processor": null,
+            "ppd_id": null,
+            "reason": null,
+            "reference_number": null
+          },
+          "pending": false,
+          "pending_transaction_id": null,
+          "transaction_id": "eE3pwMRXoLc1zBvJqOaVhreALy5mAbHd0rw16",
+          "transaction_type": "place"
+        },
+        {
+          "account_id": "KqxjzmBDKrtrRwmP7BALs4qabpnYkxiXyez8O",
+          "account_owner": null,
+          "amount": 110,
+          "category": ["Transfer", "Withdrawal", "Check"],
+          "category_id": "21012001",
+          "date": "2018-09-18",
+          "location": {
+            "address": null,
+            "city": null,
+            "lat": null,
+            "lon": null,
+            "state": null,
+            "store_number": null,
+            "zip": null
+          },
+          "name": "CHECK # 2038",
+          "payment_meta": {
+            "by_order_of": null,
+            "payee": null,
+            "payer": null,
+            "payment_method": null,
+            "payment_processor": null,
+            "ppd_id": null,
+            "reason": null,
+            "reference_number": null
+          },
+          "pending": false,
+          "pending_transaction_id": null,
+          "transaction_id": "M3x4zJy5jasaMLdE7XV4treqzAR7kZfMbE4Kq",
+          "transaction_type": "special"
+        },
+        {
+          "account_id": "o30YK4m9aAsNbX8Bwd81hymgoJwRj6fbxwZbz",
+          "account_owner": null,
+          "amount": 15.6,
+          "category": ["Service", "Subscription"],
+          "category_id": "18061000",
+          "date": "2018-09-18",
+          "location": {
+            "address": null,
+            "city": null,
+            "lat": null,
+            "lon": null,
+            "state": null,
+            "store_number": null,
+            "zip": null
+          },
+          "name": "D J*WALL-ST-JOURNAL",
+          "payment_meta": {
+            "by_order_of": null,
+            "payee": null,
+            "payer": null,
+            "payment_method": null,
+            "payment_processor": null,
+            "ppd_id": null,
+            "reason": null,
+            "reference_number": null
+          },
+          "pending": false,
+          "pending_transaction_id": "jDMEPo68aBCkmVyZD15DIzdzaA0k3EURKX64x",
+          "transaction_id": "QAx8zJvOrZuZwqna7QDrUamNy01EAYiEpyRRy",
+          "transaction_type": "place"
+        },
+        {
+          "account_id": "o30YK4m9aAsNbX8Bwd81hymgoJwRj6fbxwZbz",
+          "account_owner": null,
+          "amount": 55.4,
+          "category": ["Travel", "Gas Stations"],
+          "category_id": "22009000",
+          "date": "2018-09-18",
+          "location": {
+            "address": null,
+            "city": null,
+            "lat": null,
+            "lon": null,
+            "state": null,
+            "store_number": null,
+            "zip": null
+          },
+          "name": "Kwik Trip",
+          "payment_meta": {
+            "by_order_of": null,
+            "payee": null,
+            "payer": null,
+            "payment_method": null,
+            "payment_processor": null,
+            "ppd_id": null,
+            "reason": null,
+            "reference_number": null
+          },
+          "pending": false,
+          "pending_transaction_id": "Ddm3zYwEDyIyaY5rP7oNHmMvD0EKPrhZmN4Jj",
+          "transaction_id": "pyaMk4BPXvFLy8ba5gzRUnxRgDbkd8FJ9err3",
+          "transaction_type": "place"
+        },
+        {
+          "account_id": "o30YK4m9aAsNbX8Bwd81hymgoJwRj6fbxwZbz",
+          "account_owner": null,
+          "amount": 90,
+          "category": ["Travel", "Lodging"],
+          "category_id": "22012000",
+          "date": "2018-09-18",
+          "location": {
+            "address": null,
+            "city": null,
+            "lat": null,
+            "lon": null,
+            "state": null,
+            "store_number": null,
+            "zip": null
+          },
+          "name": "LOEWS HOTELS",
+          "payment_meta": {
+            "by_order_of": null,
+            "payee": null,
+            "payer": null,
+            "payment_method": null,
+            "payment_processor": null,
+            "ppd_id": null,
+            "reason": null,
+            "reference_number": null
+          },
+          "pending": false,
+          "pending_transaction_id": null,
+          "transaction_id": "RvOZzJ0m35U5OB1dE60mcjkrYn7KXMUyMVPP8",
+          "transaction_type": "place"
+        },
+        {
+          "account_id": "o30YK4m9aAsNbX8Bwd81hymgoJwRj6fbxwZbz",
+          "account_owner": null,
+          "amount": 12.19,
+          "category": ["Travel", "Car Service", "Ride Share"],
+          "category_id": "22006001",
+          "date": "2018-09-18",
+          "location": {
+            "address": null,
+            "city": null,
+            "lat": null,
+            "lon": null,
+            "state": null,
+            "store_number": null,
+            "zip": null
+          },
+          "name": "Lyft",
+          "payment_meta": {
+            "by_order_of": null,
+            "payee": null,
+            "payer": null,
+            "payment_method": null,
+            "payment_processor": null,
+            "ppd_id": null,
+            "reason": null,
+            "reference_number": null
+          },
+          "pending": false,
+          "pending_transaction_id": "10gjp1aAxOFXmP9JZegyCz9b9zkveZUmdQ0e9",
+          "transaction_id": "nB9ny4PaqkF0Y47DdJ3VUdvgnjprMEIAbQ66A",
+          "transaction_type": "special"
+        }
+      ],
+      "status_code": 200
+    }
+  ]
+}

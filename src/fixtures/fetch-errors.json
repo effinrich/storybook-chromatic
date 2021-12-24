@@ -1,0 +1,31 @@
+{
+  "message": "ok",
+  "data": [
+    {
+      "_id": "5c9959a6ea9955686342cfda",
+      "user": "5c99592cea9955006e42cfd3",
+      "source": "stripe",
+      "message": "This card doesn't appear to be a debit card.",
+      "statusCode": 400,
+      "code": "invalid_card_type",
+      "requestId": "req_sIK47ciLXUmNE6",
+      "type": "StripeInvalidRequestError",
+      "createdAt": "2019-03-25T22:43:50.105Z",
+      "updatedAt": "2019-03-25T22:43:50.105Z",
+      "__v": 0
+    },
+    {
+      "_id": "5c9059a6da9958686342cfdb",
+      "user": "5c99592cea9955006e42cfd3",
+      "source": "stripe",
+      "message": "This card doesn't appear to be a debit card.",
+      "statusCode": 400,
+      "code": "invalid_card_type",
+      "requestId": "req_sIK47ciLXUmNE7",
+      "type": "StripeInvalidRequestError",
+      "createdAt": "2019-03-25T22:43:50.105Z",
+      "updatedAt": "2019-03-25T22:43:50.105Z",
+      "__v": 0
+    }
+  ]
+}

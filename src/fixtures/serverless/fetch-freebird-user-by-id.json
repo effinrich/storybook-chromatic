@@ -1,0 +1,16 @@
+{
+  "roles": ["freebird"],
+  "isBanned": false,
+  "dob": null,
+  "brands": [],
+  "notificationPreferences": ["sms", "push", "email"],
+  "isVerified": true,
+  "_id": "5ee015df7f21cd00081ef2e2",
+  "email": "5ee015df7f21cd00081ef2e2@freebirdrides.com",
+  "status": "inactive",
+  "createdAt": "2020-06-09T23:06:07.604Z",
+  "updatedAt": "2020-06-09T23:43:41.561Z",
+  "__v": 0,
+  "magicLinkToken": "",
+  "rideHailingPlatform": "uber"
+}

@@ -1,0 +1,42 @@
+{
+  "message": "ok",
+  "data": [
+    {
+      "pages": 1,
+      "rows": [
+        {
+          "amount": 0,
+          "description": "initial balance",
+          "exchangeRate": 1,
+          "activityType": "initialBalance",
+          "type": "credit",
+          "sourceCurrency": "USD",
+          "targetCurrency": "USD",
+          "forexValidToDate": "2018-05-03T19:37:09.638Z",
+          "forexValidFromDate": "2018-04-26T19:39:25.453Z",
+          "_id": "5ae22aedde7bc30155f7a345",
+          "user": "5a1f1267df8da9ad57140b43",
+          "createdAt": "2018-04-26T19:39:26.810Z",
+          "updatedAt": "2018-04-26T19:39:26.810Z",
+          "__v": 0
+        },
+        {
+          "amount": 500,
+          "description": "initial balance",
+          "exchangeRate": 1,
+          "activityType": "initialBalance",
+          "type": "credit",
+          "sourceCurrency": "USD",
+          "targetCurrency": "USD",
+          "forexValidToDate": "2018-05-03T19:37:09.638Z",
+          "forexValidFromDate": "2018-04-26T19:39:25.453Z",
+          "_id": "5ae22aedde7bc30155f7a346",
+          "user": "5a1f1267df8da9ad57140b43",
+          "createdAt": "2018-04-26T19:39:26.810Z",
+          "updatedAt": "2018-04-26T19:39:26.810Z",
+          "__v": 0
+        }
+      ]
+    }
+  ]
+}

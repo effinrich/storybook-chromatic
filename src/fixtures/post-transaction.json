@@ -1,0 +1,31 @@
+{
+  "message": "ok",
+  "data": [
+    {
+      "statementDescriptor": {
+        "name": "",
+        "matched": [],
+        "words": []
+      },
+      "isRemoved": false,
+      "isMatch": false,
+      "raw": null,
+      "amount": 10,
+      "date": "2019-05-18T23:57:51.630Z",
+      "name": "test bar",
+      "meta": null,
+      "pending": false,
+      "type": null,
+      "category": null,
+      "categoryId": null,
+      "score": null,
+      "_id": "5cda0d35e894912fee3da414",
+      "user": "5a1f1267df8da9ad57140b43",
+      "transactionId": "manual-1",
+      "accountId": "Kz7Vo36jB1fqyN6anzREF41d3gOeb5HmY11Pv",
+      "createdAt": "2019-05-14T00:35:01.061Z",
+      "updatedAt": "2019-05-14T00:35:01.061Z",
+      "__v": 0
+    }
+  ]
+}

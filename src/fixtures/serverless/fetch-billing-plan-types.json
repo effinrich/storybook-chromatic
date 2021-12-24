@@ -1,0 +1,14 @@
+[
+  {
+    "isPublic": true,
+    "_id": "5f0cb0b2bb3c44aa830a3e7e",
+    "chargeAmount": 10000,
+    "initialBonusFactor": 0.1
+  },
+  {
+    "isPublic": true,
+    "_id": "5f0cb0b2bb3c44aa830a3e7d",
+    "chargeAmount": 5000,
+    "initialBonusFactor": 0
+  }
+]

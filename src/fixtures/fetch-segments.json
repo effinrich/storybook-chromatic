@@ -1,0 +1,51 @@
+[
+  {
+    "_id": "5cd22d2fee15cfc2e391735f",
+    "name": "New York",
+    "description": "New York Market",
+    "type": "market",
+    "targetType": "user",
+    "enabled": true,
+    "createdAt": "2019-05-08T01:13:19.028Z",
+    "updatedAt": "2019-05-08T19:53:46.791Z",
+    "__v": 0
+  },
+  {
+    "_id": "5cf6d776d9f2c45704d0d146",
+    "name": "Duro",
+    "description": "Duro Segment",
+    "type": "segment",
+    "targetType": "user",
+    "enabled": true,
+    "__v": 0
+  },
+  {
+    "_id": "5cfabdeb11cccd000711b531",
+    "name": "fb1060exclude",
+    "description": "fb1060exclude",
+    "type": "segment",
+    "targetType": "user",
+    "enabled": true,
+    "__v": 0
+  },
+  {
+    "_id": "5d291659302100a158dc99fc",
+    "name": "june2019winners11",
+    "description": "june2019winners",
+    "type": "segment",
+    "targetType": "user",
+    "enabled": true,
+    "__v": 0
+  },
+  {
+    "_id": "5d32061133d07400070b508d",
+    "name": "test large user set",
+    "description": "test large user set",
+    "type": "segment",
+    "targetType": "offer",
+    "enabled": true,
+    "createdAt": "2019-07-19T18:04:01.211Z",
+    "updatedAt": "2019-07-19T18:04:01.211Z",
+    "__v": 0
+  }
+]

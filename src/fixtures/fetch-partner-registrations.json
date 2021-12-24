@@ -1,0 +1,47 @@
+[
+  {
+    "status": "Approved",
+    "_id": "5df991c7d46d5000084ba99a",
+    "googlePlaceId": "ChIJ0zR6mSu7woAR4GeLs8NKAnQ",
+    "googlePlaceName": "Superba Food + Bread",
+    "googlePlaceAddress": "1900 Lincoln Blvd, Venice, CA 90291, USA",
+    "firstName": "Adam",
+    "lastName": "Duro",
+    "company": "Freebird Rides",
+    "email": "adam@duromedia.com",
+    "phone": "310-633-0106",
+    "createdAt": "2019-12-18T02:41:11.660Z",
+    "updatedAt": "2019-12-18T02:54:24.951Z",
+    "__v": 0
+  },
+  {
+    "status": "Opened",
+    "_id": "5dfa936ee4b26e00088782ef",
+    "googlePlaceId": "ChIJc4-uRvOIwoARCxFDppFu-Rg",
+    "googlePlaceName": "O Sushi",
+    "googlePlaceAddress": "18812 Soledad Canyon Rd, Santa Clarita, CA 91351, USA",
+    "firstName": "Rich",
+    "lastName": "Tillman",
+    "company": "Test",
+    "email": "richtillman@gmail.com",
+    "phone": "8438340041",
+    "createdAt": "2019-12-18T21:00:30.808Z",
+    "updatedAt": "2019-12-18T21:00:30.808Z",
+    "__v": 0
+  },
+  {
+    "status": "Opened",
+    "_id": "5dfa93aee4b26e00088782f2",
+    "googlePlaceId": "ChIJnQsVUDjGwoARcEGiOJrPzZY",
+    "googlePlaceName": "Sushi Gen",
+    "googlePlaceAddress": "422 E 2nd St, Los Angeles, CA 90012, USA",
+    "firstName": "Rich",
+    "lastName": "Tillman",
+    "company": "Test",
+    "email": "richtillma.n@gmail.com",
+    "phone": "8438340041",
+    "createdAt": "2019-12-18T21:01:34.192Z",
+    "updatedAt": "2019-12-18T21:01:34.192Z",
+    "__v": 0
+  }
+]

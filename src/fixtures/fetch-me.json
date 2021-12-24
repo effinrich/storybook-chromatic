@@ -1,0 +1,294 @@
+{
+  "message": "ok",
+  "data": [
+    {
+      "_id": "59c3f70d63c6484aa3cc10b5",
+      "email": "duro+partner@freebirdrides.com",
+      "updatedAt": "2017-11-01T20:48:32.872Z",
+      "__v": 2,
+      "createdAt": "2017-09-21T17:29:49.684Z",
+      "resetPasswordExpires": "2017-09-21T21:39:25.648Z",
+      "resetPasswordToken": "$2a$10$N4X3rFmA1m2U8OzDDnKEtOT/kLOWgD2KFMlrMwpCw9hqiTJZP6fkK",
+      "geo": [-118.4424, 34.0486],
+      "inviteLink": "http://my.fbird.co/ZxxU/OGnC0jOVCG",
+      "empyr": { "accounts": [] },
+      "plaid": {
+        "hasLinkedOnce": true,
+        "accounts": [
+          {
+            "itemId": "ZOKoeYrX4aUypnOqZeRJI6BVqaEZRDSLvvVwA",
+            "token": "access-production-2c85fa10-5b08-4c6b-abcd-f1dd344b3730",
+            "officialName": null,
+            "institutionName": "Wells Fargo",
+            "institutionId": "ins_4",
+            "mask": "0451",
+            "name": "SAVINGS",
+            "subtype": "savings",
+            "type": "depository",
+            "raw": {
+              "account_id": "3XA7xDzn1wCDg7ByxzjNTaVE5nRJOkhAZ77NQ",
+              "balances": {
+                "available": 19166.35,
+                "current": 19166.35,
+                "limit": null
+              },
+              "mask": "0451",
+              "name": "SAVINGS",
+              "official_name": null,
+              "subtype": "savings",
+              "type": "depository"
+            },
+            "_id": "5ae2265766c223cfe98f2437",
+            "user": "5ae0c57702d6010001f06141",
+            "__v": 0,
+            "accountId": "3XA7xDzn1wCDg7ByxzjNTaVE5nRJOkhAZ77NQ",
+            "createdAt": "2018-04-26T19:19:51.962Z",
+            "updatedAt": "2018-04-26T19:19:51.962Z"
+          },
+          {
+            "itemId": "ZOKoeYrX4aUypnOqZeRJI6BVqaEZRDSLvvVwA",
+            "token": "access-production-2c85fa10-5b08-4c6b-abcd-f1dd344b3730",
+            "officialName": null,
+            "institutionName": "Wells Fargo",
+            "institutionId": "ins_4",
+            "mask": "1828",
+            "name": "SAVINGS",
+            "subtype": "savings",
+            "type": "depository",
+            "raw": {
+              "account_id": "BX7wQa0xYjCxdVaKj98mS6kg1qQPZLH7qddKN",
+              "balances": {
+                "available": 13351.24,
+                "current": 13351.24,
+                "limit": null
+              },
+              "mask": "1828",
+              "name": "SAVINGS",
+              "official_name": null,
+              "subtype": "savings",
+              "type": "depository"
+            },
+            "_id": "5ae2265766c223cfe98f242f",
+            "user": "5ae0c57702d6010001f06141",
+            "__v": 0,
+            "accountId": "BX7wQa0xYjCxdVaKj98mS6kg1qQPZLH7qddKN",
+            "createdAt": "2018-04-26T19:19:51.962Z",
+            "updatedAt": "2018-04-26T19:19:51.962Z"
+          }
+        ],
+        "transactions": [],
+        "webhook": "https://webhooks.freebirdrides.com/plaid"
+      },
+      "organization": {
+        "stripe": {
+          "paymentMethods": [
+            {
+              "bank_account": {
+                "country": null,
+                "bank_name": null,
+                "last4": null,
+                "validated": false,
+                "object": "bank_account"
+              },
+              "card": {
+                "name": "Richard Tillman",
+                "address_line1": null,
+                "address_line2": null,
+                "address_city": null,
+                "address_state": null,
+                "address_zip": "91351",
+                "address_country": null,
+                "country": "US",
+                "exp_month": 10,
+                "exp_year": 2021,
+                "last4": "8577",
+                "object": "card",
+                "brand": "Visa",
+                "funding": "debit"
+              },
+              "isDefault": true,
+              "livemode": true,
+              "type": "card",
+              "fingerprint": "a8dSKbh1cexKkD1o",
+              "object": "token",
+              "used": false,
+              "created": "1970-01-18T15:53:05.495Z",
+              "_id": "5af4b0daf2d186000167ada7",
+              "id": "card_1CQLjfBa3UTfvq8hsewK1SrF",
+              "user": "5af4b0d9f2d186000167ada6",
+              "createdAt": "2018-05-10T20:51:38.256Z",
+              "updatedAt": "2018-05-10T20:51:38.256Z",
+              "__v": 0
+            }
+          ],
+          "customerId": "cus_Cq1nFeXcyX68sr"
+        },
+        "name": "L&E Oyster Bar",
+        "description": null,
+        "type": "partner",
+        "ownedBrands": [],
+        "managedBrands": [],
+        "_id": "5af4b0daf2d186000167ada8",
+        "createdAt": "2018-05-10T20:51:38.269Z",
+        "updatedAt": "2018-05-10T20:51:38.269Z",
+        "__v": 0
+      },
+      "mobile": "15555555555",
+      "stripe": {
+        "customerId": "cus_Bby2OsyZq8kqf6",
+        "verified": false,
+        "externalAccounts": [],
+        "paymentMethods": [
+          {
+            "_id": "59e902f807ebd4f97bc38301",
+            "id": "card_1BEk61Ba3UTfvq8h9O9ivGKp",
+            "__v": 0,
+            "createdAt": "2017-10-19T19:54:32.611Z",
+            "user": "59c3f70d63c6484aa3cc10b5",
+            "updatedAt": "2017-10-19T19:54:32.611Z",
+            "card": {
+              "funding": "credit",
+              "brand": "American Express",
+              "object": "card",
+              "last4": "1004",
+              "exp_year": 2021,
+              "exp_month": 10,
+              "country": "US",
+              "address_country": null,
+              "address_zip": "90404",
+              "address_state": null,
+              "address_city": null,
+              "address_line2": null,
+              "address_line1": null,
+              "name": "duro+partner@freebirdrides.com"
+            },
+            "bank_account": {
+              "object": "bank_account",
+              "validated": false,
+              "last4": null,
+              "bank_name": null,
+              "country": null
+            },
+            "used": false,
+            "object": "token",
+            "fingerprint": "09bvEGO2itfFIsIw",
+            "type": "card",
+            "livemode": true,
+            "created": "1970-01-18T11:00:42.868Z",
+            "isDefault": true
+          },
+          {
+            "_id": "58e901f807ebd4f97bc38302",
+            "id": "card_234rf243432rf2342f23r34",
+            "__v": 0,
+            "createdAt": "2017-10-19T19:54:32.611Z",
+            "user": "59c3f70d63c6484aa3cc10b5",
+            "updatedAt": "2017-10-19T19:54:32.611Z",
+            "card": {
+              "funding": "credit",
+              "brand": null,
+              "object": "card",
+              "last4": null,
+              "exp_year": 2021,
+              "exp_month": 10,
+              "country": "US",
+              "address_country": null,
+              "address_zip": "90404",
+              "address_state": null,
+              "address_city": null,
+              "address_line2": null,
+              "address_line1": null,
+              "name": "duro+partner@freebirdrides.com"
+            },
+            "bank_account": {
+              "object": "bank_account",
+              "validated": false,
+              "last4": null,
+              "bank_name": null,
+              "country": null
+            },
+            "used": false,
+            "object": "token",
+            "fingerprint": "09bvEGO2itfFIsIw",
+            "type": "card",
+            "livemode": true,
+            "created": "1970-01-18T11:00:42.868Z",
+            "isDefault": true
+          }
+        ]
+      },
+      "uber": {
+        "updated": "2017-11-03T21:34:18.223Z",
+        "refreshToken": null,
+        "token": null,
+        "uuid": null,
+        "riderId": null,
+        "promoCode": null,
+        "picture": null,
+        "mobileVerified": true,
+        "email": null,
+        "lastName": null,
+        "firstName": null
+      },
+      "notificationPreferences": ["sms", "push", "email"],
+      "locale": "US",
+      "devices": [],
+      "cashBalance": 0,
+      "terms": false,
+      "status": 10,
+      "enhancedSecurity": { "enabled": false },
+      "group": { "splitTestABCD": "A", "splitTestabc": "a" },
+      "activity": {
+        "rideCount": 0,
+        "nextEmailScheduleDate": "2017-09-21T17:39:43.816Z",
+        "loginCount": 0,
+        "lastLogin": "2017-09-21T17:39:43.816Z",
+        "dateEstablished": "2017-09-21T17:39:43.816Z"
+      },
+      "profile": {
+        "howDidYouHear": "",
+        "name": "Adam Duro",
+        "lastSeen": {
+          "formattedAddress": "11011 Santa Monica Blvd, Los Angeles, CA 90025, USA",
+          "latitude": 34.0486,
+          "longitude": -118.4424,
+          "extra": {
+            "googlePlaceId": "ChIJNYzZhXe7woARGnneXSPnHX8",
+            "confidence": 1,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Westwood",
+            "establishment": null
+          },
+          "administrativeLevels": {
+            "level2long": "Los Angeles County",
+            "level2short": "Los Angeles County",
+            "level1long": "California",
+            "level1short": "CA"
+          },
+          "streetNumber": "11011",
+          "streetName": "Santa Monica Boulevard",
+          "city": "Los Angeles",
+          "country": "United States",
+          "countryCode": "US",
+          "zipcode": "90025",
+          "provider": "google",
+          "county": "Los Angeles County",
+          "sessionId": "",
+          "geo": [-118.4424, 34.0486]
+        },
+        "picture": [],
+        "company": null,
+        "isAllowedToTakeRides": true,
+        "address": { "postalCode": null, "city": " " }
+      },
+      "roles": ["freebird", "partner"],
+      "hasRedeemableRides": false,
+      "inApp": false,
+      "env": "development",
+      "id": "59c3f70d63c6484aa3cc10b5",
+      "totalAvailableOffers": 0,
+      "isTester": false
+    }
+  ]
+}

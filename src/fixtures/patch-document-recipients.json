@@ -1,0 +1,13 @@
+{
+  "message": "ok",
+  "data": [
+    {
+      "_id": "5c9d1af1c3d2433d8e38040c",
+      "document": "Signup Activity",
+      "recipients": ["cbarber@freebirdrides.com", "bkirchen@freebirdrides.com"],
+      "createdAt": "2019-03-28T19:05:21.943Z",
+      "updatedAt": "2019-03-28T19:05:21.943Z",
+      "__v": 0
+    }
+  ]
+}

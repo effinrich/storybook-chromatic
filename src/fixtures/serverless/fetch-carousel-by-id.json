@@ -1,0 +1,544 @@
+{
+  "name": "Test Carousel",
+  "description": "We're providing cash back or 500 point offers to locations that get you the essentials you need.",
+  "type": "default",
+  "locations": [
+    {
+      "user": null,
+      "partner": "5e322bb9df212a365a8aa53d",
+      "locationGroup": "5e322bbe4db8680008242445",
+      "activationCode": null,
+      "mid": null,
+      "name": "L'Assiette Steak Frites",
+      "address": "7166 Melrose Ave",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipcode": "90046",
+      "categories": [
+        "5cb6d7279bf74f3353b12d76",
+        "5cb6d7279bf74f3353b12d39",
+        "5cb6d7279bf74f3353b12c71"
+      ],
+      "geo": [-118.3457336, 34.0832835],
+      "filters": [],
+      "status": 0,
+      "branchLink": "",
+      "utc": "-08:00",
+      "place": "58c2b42ba1fd30d7cf29bafa",
+      "paymentMethod": null,
+      "shortDescription": null,
+      "description": "The ultimate steak frites experience!  This unassuming French find also serves wine, cheese & soup in a subdued setting.",
+      "trialExpirationWarning": false,
+      "partner": true,
+      "isPartnerSignup": false,
+      "market": "5ba53a84f65a7d002da2098c",
+      "secondaryMarket": "5dae0d1c7d0fd2d31938c89e",
+      "tertiaryMarket": "5dae0d1b7d0fd2d31938c89a",
+      "deleted": false,
+      "_id": "58c700bb37881500461069d2",
+      "__v": 0,
+      "createdAt": "2020-04-28T23:52:22.510Z",
+      "phone": {
+        "mobile": null,
+        "work": "(323) 274-2319",
+        "_id": "5ed6c0c6b0663a768bf368c2"
+      },
+      "updatedAt": "2020-06-02T21:12:38.214Z",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": 1730,
+            "_id": "5ed6c0c6b0663a768bf368c0"
+          },
+          "_id": "5a505d53d8577300016c0775",
+          "close": {
+            "day": 0,
+            "time": 2200,
+            "_id": "5ed6c0c6b0663a768bf368c1"
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "time": 1730,
+            "_id": "5ed6c0c6b0663a768bf368bc"
+          },
+          "_id": "5a505d53d8577300016c0774",
+          "close": {
+            "day": 1,
+            "time": 2200,
+            "_id": "5ed6c0c6b0663a768bf368bd"
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "time": 1730,
+            "_id": "5ed6c0c6b0663a768bf368b8"
+          },
+          "_id": "5a505d53d8577300016c0773",
+          "close": {
+            "day": 2,
+            "time": 2200,
+            "_id": "5ed6c0c6b0663a768bf368b9"
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "time": 1730,
+            "_id": "5ed6c0c6b0663a768bf368b4"
+          },
+          "_id": "5a505d53d8577300016c0772",
+          "close": {
+            "day": 3,
+            "time": 2200,
+            "_id": "5ed6c0c6b0663a768bf368b5"
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "time": 1730,
+            "_id": "5ed6c0c6b0663a768bf368b0"
+          },
+          "_id": "5a505d53d8577300016c0771",
+          "close": {
+            "day": 4,
+            "time": 2200,
+            "_id": "5ed6c0c6b0663a768bf368b1"
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "time": 1730,
+            "_id": "5ed6c0c6b0663a768bf368ac"
+          },
+          "_id": "5a505d53d8577300016c0770",
+          "close": {
+            "day": 5,
+            "time": 2300,
+            "_id": "5ed6c0c6b0663a768bf368ad"
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "time": 1730,
+            "_id": "5ed6c0c6b0663a768bf368a8"
+          },
+          "_id": "5a505d53d8577300016c076f",
+          "close": {
+            "day": 6,
+            "time": 2300,
+            "_id": "5ed6c0c6b0663a768bf368a9"
+          }
+        }
+      ],
+      "photos": [
+        {
+          "_id": "5ac805c0e614e80001571d17",
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAft2nBmfdEjLEUP68mND7PevWuhw5L6NCxFSz1NKrwuRTWyOuByhCWc7euaFs473IhBFvXtQRitpNl_sXLb2UAvRpcORGzQaAQNl-Q40ykoIo8sIeA27LnOMW1C7InsjyEhCclweZikku35KhO4cJeVC6GhTRzk9FcW2_Es29Y7QKjVfQfDkZ_g&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg",
+          "isPrimary": false
+        },
+        {
+          "_id": "5ac805c0e614e80001571d16",
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAJQO2lH3Y22k0MzNRQxm0ToiutTMWc6w-RuZxs5lbdy8puMNqnVWX4zA4nh9LWavNrkwpTZVAjKGKtkrNFuJ9UEDEZqSDEir4Lw8cbM5W4NFaIP81610Xd7y57uHrclf3EhBcO-Bd5nPk-5KZ3R9on57JGhRQEKMsRw5oLgRLVmI0LgbqV14zqg&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg",
+          "isPrimary": false
+        },
+        {
+          "_id": "5ac805c0e614e80001571d15",
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAkPEsHKUQ4MGRK-kv4tkddvzT6YXU_n7F0RhX79cS5b6qQ17xuKquTmrOxvls0s_kbhO344i3iuOWW_gbAHjGqS3xhO3FPYM6YTGk2c7OVqBf6ok3k2BTh74r2c3G1ph0EhCsYepx6cTtWoiB-8bm0XpwGhSKArjHYAzsQbCQMLsDMOgvrUKPeg&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg",
+          "isPrimary": false
+        },
+        {
+          "_id": "5ac805c0e614e80001571d14",
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAcOxR9vlBzFayHqMBpakscW3iHoKB-yJyvuYF_ZaVIBo7fgZ5XbMUp7c6WegK0yszHvbLmfXSFKpZ8s7MrawPC7H0irkmUWass8nRaQtZ6g9jUZcYd_G3wCfYJNBnGTquEhD4jIR2eJitk8OZfLG1obqoGhS-EjuI1_agqGWRjTMicgCxXi592Q&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg",
+          "isPrimary": false
+        },
+        {
+          "_id": "5ac805c0e614e80001571d13",
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAHCJACE_B7ECKfpLdzNygmB-Y5jlRXuMuaWrY1lsVW23JyqJUUbEQIfXlHdyaRNwTYPi_7CnFLqeWaK16pNxN-RLQ90bg6UMXPMLApG-M4TmXoanVVZcJfAqZg5xNsdZZEhDSqjQwwHwjXewVR0Z3cYtUGhSunXUHtm515v8IC4A7jTnTfdrokw&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg",
+          "isPrimary": false
+        },
+        {
+          "_id": "5ac805c0e614e80001571d12",
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAihojWs4M_NM4VXMNjU2uhOsqLbBsT3ndsZIdjzo0NcXKZ6ST3iyI6ijrmi1ZIB5wqyjjnDCbuj94F79i_CYlYMTH9dRn0RP88PKx1wV0fZxsAYE3hYngj4RJJ0EUOsnVEhAwvsdEOIVhhBohpUcg8rvFGhQifLzGaQdrrz6Gbn97Bilg3LKuJg&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg",
+          "isPrimary": true
+        },
+        {
+          "_id": "5ac805c0e614e80001571d11",
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAJH96kdwd-fRIuFpBCq823m27os4EjeOJW_UAOQz0Pe1_dYBYBHJEKxpcANVpwrnOm5K35GBgCf7H6BSS9cFKGGH4iqFodDqxAsDfXO9JcTFq0N8uo6zRJyCmG4jlzi_1EhAw-zHlgKoIVHy0xIdHAWVNGhRIEkBYek_QOZJUAG3cqa5zh8oiOA&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg",
+          "isPrimary": false
+        },
+        {
+          "_id": "5ac805c0e614e80001571d10",
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAOxJQf1I41BhRMkVzKit9wA3YPqCHq6K0QkNVHGSENTMU4xKeco3uBErLi8Odpft6xcRO_rJxrDsBGgixD8CoB4xWBoK5Bq_wQ2tfc_lQlXy0QOmvk0CbVGHJWGfyc1f9EhBWUFXJC4KFm4jH_ItlBiw_GhRoZ32l5fXJ77qXhXqYaU-cVzyVPQ&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg",
+          "isPrimary": false
+        }
+      ]
+    },
+    {
+      "user": null,
+      "partner": "5e322bbadf212a365a8aa565",
+      "locationGroup": "5e322bbd4254f70008c55047",
+      "activationCode": null,
+      "mid": null,
+      "name": "Kayndaves - Santa Monica",
+      "address": "262 26th Street",
+      "city": "Santa Monica",
+      "state": "CA",
+      "zipcode": "90402",
+      "categories": [],
+      "geo": [-118.490581, 34.0469433],
+      "filters": [],
+      "status": 0,
+      "branchLink": "",
+      "utc": "-08:00",
+      "place": "5903d444fa8e867f3d13b5e9",
+      "paymentMethod": null,
+      "shortDescription": null,
+      "description": "Casual Mexican cantina with (lard-free) dishes inspired by Oaxacan family recipes. Join us for brunch, lunch and dinner. Our ingredients are always fresh and all of our sauces are made daily. ",
+      "trialExpirationWarning": false,
+      "partner": true,
+      "isPartnerSignup": false,
+      "market": "5ba53a84f65a7d002da2098c",
+      "secondaryMarket": "5dae0d1b7d0fd2d31938c89a",
+      "tertiaryMarket": null,
+      "deleted": false,
+      "_id": "5908ff482ec0100048da0f18",
+      "__v": 0,
+      "createdAt": "2020-04-28T23:51:01.944Z",
+      "phone": {
+        "mobile": null,
+        "work": "+1 310-260-1355",
+        "_id": "5ed6bfc0b0663a768be16257"
+      },
+      "updatedAt": "2020-06-02T21:08:16.489Z",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": 900,
+            "_id": "5ed6bfc0b0663a768be16255"
+          },
+          "_id": "5a491afa184c8800015a77a3",
+          "close": {
+            "day": 0,
+            "time": 2100,
+            "_id": "5ed6bfc0b0663a768be16256"
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "time": 1100,
+            "_id": "5ed6bfc0b0663a768be16251"
+          },
+          "_id": "5a491afa184c8800015a77a2",
+          "close": {
+            "day": 1,
+            "time": 2100,
+            "_id": "5ed6bfc0b0663a768be16252"
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "time": 1100,
+            "_id": "5ed6bfc0b0663a768be1624d"
+          },
+          "_id": "5a491afa184c8800015a77a1",
+          "close": {
+            "day": 2,
+            "time": 2100,
+            "_id": "5ed6bfc0b0663a768be1624e"
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "time": 1100,
+            "_id": "5ed6bfc0b0663a768be16249"
+          },
+          "_id": "5a491afa184c8800015a77a0",
+          "close": {
+            "day": 3,
+            "time": 2100,
+            "_id": "5ed6bfc0b0663a768be1624a"
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "time": 1100,
+            "_id": "5ed6bfc0b0663a768be16245"
+          },
+          "_id": "5a491afa184c8800015a779f",
+          "close": {
+            "day": 4,
+            "time": 2100,
+            "_id": "5ed6bfc0b0663a768be16246"
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "time": 1100,
+            "_id": "5ed6bfc0b0663a768be16241"
+          },
+          "_id": "5a491afa184c8800015a779e",
+          "close": {
+            "day": 5,
+            "time": 2130,
+            "_id": "5ed6bfc0b0663a768be16242"
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "time": 900,
+            "_id": "5ed6bfc0b0663a768be1623d"
+          },
+          "_id": "5a491afa184c8800015a779d",
+          "close": {
+            "day": 6,
+            "time": 2130,
+            "_id": "5ed6bfc0b0663a768be1623e"
+          }
+        }
+      ],
+      "photos": [
+        {
+          "_id": "5a0f1d204c819d0001a56953",
+          "url": "https://fbird-images-prod.s3.amazonaws.com/user/59a9e32a62a84e00018c1a90/location/photos/photo1510706350503.jpg",
+          "isPrimary": false
+        },
+        {
+          "_id": "5a0f1d204c819d0001a56952",
+          "url": "https://fbird-images-prod.s3.amazonaws.com/user/59a9e32a62a84e00018c1a90/location/photos/photo1510706245584.jpg",
+          "isPrimary": false
+        },
+        {
+          "_id": "5a0f1d204c819d0001a56951",
+          "url": "https://fbird-images-prod.s3.amazonaws.com/user/59a9e32a62a84e00018c1a90/location/photos/photo1510706245585.jpg",
+          "isPrimary": false
+        },
+        {
+          "_id": "5a0f1d204c819d0001a56950",
+          "url": "https://fbird-images-prod.s3.amazonaws.com/user/59a9e32a62a84e00018c1a90/location/photos/photo1510706350502.jpg",
+          "isPrimary": false
+        }
+      ]
+    },
+    {
+      "user": null,
+      "partner": null,
+      "locationGroup": null,
+      "activationCode": null,
+      "mid": null,
+      "name": "BLACK",
+      "address": "6202 California Route 2, Los Angeles, CA 90038, USA",
+      "city": null,
+      "state": null,
+      "zipcode": null,
+      "categories": ["5cb6d7269bf74f3353b12c3d", "5cb6d7299bf74f3353b12f9d"],
+      "geo": [-118.3245913, 34.0906214],
+      "filters": null,
+      "status": 0,
+      "branchLink": "",
+      "utc": "-08:00",
+      "place": "590d01188737f019182317ca",
+      "paymentMethod": null,
+      "shortDescription": null,
+      "description": null,
+      "trialExpirationWarning": false,
+      "partner": null,
+      "isPartnerSignup": false,
+      "market": "5ba53a84f65a7d002da2098c",
+      "secondaryMarket": "5dae0d1c7d0fd2d31938c89e",
+      "tertiaryMarket": "5dae0d1b7d0fd2d31938c89a",
+      "deleted": false,
+      "_id": "590d01188737f019182317d4",
+      "__v": 0,
+      "createdAt": "2020-05-08T21:56:32.235Z",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": 2000,
+            "_id": "5ed570392c4072688e7ef6c5"
+          },
+          "_id": "5a5306dce855920001934090",
+          "close": {
+            "day": 1,
+            "time": 200,
+            "_id": "5ed570392c4072688e7ef6c6"
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "time": 2000,
+            "_id": "5ed570392c4072688e7ef6c1"
+          },
+          "_id": "5a5306dce85592000193408f",
+          "close": {
+            "day": 2,
+            "time": 200,
+            "_id": "5ed570392c4072688e7ef6c2"
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "time": 2000,
+            "_id": "5ed570392c4072688e7ef6bd"
+          },
+          "_id": "5a5306dce85592000193408e",
+          "close": {
+            "day": 3,
+            "time": 200,
+            "_id": "5ed570392c4072688e7ef6be"
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "time": 2000,
+            "_id": "5ed570392c4072688e7ef6b9"
+          },
+          "_id": "5a5306dce85592000193408d",
+          "close": {
+            "day": 4,
+            "time": 200,
+            "_id": "5ed570392c4072688e7ef6ba"
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "time": 2000,
+            "_id": "5ed570392c4072688e7ef6b5"
+          },
+          "_id": "5a5306dce85592000193408c",
+          "close": {
+            "day": 5,
+            "time": 200,
+            "_id": "5ed570392c4072688e7ef6b6"
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "time": 2000,
+            "_id": "5ed570392c4072688e7ef6b1"
+          },
+          "_id": "5a5306dce85592000193408b",
+          "close": {
+            "day": 6,
+            "time": 200,
+            "_id": "5ed570392c4072688e7ef6b2"
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "time": 2000,
+            "_id": "5ed570392c4072688e7ef6ad"
+          },
+          "_id": "5a5306dce85592000193408a",
+          "close": {
+            "day": 0,
+            "time": 200,
+            "_id": "5ed570392c4072688e7ef6ae"
+          }
+        }
+      ],
+      "phone": {
+        "mobile": null,
+        "work": "(323) 871-4880",
+        "_id": "5ed570392c4072688e7ef6c7"
+      },
+      "photos": [
+        {
+          "_id": "59a859f8a016b8031be9ecb3",
+          "isPrimary": true,
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAA5Io2v6zmM3pKLIKfaglSCCmaxJNIK-rSXcZN5ryjiL6LhhIDxyChEFdkmlVz1HhGcEFKDmPfrWHwM5UPytKXfi-9-Qp53rkfigfiLCDva_16m78hWiyFlIGtsxQGapugEhDsyjUrkHJdb9u-hkYUyWI4GhRqnRei1dZlmhjII_FE9d8EGD8GzQ&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+        },
+        {
+          "_id": "59a859f8a016b8031be9ecb2",
+          "isPrimary": false,
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAjxLrIow-DGA8vHjKCl7QXWYYsCZOZEQA6GtGRQUETeRiLHjiO4QjvsXrigQ_xeLjVsBfhpJg-8dGTkH7-OxzqAMJqalb8vjnIT0PSJVTXLX0_As05serMwKhaJ4EACHhEhA-0EpzWnu_G2oQe3wcaTiTGhRFXavzbNFQVvyM_5zKdzXldoO5Aw&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+        },
+        {
+          "_id": "59a859f8a016b8031be9ecb1",
+          "isPrimary": false,
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAzXjSmeXXsjQulKAYoY870TLC2J-0EFe3Dm0DcVtm_m_wZEHl9RmTsJMGoU92FaMhpV3rawM7OgkfDuouD6zhJxvbSpeL9YL9xIZM0-_mJ4djJWJaWK2V_oGri051bD2oEhC8h-4U2a1nlpkcFKuLYNo7GhQRtLZx1oFzcRSdCut32fav8F_XmA&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+        },
+        {
+          "_id": "59a859f8a016b8031be9ecb0",
+          "isPrimary": false,
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAAJ7J491dkplGpcoXDDnEFGytaPkgjdtBfCi9Ee5QNX4Frn5rUskWn6JiTfbzwZkuYrmkLlhB28j43u9U-dkGwnZBw3oAk_Dt2hnLMB4gINjSKb23CLHKWO3f2dLICUjiEhCZ0MzRAobXo_83m5E3HVKaGhQQt8yGn2Bn1OHlScFS81K_ST76jw&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+        },
+        {
+          "_id": "59a859f8a016b8031be9ecaf",
+          "isPrimary": false,
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAA2Hqaux5H6mszkOmNpu7GMdKQvRo5rN59XfEulQRIQbnQ9mceLjOjSJQU_zLdMziGbkfJMUSPmw-3dJae5HOj9q5h8FuNeZQAvdSlJUOMoDOUmnFLMi8Lyl4RXJsHsLOEEhCYcB-8xVS57aD_TFk4P9yGGhR27Wb7WaxxzfZBIdfgB-mMV0-9fA&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+        },
+        {
+          "_id": "59a859f8a016b8031be9ecae",
+          "isPrimary": false,
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAvavx_luYyP23LbX4woFO_b6vU7fqiIXi82J4ymZJjWs0VYUwNYa_r-pG7Xdy32hqMHQgAzNlR2WDfAfhFAhKgyu9mS0F3I6IMb0wTrxic_51rgeTgIPEPVjbGA4GM3HVEhADxI0g5W5HlXVgHkrOoleyGhSM4M4GVVEVtyauccnu4GWm5AkOXw&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+        },
+        {
+          "_id": "59a859f8a016b8031be9ecad",
+          "isPrimary": false,
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAJOiHRvXgqezIddBKn8H03TAMOyNCkllhpzQe22B2PJ5ZOjIArhw2sjKsMAJXietfzrmveADPg_wc8lWSKxOMhD84p8Rk4-FLsIt7Z1pAJ6EgpSX0Ooe2D5gntrDhecABEhCRkpxu0CGwDx7UwfNWyPIqGhSoINB17bolyt4Gyc2sucu70ymjaw&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+        },
+        {
+          "_id": "59a859f8a016b8031be9ecac",
+          "isPrimary": false,
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAPNDlAl8WfCLiFcDjOtg2ueS6tVjasINSjYhBVAsuTsb_icU5Vb6V-Ms5LL9JcDF5oeez7yYJROp9Lg8R-CTC3Ywn-YMWEW0EV9xhrEOfy665C1syf8kTtaPhPfLdpoHLEhCf-KEITFFvZqSwLja0kjAVGhRXF6oRjhaxuP2VrIBZsA4A5D_1pw&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+        },
+        {
+          "_id": "59a859f8a016b8031be9ecab",
+          "isPrimary": false,
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAAeVMrcc8kWXB8P7rDWFvtRagH7Dy_uwpj8LFc01ocm6ioj423LY-bdHIgJhJqPjPXXVyIMv-44BWLyE9FesfJyQ_jHLAInZdnDbHxoNUusXzbz3GR0ZAdSPwvS5E-qRwJEhBuey_tSEj_J6bmm1BX059xGhS3-m2ap0l4Ao1wbwyq4H5okEAfSw&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+        },
+        {
+          "_id": "59a859f8a016b8031be9ecaa",
+          "isPrimary": false,
+          "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=600&photoreference=CmRaAAAA3NXhHB0jOjXcesYcNy0rfvOP9G3kuWZ9yBuy7i2oIJ7ajTngjG5hExj3__Q8khN73HFvfs88u9Ox49G3SmFCCnSTgUa1fYCc48P0oIyJO6TWKI_sPlXpRSVEBU3ADDeKEhCWIZMYPigh1_VCE_3CIP0UGhTT1aY0yflGr1sSMgxpu5CZTB8toA&key=AIzaSyDjdSJ2P0AI6piIC0Y51AgCpNAjGWsf6xg"
+        }
+      ],
+      "updatedAt": "2020-06-01T21:16:41.082Z"
+    }
+  ],
+  "endDate": null,
+  "partnerSignupDateStart": null,
+  "geo": [-118.2436849, 34.0522342],
+  "locationFromGeo": "Sac",
+  "city": "Los Angeles",
+  "state": "CA",
+  "priority": 1,
+  "points": null,
+  "cashOnly": null,
+  "enabled": true,
+  "sortBy": null,
+  "minRadius": 0,
+  "maxRadius": 0,
+  "offerMaxDistance": null,
+  "price": null,
+  "rating": null,
+  "minRanking": 0,
+  "maxRanking": 1,
+  "featured": null,
+  "_id": "5b2472e55076b400014faa1a",
+  "__v": 0,
+  "createdAt": "2020-05-14T03:59:18.696Z",
+  "startDate": "2018-06-16T02:16:05.921Z",
+  "updatedAt": "2020-06-03T01:44:33.351Z"
+}

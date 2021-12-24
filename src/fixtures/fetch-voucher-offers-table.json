@@ -1,0 +1,140 @@
+{
+  "message": "ok",
+  "data": {
+    "pages": 1,
+    "rows": [
+      {
+        "user": "5b6cad6f9904f82569aa091b",
+        "description": "instant $10 when added to your wallet",
+        "title": "Karma Cash Test",
+        "status": 10,
+        "enabled": true,
+        "cashBack": 10,
+        "points": 0,
+        "upTo": true,
+        "photos": [
+          {
+            "_id": "5beb2406a51ecd00018ba659",
+            "isPrimary": false,
+            "url": "https://freebirdapp-staging.s3.amazonaws.com/user/5b6cad6f9904f82569aa091b/location/photos/photo2945926173.jpg"
+          }
+        ],
+        "_id": "5beb2406a51ecd00018ba658",
+        "type": "KARMA",
+        "createdAt": "2018-11-13T19:20:38.676Z",
+        "updatedAt": "2018-11-13T19:20:38.676Z",
+        "__v": 0
+      },
+      {
+        "user": "5b6cad6f9904f82569aa091b",
+        "description": "instant 250 points when added to your wallet",
+        "title": "Karma Points Test",
+        "status": 10,
+        "enabled": true,
+        "cashBack": 0,
+        "points": 250,
+        "upTo": true,
+        "photos": [
+          {
+            "_id": "5beb266ba51ecd00018ba65b",
+            "isPrimary": false,
+            "url": "https://freebirdapp-staging.s3.amazonaws.com/user/5b6cad6f9904f82569aa091b/location/photos/photo6798147786.jpg"
+          }
+        ],
+        "_id": "5beb266ba51ecd00018ba65a",
+        "type": "KARMA",
+        "createdAt": "2018-11-13T19:30:51.900Z",
+        "updatedAt": "2018-11-13T19:30:51.900Z",
+        "__v": 0
+      },
+      {
+        "user": "5b6cad6f9904f82569aa091b",
+        "description": "instant $8 and 500 points when added to your wallet",
+        "title": "Karma Both Test",
+        "status": 10,
+        "enabled": true,
+        "cashBack": 8,
+        "points": 500,
+        "upTo": true,
+        "photos": [
+          {
+            "_id": "5beb2724a51ecd00018ba65d",
+            "isPrimary": false,
+            "url": "https://freebirdapp-staging.s3.amazonaws.com/user/5b6cad6f9904f82569aa091b/location/photos/photo6785001948.jpg"
+          }
+        ],
+        "_id": "5beb2724a51ecd00018ba65c",
+        "type": "KARMA",
+        "createdAt": "2018-11-13T19:33:56.160Z",
+        "updatedAt": "2018-11-13T19:33:56.160Z",
+        "__v": 0
+      },
+      {
+        "user": "5b6cad6f9904f82569aa091b",
+        "description": "$6 when after any ride where the Uber fare is not already covered by the public offer",
+        "title": "Freewill Cash Test",
+        "status": 10,
+        "enabled": true,
+        "cashBack": 6,
+        "points": 0,
+        "upTo": true,
+        "photos": [
+          {
+            "_id": "5beb2977a51ecd00018ba65f",
+            "isPrimary": false,
+            "url": "https://freebirdapp-staging.s3.amazonaws.com/user/5b6cad6f9904f82569aa091b/location/photos/photo6423313192.jpg"
+          }
+        ],
+        "_id": "5beb2977a51ecd00018ba65e",
+        "type": "FREEWILL",
+        "createdAt": "2018-11-13T19:43:51.457Z",
+        "updatedAt": "2018-11-13T19:43:51.457Z",
+        "__v": 0
+      },
+      {
+        "user": "5b6cad6f9904f82569aa091b",
+        "description": "750 points after any ride",
+        "title": "Freewill Points Test",
+        "status": 10,
+        "enabled": true,
+        "cashBack": 0,
+        "points": 750,
+        "upTo": true,
+        "photos": [
+          {
+            "_id": "5beb2a85a51ecd00018ba661",
+            "isPrimary": false,
+            "url": "https://freebirdapp-staging.s3.amazonaws.com/user/5b6cad6f9904f82569aa091b/location/photos/photo540392975.jpg"
+          }
+        ],
+        "_id": "5beb2a85a51ecd00018ba660",
+        "type": "FREEWILL",
+        "createdAt": "2018-11-13T19:48:21.340Z",
+        "updatedAt": "2018-11-13T19:48:21.340Z",
+        "__v": 0
+      },
+      {
+        "user": "5b6cad6f9904f82569aa091b",
+        "description": "$4 and 250 points after any ride where the Uber fare is not already covered by the public offer",
+        "title": "Freewill Both Test",
+        "status": 10,
+        "enabled": true,
+        "cashBack": 4,
+        "points": 250,
+        "upTo": false,
+        "photos": [
+          {
+            "_id": "5beb2c17a51ecd00018ba663",
+            "isPrimary": false,
+            "url": "https://freebirdapp-staging.s3.amazonaws.com/user/5b6cad6f9904f82569aa091b/location/photos/photo387256996.jpg"
+          }
+        ],
+        "_id": "5beb2c17a51ecd00018ba662",
+        "type": "FREEWILL",
+        "createdAt": "2018-11-13T19:55:03.275Z",
+        "updatedAt": "2018-11-13T19:55:03.275Z",
+        "__v": 0
+      }
+    ]
+  }
+}

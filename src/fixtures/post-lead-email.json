@@ -1,0 +1,15 @@
+{
+  "message": "ok",
+  "data": [
+    {
+      "email": "david@freebirdrides.com",
+      "status": "queued",
+      "_id": "6ae3a2d4d7a64b46b15c7afeddbdbaed"
+    },
+    {
+      "email": "dev@freebirdrides.com",
+      "status": "queued",
+      "_id": "f052d249922c424a90e64e44430aaa07"
+    }
+  ]
+}

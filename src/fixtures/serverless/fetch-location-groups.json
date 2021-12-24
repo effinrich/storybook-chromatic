@@ -1,0 +1,25 @@
+[
+  {
+    "locationGroup": {
+      "parent": null,
+      "childCount": 0,
+      "migrationKey": null,
+      "_id": "5e2a22ad88331300087f3d46",
+      "name": "Default",
+      "partnerId": "5e2a22aaabfa2600085d917b",
+      "createdAt": "2020-01-23T22:48:13.162Z",
+      "updatedAt": "2020-01-23T22:48:13.162Z",
+      "__v": 0
+    },
+    "permissions": {
+      "_id": "5e2a22add781baf613d1c234",
+      "group": "5e2a22ad88331300087f3d46",
+      "partnerId": "5e2a22aaabfa2600085d917b",
+      "user": "5e2a22aaabfa2600085d917c",
+      "__v": 0,
+      "createdAt": "2020-01-23T22:48:13.182Z",
+      "role": "OWNER",
+      "updatedAt": "2020-01-23T22:48:13.182Z"
+    }
+  }
+]

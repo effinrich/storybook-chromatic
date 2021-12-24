@@ -1,0 +1,18 @@
+{
+  "roles": ["admin", "superadmin"],
+  "emailVerified": false,
+  "hashPassOnSave": true,
+  "passwordResetExpires": null,
+  "passwordResetToken": null,
+  "status": "ENABLED",
+  "partnerId": null,
+  "legacyUserId": null,
+  "_id": "5e2a20f60e57ac0007e54fbe",
+  "firstName": "Rich",
+  "lastName": "Tillman",
+  "email": "rich@freebirdrides.com",
+  "password": "$2b$05$CPMDNytDAma0LYZ7x2AHBOQvxd/QQeY0jGU5ly0q9IyCPd92R9MDa",
+  "createdAt": "2020-01-23T22:40:54.415Z",
+  "updatedAt": "2020-02-27T02:37:15.369Z",
+  "__v": 0
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "5cccdaf2d7a9935a1511c0a4",
+  "name": "global",
+  "description": "global budget",
+  "min": 0,
+  "max": 5000,
+  "type": "global",
+  "periodType": "daily",
+  "createdAt": "2019-05-04T00:21:06.282Z",
+  "updatedAt": "2019-05-13T23:57:05.963Z",
+  "__v": 0,
+  "enabled": true,
+  "target": "5ccb7a078724512232f33af2"
+}

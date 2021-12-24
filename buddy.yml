@@ -14,8 +14,8 @@
       execute_commands:
         - "yarn install"
         - "yarn test"
-        - "yarn build-storybook"
-        - "netlify deploy --dir=storybook-static --prodIfUnlocked"
+        - "yarn build"
+        - "netlify deploy --dir=dist --prodIfUnlocked"
         - ""
       retry_delay: 1
       retry_count: 2

@@ -1,0 +1,100 @@
+[
+  {
+    "id": "5b7b378d9904f8256994f286",
+    "name": "Picnik",
+    "distance": "1238mi",
+    "rideContribution": 4,
+    "locationCategory": "",
+    "location": "Austin, TX",
+    "points": 0,
+    "photo": "https://freebirdapp-staging.s3.amazonaws.com/user/5acd578bcc5ad874c63b802f/location/photos/photo3640852941.jpg"
+  },
+  {
+    "id": "5cdef9d3534041d02cf92fc9",
+    "name": "The Peached Tortilla",
+    "distance": "1238mi",
+    "rideContribution": 4,
+    "location": "Austin, TX",
+    "points": 0,
+    "photo": "https://freebirdapp-staging.s3.amazonaws.com/user/5acd578bcc5ad874c63b802f/location/photos/photo5580350778.jpg"
+  },
+  {
+    "id": "5b7b3f389904f82569969366",
+    "name": "Lin Asian Bar + Dim Sum Restaurant",
+    "distance": "1238mi",
+    "rideContribution": 0,
+    "locationCategory": "Chinese",
+    "location": "Austin, TX",
+    "points": 250,
+    "photo": "https://freebirdapp-staging.s3.amazonaws.com/user/5acd578bcc5ad874c63b802f/location/photos/photo2307480090.jpg"
+  },
+  {
+    "id": "5b7b37299904f8256994df4e",
+    "name": "Xian Sushi & Noodle",
+    "distance": "1241mi",
+    "rideContribution": 4,
+    "locationCategory": "Chinese",
+    "location": "Austin, TX",
+    "points": 0,
+    "photo": "https://freebirdapp-staging.s3.amazonaws.com/user/5acd578bcc5ad874c63b802f/location/photos/photo9961569635.jpg"
+  },
+  {
+    "id": "5cdefb12534041d02cfb0810",
+    "name": "Fonda San Miguel",
+    "distance": "1238mi",
+    "rideContribution": 0,
+    "location": "Austin, TX",
+    "points": 250,
+    "photo": "https://freebirdapp-staging.s3.amazonaws.com/user/5acd578bcc5ad874c63b802f/location/photos/photo1461981093.jpg"
+  },
+  {
+    "id": "5b7b3baa9904f8256995c038",
+    "name": "Kemuri Tatsu-ya",
+    "distance": "1241mi",
+    "rideContribution": 4,
+    "locationCategory": "Japanese",
+    "location": "Austin, TX",
+    "points": 0,
+    "photo": "https://freebirdapp-staging.s3.amazonaws.com/user/5acd578bcc5ad874c63b802f/location/photos/photo2935526507.jpg"
+  },
+  {
+    "id": "59bc8517c642c40a858ac289",
+    "name": "Contigo Austin",
+    "distance": "1241mi",
+    "rideContribution": 4,
+    "locationCategory": "American",
+    "location": "Austin, TX",
+    "points": 0,
+    "photo": "https://freebirdapp-staging.s3.amazonaws.com/user/5acd578bcc5ad874c63b802f/location/photos/photo9001786391.jpg"
+  },
+  {
+    "id": "5b7b3a099904f825699570cd",
+    "name": "Launderette",
+    "distance": "1240mi",
+    "rideContribution": 4,
+    "locationCategory": "American",
+    "location": "Austin, TX",
+    "points": 0,
+    "photo": "https://igx.4sqi.net/img/general/560x350/1557041_We5XQEDVBfQmTAwypmaTUzr3vnZCU0E8gDiPcR6NUZ8.jpg"
+  },
+  {
+    "id": "5b7b3d299904f82569962764",
+    "name": "Odd Duck",
+    "distance": "1238mi",
+    "rideContribution": 0,
+    "locationCategory": "American",
+    "location": "Austin, TX",
+    "points": 250,
+    "photo": "https://freebirdapp-staging.s3.amazonaws.com/user/5acd578bcc5ad874c63b802f/location/photos/photo2399048342.jpg"
+  },
+  {
+    "id": "5b7b3dc59904f82569964e0d",
+    "name": "Emmer & Rye",
+    "distance": "1239mi",
+    "rideContribution": 4,
+    "locationCategory": "American",
+    "location": "Austin, TX",
+    "points": 0,
+    "photo": "https://freebirdapp-staging.s3.amazonaws.com/user/5acd578bcc5ad874c63b802f/location/photos/photo2781673719.jpg"
+  }
+]

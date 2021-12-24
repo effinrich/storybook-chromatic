@@ -1,0 +1,385 @@
+{
+  "message": "ok",
+  "data": [
+    {
+      "pages": 1,
+      "rows": [
+        {
+          "discount": {
+            "percentOff": 0,
+            "amountOff": 0,
+            "unitOff": 5,
+            "type": "UNIT",
+            "unitType": "noLocation"
+          },
+          "gift": { "amount": 0, "balance": 0 },
+          "_voucherify": {
+            "discount": {
+              "type": "UNIT",
+              "unit_off": 5,
+              "unit_type": "noLocation"
+            },
+            "redemption": {
+              "redemption_entries": [],
+              "object": "list",
+              "quantity": 5,
+              "redeemed_quantity": 0,
+              "url": "/v1/vouchers/voucher/rich test-rg7t/redemptions?page=1&limit=10"
+            },
+            "assets": {
+              "qr": {
+                "id": "U2FsdGVkX19rYcpJXlAxCyJP79ckNYifpQSL1YRvmD1I9sqaVEJ64dAPL9YIDMyNOLMmn7F0OHED+yrszeZyEMVeGMMzai2TCJN2OohDGZ/IVMrgyODP/yS9Lf5sDUcZPaIfncGhBOwFClIAKP55rw==",
+                "url": "https://dl.voucherify.io/api/v1/assets/qr/U2FsdGVkX19rYcpJXlAxCyJP79ckNYifpQSL1YRvmD1I9sqaVEJ64dAPL9YIDMyNOLMmn7F0OHED%2ByrszeZyEMVeGMMzai2TCJN2OohDGZ%2FIVMrgyODP%2FyS9Lf5sDUcZPaIfncGhBOwFClIAKP55rw%3D%3D"
+              }
+            },
+            "code": "rich test-rg7t",
+            "campaign": "rich test-1542150066518",
+            "type": "DISCOUNT_VOUCHER",
+            "start_date": "2018-11-01T07:00:00.000Z",
+            "expiration_date": "2018-11-30T08:00:00.000Z",
+            "publish": {
+              "object": "list",
+              "count": 0,
+              "url": "/v1/vouchers/voucher/rich test-rg7t/publications?page=1&limit=10"
+            },
+            "active": true,
+            "metadata": {
+              "voucher_offer_id": "5beb46d54ae97b0001c3cf0f",
+              "description": "just testing",
+              "promoted": 1,
+              "cash_back": 5,
+              "points": 0
+            },
+            "object": "voucher"
+          },
+          "type": "voucher",
+          "inventoryType": "noLocation",
+          "endDate": "2018-11-30T08:00:00.000Z",
+          "promoted": true,
+          "quantity": 5,
+          "perUserQuantity": null,
+          "expired": false,
+          "usersDismissed": [],
+          "usersEmailList": [],
+          "redemptions": [],
+          "rollbacks": [],
+          "users": [],
+          "startDate": "2018-11-01T07:00:00.000Z",
+          "redeemedErrors": [],
+          "_id": "5beb57b54ae97b0001c3cf1d",
+          "code": "rich test-rg7t",
+          "voucherifyType": "DISCOUNT_VOUCHER",
+          "description": "just testing",
+          "active": true,
+          "redeemedQuantity": 0,
+          "offer": null,
+          "voucherOffer": "5beb46d54ae97b0001c3cf0f",
+          "campaign": "5beb57b34ae97b0001c3cf1c",
+          "__v": 0,
+          "createdAt": "2018-11-13T23:01:09.656Z",
+          "updatedAt": "2018-11-13T23:01:09.656Z"
+        },
+        {
+          "discount": {
+            "percentOff": 0,
+            "amountOff": 0,
+            "unitOff": 5,
+            "type": "UNIT",
+            "unitType": "noLocation"
+          },
+          "gift": { "amount": 0, "balance": 0 },
+          "_voucherify": {
+            "discount": {
+              "type": "UNIT",
+              "unit_off": 5,
+              "unit_type": "noLocation"
+            },
+            "redemption": {
+              "redemption_entries": [],
+              "object": "list",
+              "quantity": 5,
+              "redeemed_quantity": 0,
+              "url": "/v1/vouchers/voucher/rich test-z7gf/redemptions?page=1&limit=10"
+            },
+            "assets": {
+              "qr": {
+                "id": "U2FsdGVkX185n9mRu1w3Dy5fVUa3WplnUQel5c0y1YuilaYUKbcjH2WOv7nffGglG5WVU5EGWqIvR00vD/apRlL+OUr/nn2vAqp9BH/Wov0cfo5dmjW+6r1zbmWU40XC6ROiiI/6iGd7aEe5wVrYew==",
+                "url": "https://dl.voucherify.io/api/v1/assets/qr/U2FsdGVkX185n9mRu1w3Dy5fVUa3WplnUQel5c0y1YuilaYUKbcjH2WOv7nffGglG5WVU5EGWqIvR00vD%2FapRlL%2BOUr%2Fnn2vAqp9BH%2FWov0cfo5dmjW%2B6r1zbmWU40XC6ROiiI%2F6iGd7aEe5wVrYew%3D%3D"
+              }
+            },
+            "code": "rich test-z7gf",
+            "campaign": "rich test-1542150066518",
+            "type": "DISCOUNT_VOUCHER",
+            "start_date": "2018-11-01T07:00:00.000Z",
+            "expiration_date": "2018-11-30T08:00:00.000Z",
+            "publish": {
+              "object": "list",
+              "count": 0,
+              "url": "/v1/vouchers/voucher/rich test-z7gf/publications?page=1&limit=10"
+            },
+            "active": true,
+            "metadata": {
+              "voucher_offer_id": "5beb46d54ae97b0001c3cf0f",
+              "description": "just testing",
+              "promoted": 1,
+              "cash_back": 5,
+              "points": 0
+            },
+            "object": "voucher"
+          },
+          "type": "voucher",
+          "inventoryType": "noLocation",
+          "endDate": "2018-11-30T08:00:00.000Z",
+          "promoted": true,
+          "quantity": 5,
+          "perUserQuantity": null,
+          "expired": false,
+          "usersDismissed": [],
+          "usersEmailList": [],
+          "redemptions": [],
+          "rollbacks": [],
+          "users": [],
+          "startDate": "2018-11-01T07:00:00.000Z",
+          "redeemedErrors": [],
+          "_id": "5beb57b54ae97b0001c3cf1e",
+          "code": "rich test-z7gf",
+          "voucherifyType": "DISCOUNT_VOUCHER",
+          "description": "just testing",
+          "active": true,
+          "redeemedQuantity": 0,
+          "offer": null,
+          "voucherOffer": "5beb46d54ae97b0001c3cf0f",
+          "campaign": "5beb57b34ae97b0001c3cf1c",
+          "__v": 0,
+          "createdAt": "2018-11-13T23:01:09.656Z",
+          "updatedAt": "2018-11-13T23:01:09.656Z"
+        },
+        {
+          "discount": {
+            "percentOff": 0,
+            "amountOff": 0,
+            "unitOff": 5,
+            "type": "UNIT",
+            "unitType": "noLocation"
+          },
+          "gift": { "amount": 0, "balance": 0 },
+          "_voucherify": {
+            "discount": {
+              "type": "UNIT",
+              "unit_off": 5,
+              "unit_type": "noLocation"
+            },
+            "redemption": {
+              "redemption_entries": [],
+              "object": "list",
+              "quantity": 5,
+              "redeemed_quantity": 0,
+              "url": "/v1/vouchers/voucher/rich test-7veo/redemptions?page=1&limit=10"
+            },
+            "assets": {
+              "qr": {
+                "id": "U2FsdGVkX1+tNFp9zoMqo1HvTxXz0YsBWcYrv9D1FL3r6+XaFPmFsNx081ZMVIO9PsqeAkib9BdnXLVQt7GxLWqmRw+sjGYzLhyqFF0zoZWrXfDWHSh1oUIpwlb+Eg4NpeJ2wSnMRYedzQ4WIMOHBQ==",
+                "url": "https://dl.voucherify.io/api/v1/assets/qr/U2FsdGVkX1%2BtNFp9zoMqo1HvTxXz0YsBWcYrv9D1FL3r6%2BXaFPmFsNx081ZMVIO9PsqeAkib9BdnXLVQt7GxLWqmRw%2BsjGYzLhyqFF0zoZWrXfDWHSh1oUIpwlb%2BEg4NpeJ2wSnMRYedzQ4WIMOHBQ%3D%3D"
+              }
+            },
+            "code": "rich test-7veo",
+            "campaign": "rich test-1542150066518",
+            "type": "DISCOUNT_VOUCHER",
+            "start_date": "2018-11-01T07:00:00.000Z",
+            "expiration_date": "2018-11-30T08:00:00.000Z",
+            "publish": {
+              "object": "list",
+              "count": 0,
+              "url": "/v1/vouchers/voucher/rich test-7veo/publications?page=1&limit=10"
+            },
+            "active": true,
+            "metadata": {
+              "voucher_offer_id": "5beb46d54ae97b0001c3cf0f",
+              "description": "just testing",
+              "promoted": 1,
+              "cash_back": 5,
+              "points": 0
+            },
+            "object": "voucher"
+          },
+          "type": "voucher",
+          "inventoryType": "noLocation",
+          "endDate": "2018-11-30T08:00:00.000Z",
+          "promoted": true,
+          "quantity": 5,
+          "perUserQuantity": null,
+          "expired": false,
+          "usersDismissed": [],
+          "usersEmailList": [],
+          "redemptions": [],
+          "rollbacks": [],
+          "users": [],
+          "startDate": "2018-11-01T07:00:00.000Z",
+          "redeemedErrors": [],
+          "_id": "5beb57b54ae97b0001c3cf1f",
+          "code": "rich test-7veo",
+          "voucherifyType": "DISCOUNT_VOUCHER",
+          "description": "just testing",
+          "active": true,
+          "redeemedQuantity": 0,
+          "offer": null,
+          "voucherOffer": "5beb46d54ae97b0001c3cf0f",
+          "campaign": "5beb57b34ae97b0001c3cf1c",
+          "__v": 0,
+          "createdAt": "2018-11-13T23:01:09.656Z",
+          "updatedAt": "2018-11-13T23:01:09.656Z"
+        },
+        {
+          "discount": {
+            "percentOff": 0,
+            "amountOff": 0,
+            "unitOff": 5,
+            "type": "UNIT",
+            "unitType": "noLocation"
+          },
+          "gift": { "amount": 0, "balance": 0 },
+          "_voucherify": {
+            "discount": {
+              "type": "UNIT",
+              "unit_off": 5,
+              "unit_type": "noLocation"
+            },
+            "redemption": {
+              "redemption_entries": [],
+              "object": "list",
+              "quantity": 5,
+              "redeemed_quantity": 0,
+              "url": "/v1/vouchers/voucher/rich test-d2cq/redemptions?page=1&limit=10"
+            },
+            "assets": {
+              "qr": {
+                "id": "U2FsdGVkX19qRdBALXXt/GsNXDU9PbTRmUFKr6ZGQuNt1VsvGuuHTC80DZF7Rp59qtnD5FfgeGoXs1+Hs3nSmpLc9pun1XqoFvOmnqCShVKQIoWxX76mDLNDZwpns+YNf4d2aKR/qpSpIF4oxgaGFw==",
+                "url": "https://dl.voucherify.io/api/v1/assets/qr/U2FsdGVkX19qRdBALXXt%2FGsNXDU9PbTRmUFKr6ZGQuNt1VsvGuuHTC80DZF7Rp59qtnD5FfgeGoXs1%2BHs3nSmpLc9pun1XqoFvOmnqCShVKQIoWxX76mDLNDZwpns%2BYNf4d2aKR%2FqpSpIF4oxgaGFw%3D%3D"
+              }
+            },
+            "code": "rich test-d2cq",
+            "campaign": "rich test-1542150066518",
+            "type": "DISCOUNT_VOUCHER",
+            "start_date": "2018-11-01T07:00:00.000Z",
+            "expiration_date": "2018-11-30T08:00:00.000Z",
+            "publish": {
+              "object": "list",
+              "count": 0,
+              "url": "/v1/vouchers/voucher/rich test-d2cq/publications?page=1&limit=10"
+            },
+            "active": true,
+            "metadata": {
+              "voucher_offer_id": "5beb46d54ae97b0001c3cf0f",
+              "description": "just testing",
+              "promoted": 1,
+              "cash_back": 5,
+              "points": 0
+            },
+            "object": "voucher"
+          },
+          "type": "voucher",
+          "inventoryType": "noLocation",
+          "endDate": "2018-11-30T08:00:00.000Z",
+          "promoted": true,
+          "quantity": 5,
+          "perUserQuantity": null,
+          "expired": false,
+          "usersDismissed": [],
+          "usersEmailList": [],
+          "redemptions": [],
+          "rollbacks": [],
+          "users": [],
+          "startDate": "2018-11-01T07:00:00.000Z",
+          "redeemedErrors": [],
+          "_id": "5beb57b54ae97b0001c3cf20",
+          "code": "rich test-d2cq",
+          "voucherifyType": "DISCOUNT_VOUCHER",
+          "description": "just testing",
+          "active": true,
+          "redeemedQuantity": 0,
+          "offer": null,
+          "voucherOffer": "5beb46d54ae97b0001c3cf0f",
+          "campaign": "5beb57b34ae97b0001c3cf1c",
+          "__v": 0,
+          "createdAt": "2018-11-13T23:01:09.656Z",
+          "updatedAt": "2018-11-13T23:01:09.656Z"
+        },
+        {
+          "discount": {
+            "percentOff": 0,
+            "amountOff": 0,
+            "unitOff": 5,
+            "type": "UNIT",
+            "unitType": "noLocation"
+          },
+          "gift": { "amount": 0, "balance": 0 },
+          "_voucherify": {
+            "discount": {
+              "type": "UNIT",
+              "unit_off": 5,
+              "unit_type": "noLocation"
+            },
+            "redemption": {
+              "redemption_entries": [],
+              "object": "list",
+              "quantity": 5,
+              "redeemed_quantity": 0,
+              "url": "/v1/vouchers/voucher/rich test-ritb/redemptions?page=1&limit=10"
+            },
+            "assets": {
+              "qr": {
+                "id": "U2FsdGVkX1++vgRskxXjbpV1hOb3XnmVjWiZeAWCnbgkmpRtuWZJpm8Z4XcgOsg0szRQyC14f3t8gFqfznsWFLlgJgNHMvaTvXz9JsRp6OxrYhnR2/NrQR5eIlRlILyWxdKb/rnH3PxxprzExsGQyA==",
+                "url": "https://dl.voucherify.io/api/v1/assets/qr/U2FsdGVkX1%2B%2BvgRskxXjbpV1hOb3XnmVjWiZeAWCnbgkmpRtuWZJpm8Z4XcgOsg0szRQyC14f3t8gFqfznsWFLlgJgNHMvaTvXz9JsRp6OxrYhnR2%2FNrQR5eIlRlILyWxdKb%2FrnH3PxxprzExsGQyA%3D%3D"
+              }
+            },
+            "code": "rich test-ritb",
+            "campaign": "rich test-1542150066518",
+            "type": "DISCOUNT_VOUCHER",
+            "start_date": "2018-11-01T07:00:00.000Z",
+            "expiration_date": "2018-11-30T08:00:00.000Z",
+            "publish": {
+              "object": "list",
+              "count": 0,
+              "url": "/v1/vouchers/voucher/rich test-ritb/publications?page=1&limit=10"
+            },
+            "active": true,
+            "metadata": {
+              "voucher_offer_id": "5beb46d54ae97b0001c3cf0f",
+              "description": "just testing",
+              "promoted": 1,
+              "cash_back": 5,
+              "points": 0
+            },
+            "object": "voucher"
+          },
+          "type": "voucher",
+          "inventoryType": "noLocation",
+          "endDate": "2018-11-30T08:00:00.000Z",
+          "promoted": true,
+          "quantity": 5,
+          "perUserQuantity": null,
+          "expired": false,
+          "usersDismissed": [],
+          "usersEmailList": [],
+          "redemptions": [],
+          "rollbacks": [],
+          "users": [],
+          "startDate": "2018-11-01T07:00:00.000Z",
+          "redeemedErrors": [],
+          "_id": "5beb57b54ae97b0001c3cf21",
+          "code": "rich test-ritb",
+          "voucherifyType": "DISCOUNT_VOUCHER",
+          "description": "just testing",
+          "active": true,
+          "redeemedQuantity": 0,
+          "offer": null,
+          "voucherOffer": "5beb46d54ae97b0001c3cf0f",
+          "campaign": "5beb57b34ae97b0001c3cf1c",
+          "__v": 0,
+          "createdAt": "2018-11-13T23:01:09.656Z",
+          "updatedAt": "2018-11-13T23:01:09.656Z"
+        }
+      ]
+    }
+  ]
+}

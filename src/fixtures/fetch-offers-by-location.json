@@ -1,0 +1,177 @@
+{
+  "message": "ok",
+  "data": [
+    {
+      "_id": "5992898c710880a8e72a53b4",
+      "location": {
+        "_id": "58dc501770c1fb0044619e48",
+        "status": 10,
+        "enabled": true,
+        "user": "59c3f70d63c6484aa3cc10b5",
+        "__v": 1,
+        "updatedAt": "2017-09-21T17:39:25.396Z",
+        "createdAt": "2017-07-28T21:27:35.719Z",
+        "description": "",
+        "shortDescription": "The Misfit reprises a “back to the bar” ideal of casual destination dining serving signature cocktails and accessible comfort food.",
+        "paymentMethod": "58ed4cc0fa8e867f3dcf74c2",
+        "place": {
+          "_id": "58c9be95a1fd30d7cfe35ddd",
+          "id": "4da4bb1d0f578cfaafdbd518",
+          "__v": 0,
+          "updatedAt": "2017-09-22T11:06:17.031Z",
+          "createdAt": "2017-07-12T01:20:56.078Z",
+          "utc": "-07:00",
+          "url": {
+            "website": "http://www.themisfitbar.com",
+            "menu": "https://foursquare.com/v/4da4bb1d0f578cfaafdbd518/device_menu"
+          },
+          "score": "foursquare",
+          "rating": 5,
+          "priceLevel": -1,
+          "weekdayText": [],
+          "openingHours": [],
+          "permanentlyClosed": false,
+          "categories": [
+            {
+              "id": "4bf58dd8d48988d14e941735",
+              "name": "American Restaurant",
+              "pluralName": "American Restaurants",
+              "shortName": "American",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                "suffix": ".png"
+              },
+              "primary": true
+            }
+          ]
+        },
+        "waitlist": [
+          "59444e61baa5ec0001d843c0",
+          "596452e099058b0001096c99",
+          "5974d7757161ae000187d26b"
+        ],
+        "customHours": false,
+        "utc": "-07:00",
+        "statementDescriptor": {
+          "name": "THE MISFIT RESTAUR",
+          "plaid": { "name": "The Misfit Restaurant + Bar" }
+        },
+        "photos": [
+          {
+            "_id": "59c2cad1c16a350001bf61a7",
+            "timestamp": "2017-09-20T20:08:49.292Z",
+            "isPrimary": true,
+            "url": "https://igx.4sqi.net/img/general/560x350/4584204_Kc1wiMdwxKDqCcxjLz7aPHOHXCgfJMk4fSefOZIuUS0.jpg"
+          }
+        ],
+        "tags": [],
+        "cuisines": [],
+        "contacts": ["+1 (843) 834-0041"],
+        "coordinates": [],
+        "geo": [-118.49657193629318, 34.01544216399593],
+        "categories": ["56543627baa3a97c455d0fd8", "5872c2d0d8d6cc000122e968"],
+        "phone": { "work": "3106569800", "mobile": null },
+        "zipcode": "90401",
+        "state": "CA",
+        "city": "Santa Monica",
+        "address": "225 Santa Monica Blvd",
+        "name": "The Misfit Restaurant + Bar",
+        "mid": null,
+        "activationCode": null,
+        "created": "2017-03-30T00:23:51.928Z"
+      },
+      "user": "59c3f70d63c6484aa3cc10b5",
+      "__v": 9,
+      "createdAt": "2017-08-15T05:41:31.870Z",
+      "updatedAt": "2017-09-21T17:39:25.406Z",
+      "waitlist": [],
+      "_place": {
+        "_id": "58c9be95a1fd30d7cfe35ddd",
+        "id": "4da4bb1d0f578cfaafdbd518"
+      },
+      "_location": {
+        "_id": "58dc501770c1fb0044619e48",
+        "name": "The Misfit Restaurant + Bar",
+        "geo": [-118.49657193629318, 34.01544216399593],
+        "categories": [
+          { "_id": "56543627baa3a97c455d0fd8", "name": "Drink" },
+          { "_id": "5872c2d0d8d6cc000122e968", "name": "All" }
+        ],
+        "utc": "-07:00"
+      },
+      "hours": [
+        {
+          "_id": "59c2cad2c16a350001bf61ae",
+          "close": { "time": 2300, "day": 0 },
+          "open": { "time": 1030, "day": 0 }
+        },
+        {
+          "_id": "59c2cad2c16a350001bf61ad",
+          "close": { "time": 0, "day": 2 },
+          "open": { "time": 1200, "day": 1 }
+        },
+        {
+          "_id": "59c2cad2c16a350001bf61ac",
+          "close": { "time": 0, "day": 3 },
+          "open": { "time": 1200, "day": 2 }
+        },
+        {
+          "_id": "59c2cad2c16a350001bf61ab",
+          "close": { "time": 0, "day": 4 },
+          "open": { "time": 1200, "day": 3 }
+        },
+        {
+          "_id": "59c2cad2c16a350001bf61aa",
+          "close": { "time": 100, "day": 5 },
+          "open": { "time": 1200, "day": 4 }
+        },
+        {
+          "_id": "59c2cad2c16a350001bf61a9",
+          "close": { "time": 100, "day": 6 },
+          "open": { "time": 1200, "day": 5 }
+        },
+        {
+          "_id": "59c2cad2c16a350001bf61a8",
+          "close": { "time": 100, "day": 0 },
+          "open": { "time": 1100, "day": 6 }
+        }
+      ],
+      "ui": {
+        "showCouponName": false,
+        "showQRCode": false,
+        "showPIN": true,
+        "timeInSeconds": 900
+      },
+      "dailyLimit": 0,
+      "upTo": true,
+      "tags": [],
+      "featured": [],
+      "photos": [
+        {
+          "_id": "59c2cad1c16a350001bf61a7",
+          "isPrimary": true,
+          "url": "https://igx.4sqi.net/img/general/560x350/4584204_Kc1wiMdwxKDqCcxjLz7aPHOHXCgfJMk4fSefOZIuUS0.jpg"
+        }
+      ],
+      "branchLink": "http://my.fbird.co/ZxxU/XfpNIWyh4F",
+      "private": false,
+      "pin": null,
+      "geoFenceTimer": 10,
+      "ridesRedeemed": -5,
+      "ridesCount": 0,
+      "budget": 0,
+      "serviceFee": 2,
+      "rideContribution": 4,
+      "offerIsFreeTrial": true,
+      "types": ["linked"],
+      "status": "active",
+      "enabled": true,
+      "description": "",
+      "title": "The Misfit Restaurant + Bar",
+      "createdFromSearch": true,
+      "id": "5992898c710880a8e72a53b4",
+      "isSearchResult": true,
+      "isOpen": true
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+[
+  {
+    "roles": ["admin", "superadmin"],
+    "status": "ENABLED",
+    "_id": "5e2a20f60e57ac0007e54fbe",
+    "firstName": "Rich",
+    "lastName": "Tillman",
+    "email": "rich@freebirdrides.com",
+    "partnerId": null
+  },
+  {
+    "roles": ["partner"],
+    "status": "ENABLED",
+    "_id": "5e2a22aaabfa2600085d917c",
+    "firstName": "Rich",
+    "lastName": "Tillman",
+    "email": "richtillman@gmail.com",
+    "partnerId": "5e2a22aaabfa2600085d917b"
+  },
+  {
+    "roles": ["partner"],
+    "status": "ENABLED",
+    "_id": "5e2a2488abfa2600085d917e",
+    "firstName": "Rich",
+    "lastName": "Tillman",
+    "email": "richtillman+1@gmail.com",
+    "partnerId": "5e2a2488abfa2600085d917d"
+  },
+  {
+    "roles": ["partner"],
+    "status": "ENABLED",
+    "_id": "5e2b664b77ffda000ad4b950",
+    "firstName": "Rich",
+    "lastName": "Tillman",
+    "email": "ric.htillman@gmail.com",
+    "partnerId": "5e2b664b77ffda000ad4b94f"
+  },
+  {
+    "roles": ["partner"],
+    "status": "ENABLED",
+    "_id": "5e2b6e84c96db00007f938e4",
+    "firstName": "Rich",
+    "lastName": "Tillman",
+    "email": "rich.tillman@gmail.com",
+    "partnerId": "5e2b6e84c96db00007f938e3"
+  },
+  {
+    "roles": ["partner"],
+    "status": "ENABLED",
+    "_id": "5e2b769dda21410008a8af1a",
+    "firstName": "Rich",
+    "lastName": "Tillman",
+    "email": "richt.illman@gmail.com",
+    "partnerId": "5e2b769dda21410008a8af19"
+  },
+  {
+    "roles": ["partner"],
+    "status": "ENABLED",
+    "_id": "5e2b78c0da21410008a8af1c",
+    "firstName": "Rich",
+    "lastName": "Tillman",
+    "email": "richtil.lman@gmail.com",
+    "partnerId": "5e2b78bfda21410008a8af1b"
+  },
+  {
+    "roles": ["partner"],
+    "status": "ENABLED",
+    "_id": "5e2b796ada21410008a8af1e",
+    "firstName": "Rich",
+    "lastName": "Tillman",
+    "email": "richtillman+2@gmail.com",
+    "partnerId": "5e2b796ada21410008a8af1d"
+  },
+  {
+    "roles": ["partner"],
+    "status": "ENABLED",
+    "_id": "5e2b7a5fda21410008a8af20",
+    "firstName": "Rich",
+    "lastName": "Tillman",
+    "email": "richtill.man@gmail.com",
+    "partnerId": "5e2b7a5fda21410008a8af1f"
+  },
+  {
+    "roles": ["partner"],
+    "status": "ENABLED",
+    "_id": "5e2b82ca59e80d000805220c",
+    "firstName": "Rich",
+    "lastName": "Tillman",
+    "email": "richtillman+3@gmail.com",
+    "partnerId": "5e2b82ca59e80d000805220b"
+  },
+  {
+    "roles": ["partner"],
+    "status": "ENABLED",
+    "_id": "5e33602a4571ae00073c763b",
+    "firstName": "Adam",
+    "lastName": "Duro",
+    "email": "duro+coffeebean@freebirdrides.com",
+    "partnerId": "5e33602a4571ae00073c763a"
+  },
+  {
+    "roles": ["partner"],
+    "status": "ENABLED",
+    "_id": "5e348b9b57ef4c00086353df",
+    "firstName": "Todd",
+    "lastName": "Rungren",
+    "email": "richtillman+6@gmail.com",
+    "partnerId": "5e348b9b57ef4c00086353de"
+  },
+  {
+    "roles": ["partner"],
+    "status": "ENABLED",
+    "_id": "5e348bdd57ef4c00086353e1",
+    "firstName": "Rich",
+    "lastName": "Tillman",
+    "email": "richtillman+abc@gmail.com",
+    "partnerId": "5e348bdd57ef4c00086353e0"
+  },
+  {
+    "roles": ["partner"],
+    "status": "ENABLED",
+    "_id": "5e348cc457ef4c00086353e3",
+    "firstName": "Rich",
+    "lastName": "Tillman",
+    "email": "richtillman+5@gmail.com",
+    "partnerId": "5e348cc457ef4c00086353e2"
+  },
+  {
+    "roles": ["partner"],
+    "status": "ENABLED",
+    "_id": "5e3a3516cd1ab60008ad9798",
+    "firstName": "Rich",
+    "lastName": "Tillman",
+    "email": "richtillman+steak@gmail.com",
+    "partnerId": "5e3a3516cd1ab60008ad9797"
+  },
+  {
+    "roles": ["partner"],
+    "status": "ENABLED",
+    "_id": "5e470e8eb4070b0008015aa3",
+    "firstName": "Rich",
+    "lastName": "Tillman",
+    "email": "richtillman+lobster@gmail.com",
+    "partnerId": "5e470e8eb4070b0008015aa2"
+  },
+  {
+    "roles": ["superadmin"],
+    "status": "ENABLED",
+    "_id": "5e2a22aaabfa2600085d917d",
+    "firstName": "Brandon",
+    "lastName": "Williams",
+    "email": "bsotekky88@gmail.com",
+    "partnerId": null
+  },
+  {
+    "roles": ["superadmin"],
+    "status": "ENABLED",
+    "_id": "5e2a22aaabfa2600085d918d",
+    "firstName": "Shelby",
+    "lastName": "Scott",
+    "email": "sscott1991@gmail.com",
+    "partnerId": null
+  },
+  {
+    "roles": ["superadmin"],
+    "status": "ENABLED",
+    "_id": "5e5465270714140007fab362",
+    "firstName": "Dani",
+    "lastName": "Thompson",
+    "email": "dani@freebirdrides.com",
+    "partnerId": null
+  },
+  {
+    "roles": ["superadmin"],
+    "status": "ENABLED",
+    "_id": "5e54676d0714140007fab366",
+    "firstName": "Dani",
+    "lastName": "Thompson",
+    "email": "rich-test@freebirdrides.com",
+    "partnerId": null
+  },
+  {
+    "roles": ["superadmin"],
+    "status": "ENABLED",
+    "_id": "5e55877e2ec0260008fd7a45",
+    "firstName": "Eric",
+    "lastName": "Vandenberg",
+    "email": "evandenberg@freebirdrides.com",
+    "partnerId": null
+  },
+  {
+    "roles": ["partner"],
+    "status": "ENABLED",
+    "_id": "5e710e33880e570008534e50",
+    "firstName": "Richard",
+    "lastName": "Tillman",
+    "email": "richtillman+whatevs@gmail.com",
+    "partnerId": "5e710e33880e570008534e4f"
+  },
+  {
+    "roles": ["partner"],
+    "status": "ENABLED",
+    "_id": "5e710f89880e570008534e52",
+    "firstName": "Richard",
+    "lastName": "Tillman",
+    "email": "richtillman+wtf@gmail.com",
+    "partnerId": "5e710f89880e570008534e51"
+  },
+  {
+    "roles": ["partner"],
+    "status": "ENABLED",
+    "_id": "5e71325e409cea0008bdafcb",
+    "firstName": "Dane",
+    "lastName": "Schoonover",
+    "email": "dschoonover@freebirdrides.com",
+    "partnerId": "5e71325e409cea0008bdafca"
+  },
+  {
+    "roles": ["partner"],
+    "status": "ENABLED",
+    "_id": "5e71518fdd31a10008ab79b8",
+    "firstName": "Rich",
+    "lastName": "Tillman",
+    "email": "richtillman+wtf2@gmail.com",
+    "partnerId": "5e71518fdd31a10008ab79b7"
+  },
+  {
+    "roles": ["partner"],
+    "status": "ENABLED",
+    "_id": "5e7163400d46b500081ed1a7",
+    "firstName": "Rich",
+    "lastName": "Tillman",
+    "email": "richtillman+what@gmail.com",
+    "partnerId": "5e7163400d46b500081ed1a6"
+  },
+  {
+    "roles": ["partner"],
+    "status": "ENABLED",
+    "_id": "5e716e430d46b500081ed1a9",
+    "firstName": "Rich",
+    "lastName": "Tillman",
+    "email": "richtillma.n@gmail.com",
+    "partnerId": "5e716e430d46b500081ed1a8"
+  },
+  {
+    "roles": ["partner"],
+    "status": "ENABLED",
+    "_id": "5e716e470d46b500081ed1ab",
+    "firstName": "Rich",
+    "lastName": "Tillman",
+    "email": "richtillman+huh@gmail.com",
+    "partnerId": "5e716e470d46b500081ed1aa"
+  },
+  {
+    "roles": ["partner"],
+    "status": "ENABLED",
+    "_id": "5e73d994626d0a0008c8e873",
+    "firstName": "Rich",
+    "lastName": "Tillman",
+    "email": "richtillman+pizza@gmail.com",
+    "partnerId": "5e73d994626d0a0008c8e872"
+  },
+  {
+    "roles": ["partner"],
+    "status": "ENABLED",
+    "_id": "5e73e0cc626d0a0008c8e875",
+    "firstName": "Rich",
+    "lastName": "Tillman",
+    "email": "richtillman+hut@gmail.com",
+    "partnerId": "5e73e0cc626d0a0008c8e874"
+  },
+  {
+    "roles": ["admin", "superadmin"],
+    "status": "ENABLED",
+    "_id": "5e79292566ef8e0007f7dd84",
+    "firstName": "Kevin Jay",
+    "lastName": "Dela Cruz",
+    "email": "kevin@freebirdrides.com",
+    "partnerId": null
+  },
+  {
+    "roles": ["admin", "superadmin"],
+    "status": "ENABLED",
+    "_id": "5e7a9a7c5443b00008a5b53c",
+    "firstName": "Clayton",
+    "lastName": "Graff",
+    "email": "clayton@freebirdrides.com",
+    "partnerId": null
+  },
+  {
+    "roles": ["admin", "superadmin"],
+    "status": "ENABLED",
+    "_id": "5e8e5640dabd450008b62f40",
+    "firstName": "Dane",
+    "lastName": "Schoonover",
+    "email": "schoonoverdane@gmail.com",
+    "partnerId": null
+  },
+  {
+    "roles": ["admin", "superadmin"],
+    "status": "ENABLED",
+    "_id": "5ebc2d41fc63c2000920aeb3",
+    "firstName": "Jesse",
+    "lastName": "Cooper",
+    "email": "jcooper@freebirdrides.com",
+    "partnerId": null
+  },
+  {
+    "roles": ["partner"],
+    "status": "ENABLED",
+    "_id": "5ec6e49165328b0007a267a8",
+    "firstName": "Rich",
+    "lastName": "Tillman",
+    "email": "richtillman+foo@gmail.com",
+    "partnerId": "5ec6e49165328b0007a267a7"
+  },
+  {
+    "roles": ["partner"],
+    "status": "ENABLED",
+    "_id": "5ec729c860d649000857ca0a",
+    "firstName": "Rich",
+    "lastName": "Tillman",
+    "email": "richtillman+bar@gmail.com",
+    "partnerId": "5ec729c860d649000857ca09"
+  },
+  {
+    "roles": ["partner"],
+    "status": "ENABLED",
+    "_id": "5ec72f6b60d649000857ca0c",
+    "firstName": "Rich",
+    "lastName": "Tillman",
+    "email": "richtillman+fubar@gmail.com",
+    "partnerId": "5ec72f6b60d649000857ca0b"
+  },
+  {
+    "roles": ["partner"],
+    "status": "ENABLED",
+    "_id": "5ec8218366bc500007b7b211",
+    "firstName": "Rich",
+    "lastName": "Tillman",
+    "email": "richtillman+foo2@gmail.com",
+    "partnerId": "5ec8218366bc500007b7b210"
+  },
+  {
+    "roles": ["partner"],
+    "status": "ENABLED",
+    "_id": "5ec846a8cc547a00078e5a48",
+    "firstName": "Rich",
+    "lastName": "Tillman",
+    "email": "richtillman+foo3@gmail.com",
+    "partnerId": "5ec846a8cc547a00078e5a47"
+  },
+  {
+    "roles": ["partner"],
+    "status": "ENABLED",
+    "_id": "5ec86799d8af40000894efff",
+    "firstName": "Rich",
+    "lastName": "Tillman",
+    "email": "richtillman+gd@gmail.com",
+    "partnerId": "5ec86799d8af40000894effe"
+  },
+  {
+    "roles": ["partner"],
+    "status": "ENABLED",
+    "_id": "5ec867a0d8af40000894f001",
+    "firstName": "Rich",
+    "lastName": "Tillman",
+    "email": "richtillman+foo4@gmail.com",
+    "partnerId": "5ec867a0d8af40000894f000"
+  },
+  {
+    "roles": ["partner"],
+    "status": "ENABLED",
+    "_id": "5ecd5d04b3dc930008ef891f",
+    "firstName": "Rich",
+    "lastName": "Tillman",
+    "email": "richtillman+foo5@gmail.com",
+    "partnerId": "5ecd5d04b3dc930008ef891e"
+  }
+]
